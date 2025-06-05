@@ -1,0 +1,362 @@
+{"input": "Maybe we could meet this weekend?", "output": {"title": "Meet", "date": "this weekend", "type": "event"}}
+{"input": "Возможно, встретимся на выходных", "output": {"title": "Встретимся", "date": "выходные", "type": "event"}}
+{"input": "I think I have something going on", "output": {}}
+{"input": "Наверное, у меня что-то есть", "output": {}}
+{"input": "Christmas dinner with family", "output": {"title": "Christmas dinner with family", "date": "Christmas", "type": "event"}}
+{"input": "Наурыз байрам с родственниками", "output": {"title": "Наурыз байрам с родственниками", "date": "Наурыз", "type": "event"}}
+{"input": "Hey how are you doing? Maybe lunch sometime next week?", "output": {"title": "Lunch", "date": "sometime next week", "type": "event"}}
+{"input": "Привет! Как дела? Может, пообедаем на той неделе?", "output": {"title": "Пообедаем", "date": "на той неделе", "type": "event"}}
+{"input": "I'm not sure when I'm free", "output": {}}
+{"input": "Не уверен, когда буду свободен", "output": {}}
+{"input": "New Year's Eve party planning", "output": {"title": "New Year's Eve party planning", "date": "New Year's Eve", "type": "event"}}
+{"input": "Подготовка к Новому году", "output": {"title": "Подготовка к Новому году", "date": "Новый год", "type": "event"}}
+{"input": "We should definitely catch up soon", "output": {"title": "Catch up", "date": "soon", "type": "event"}}
+{"input": "Определенно нужно увидеться в ближайшее время", "output": {"title": "Увидеться", "date": "в ближайшее время", "type": "event"}}
+{"input": "I'm thinking about it", "output": {}}
+{"input": "Я думаю об этом", "output": {}}
+{"input": "Easter brunch with the extended family", "output": {"title": "Easter brunch with the extended family", "date": "Easter", "type": "event"}}
+{"input": "Курбан айт с семьей", "output": {"title": "Курбан айт с семьей", "date": "Курбан айт", "type": "event"}}
+{"input": "Nice weather today, isn't it? Oh, by the way, dinner tomorrow?", "output": {"title": "Dinner", "date": "tomorrow", "type": "event"}}
+{"input": "Хорошая погода сегодня, да? Кстати, ужин завтра?", "output": {"title": "Ужин", "date": "завтра", "type": "event"}}
+{"input": "I might be busy", "output": {}}
+{"input": "Возможно, буду занят", "output": {}}
+{"input": "Thanksgiving dinner preparations", "output": {"title": "Thanksgiving dinner preparations", "date": "Thanksgiving", "type": "event"}}
+{"input": "Подготовка к Рамазан байрам", "output": {"title": "Подготовка к Рамазан байрам", "date": "Рамазан байрам", "type": "event"}}
+{"input": "Let me check my calendar and get back to you", "output": {}}
+{"input": "Дай мне проверить календарь и отвечу тебе", "output": {}}
+{"input": "Valentine's Day restaurant reservation", "output": {"title": "Valentine's Day restaurant reservation", "date": "Valentine's Day", "type": "event"}}
+{"input": "Бронирование ресторана на 8 марта", "output": {"title": "Бронирование ресторана", "date": "8 марта", "type": "event"}}
+{"input": "Sounds good, but when exactly?", "output": {}}
+{"input": "Звучит хорошо, но когда именно?", "output": {}}
+{"input": "Fourth of July barbecue planning", "output": {"title": "Fourth of July barbecue planning", "date": "Fourth of July", "type": "event"}}
+{"input": "Планирование шашлыка на День Победы", "output": {"title": "Планирование шашлыка", "date": "День Победы", "type": "event"}}
+{"input": "I'll have to see", "output": {}}
+{"input": "Мне нужно подумать", "output": {}}
+{"input": "Halloween costume shopping", "output": {"title": "Halloween costume shopping", "date": "Halloween", "type": "event"}}
+{"input": "Покупка подарков к Дню учителя", "output": {"title": "Покупка подарков", "date": "День учителя", "type": "event"}}
+{"input": "That's a great idea, but I'm not sure about timing", "output": {}}
+{"input": "Отличная идея, но я не уверен насчет времени", "output": {}}
+{"input": "Mother's Day brunch maybe?", "output": {"title": "Mother's Day brunch", "date": "Mother's Day", "type": "event"}}
+{"input": "Может быть, обед на День матери?", "output": {"title": "Обед", "date": "День матери", "type": "event"}}
+{"input": "Probably not this time", "output": {}}
+{"input": "Наверное, не в этот раз", "output": {}}
+{"input": "Father's Day golf outing", "output": {"title": "Father's Day golf outing", "date": "Father's Day", "type": "event"}}
+{"input": "Поход на футбол в День защитника Отечества", "output": {"title": "Поход на футбол", "date": "День защитника Отечества", "type": "event"}}
+{"input": "We'll figure it out later", "output": {}}
+{"input": "Разберемся позже", "output": {}}
+{"input": "Labor Day weekend getaway", "output": {"title": "Labor Day weekend getaway", "date": "Labor Day weekend", "type": "event"}}
+{"input": "Поездка на майские праздники", "output": {"title": "Поездка", "date": "майские праздники", "type": "event"}}
+{"input": "I'm quite busy these days", "output": {}}
+{"input": "Я довольно занят в эти дни", "output": {}}
+{"input": "Memorial Day ceremony attendance", "output": {"title": "Memorial Day ceremony attendance", "date": "Memorial Day", "type": "event"}}
+{"input": "Посещение парада на День независимости", "output": {"title": "Посещение парада", "date": "День независимости", "type": "event"}}
+{"input": "Let's talk about it more", "output": {}}
+{"input": "Давайте поговорим об этом подробнее", "output": {}}
+{"input": "Presidents Day sale shopping", "output": {"title": "Presidents Day sale shopping", "date": "Presidents Day", "type": "event"}}
+{"input": "Шопинг в День знаний", "output": {"title": "Шопинг", "date": "День знаний", "type": "event"}}
+{"input": "I need to think about it", "output": {}}
+{"input": "Мне нужно об этом подумать", "output": {}}
+{"input": "Martin Luther King Day volunteer work", "output": {"title": "Martin Luther King Day volunteer work", "date": "Martin Luther King Day", "type": "event"}}
+{"input": "Волонтерская работа в День единства", "output": {"title": "Волонтерская работа", "date": "День единства", "type": "event"}}
+{"input": "Maybe another time would be better", "output": {}}
+{"input": "Возможно, в другой раз было бы лучше", "output": {}}
+{"input": "Columbus Day weekend trip", "output": {"title": "Columbus Day weekend trip", "date": "Columbus Day weekend", "type": "event"}}
+{"input": "Поездка на день рождения Назарбаева", "output": {"title": "Поездка", "date": "день рождения Назарбаева", "type": "event"}}
+{"input": "I'm not really available", "output": {}}
+{"input": "Я не очень доступен", "output": {}}
+{"input": "Veterans Day parade viewing", "output": {"title": "Veterans Day parade viewing", "date": "Veterans Day", "type": "event"}}
+{"input": "Просмотр парада в День Конституции", "output": {"title": "Просмотр парада", "date": "День Конституции", "type": "event"}}
+{"input": "That sounds complicated", "output": {}}
+{"input": "Это звучит сложно", "output": {}}
+{"input": "Cinco de Mayo celebration", "output": {"title": "Cinco de Mayo celebration", "date": "Cinco de Mayo", "type": "event"}}
+{"input": "Празднование Дня языков", "output": {"title": "Празднование", "date": "День языков", "type": "event"}}
+{"input": "I'll pass this time", "output": {}}
+{"input": "Я пропущу в этот раз", "output": {}}
+{"input": "St. Patrick's Day festivities", "output": {"title": "St. Patrick's Day festivities", "date": "St. Patrick's Day", "type": "event"}}
+{"input": "Торжества на День города", "output": {"title": "Торжества", "date": "День города", "type": "event"}}
+{"input": "Hmm, not sure about that", "output": {}}
+{"input": "Хм, не уверен насчет этого", "output": {}}
+{"input": "Groundhog Day morning event", "output": {"title": "Groundhog Day morning event", "date": "Groundhog Day", "type": "event"}}
+{"input": "Утреннее мероприятие на Масленицу", "output": {"title": "Утреннее мероприятие", "date": "Масленица", "type": "event"}}
+{"input": "That's too far in advance to plan", "output": {}}
+{"input": "Это слишком далеко, чтобы планировать", "output": {}}
+{"input": "Black Friday shopping marathon", "output": {"title": "Black Friday shopping marathon", "date": "Black Friday", "type": "event"}}
+{"input": "Марафон покупок в Черную пятницу", "output": {"title": "Марафон покупок", "date": "Черная пятница", "type": "event"}}
+{"input": "I can't commit to anything right now", "output": {}}
+{"input": "Я не могу ни к чему обязываться прямо сейчас", "output": {}}
+{"input": "Cyber Monday deals hunting", "output": {"title": "Cyber Monday deals hunting", "date": "Cyber Monday", "type": "event"}}
+{"input": "Охота за скидками в киберпонедельник", "output": {"title": "Охота за скидками", "date": "киберпонедельник", "type": "event"}}
+{"input": "Let me see what comes up", "output": {}}
+{"input": "Посмотрим, что получится", "output": {}}
+{"input": "Mardi Gras parade watching", "output": {"title": "Mardi Gras parade watching", "date": "Mardi Gras", "type": "event"}}
+{"input": "Просмотр карнавала", "output": {"title": "Просмотр карнавала", "date": "карнавал", "type": "event"}}
+{"input": "I'm undecided at the moment", "output": {}}
+{"input": "Я пока не определился", "output": {}}
+{"input": "April Fool's Day prank planning", "output": {"title": "April Fool's Day prank planning", "date": "April Fool's Day", "type": "event"}}
+{"input": "Планирование розыгрыша на День смеха", "output": {"title": "Планирование розыгрыша", "date": "День смеха", "type": "event"}}
+{"input": "I'll have to check with my family first", "output": {}}
+{"input": "Мне нужно сначала посоветоваться с семьей", "output": {}}
+{"input": "Earth Day cleanup volunteering", "output": {"title": "Earth Day cleanup volunteering", "date": "Earth Day", "type": "event"}}
+{"input": "Волонтерство по уборке в День экологии", "output": {"title": "Волонтерство по уборке", "date": "День экологии", "type": "event"}}
+{"input": "That's still up in the air", "output": {}}
+{"input": "Это еще под вопросом", "output": {}}
+{"input": "Administrative Professionals Day appreciation", "output": {"title": "Administrative Professionals Day appreciation", "date": "Administrative Professionals Day", "type": "event"}}
+{"input": "Поздравления в День работника", "output": {"title": "Поздравления", "date": "День работника", "type": "event"}}
+{"input": "I'm really swamped these days", "output": {}}
+{"input": "Я действительно завален работой в эти дни", "output": {}}
+{"input": "Boss's Day gift preparation", "output": {"title": "Boss's Day gift preparation", "date": "Boss's Day", "type": "event"}}
+{"input": "Подготовка подарка на День руководителя", "output": {"title": "Подготовка подарка", "date": "День руководителя", "type": "event"}}
+{"input": "Maybe if my schedule clears up", "output": {}}
+{"input": "Возможно, если расписание освободится", "output": {}}
+{"input": "Sweetest Day romantic dinner", "output": {"title": "Sweetest Day romantic dinner", "date": "Sweetest Day", "type": "event"}}
+{"input": "Романтический ужин в День влюбленных", "output": {"title": "Романтический ужин", "date": "День влюбленных", "type": "event"}}
+{"input": "I'm not making any plans yet", "output": {}}
+{"input": "Я пока не строю никаких планов", "output": {}}
+{"input": "Grandparents Day family gathering", "output": {"title": "Grandparents Day family gathering", "date": "Grandparents Day", "type": "event"}}
+{"input": "Семейное собрание в День пожилых людей", "output": {"title": "Семейное собрание", "date": "День пожилых людей", "type": "event"}}
+{"input": "That depends on a lot of factors", "output": {}}
+{"input": "Это зависит от многих факторов", "output": {}}
+{"input": "National Siblings Day celebration", "output": {"title": "National Siblings Day celebration", "date": "National Siblings Day", "type": "event"}}
+{"input": "Празднование Дня семьи", "output": {"title": "Празднование", "date": "День семьи", "type": "event"}}
+{"input": "I'll see how things go", "output": {}}
+{"input": "Посмотрю, как дела пойдут", "output": {}}
+{"input": "World Health Day awareness event", "output": {"title": "World Health Day awareness event", "date": "World Health Day", "type": "event"}}
+{"input": "Мероприятие в День здоровья", "output": {"title": "Мероприятие", "date": "День здоровья", "type": "event"}}
+{"input": "I'm pretty tied up lately", "output": {}}
+{"input": "Я довольно связан в последнее время", "output": {}}
+{"input": "World Environment Day tree planting", "output": {"title": "World Environment Day tree planting", "date": "World Environment Day", "type": "event"}}
+{"input": "Посадка деревьев в День окружающей среды", "output": {"title": "Посадка деревьев", "date": "День окружающей среды", "type": "event"}}
+{"input": "I need to see what else is happening", "output": {}}
+{"input": "Мне нужно посмотреть, что еще происходит", "output": {}}
+{"input": "International Women's Day breakfast", "output": {"title": "International Women's Day breakfast", "date": "International Women's Day", "type": "event"}}
+{"input": "Завтрак в Международный женский день", "output": {"title": "Завтрак", "date": "Международный женский день", "type": "event"}}
+{"input": "That's too tentative for me", "output": {}}
+{"input": "Это слишком предварительно для меня", "output": {}}
+{"input": "World Book Day reading event", "output": {"title": "World Book Day reading event", "date": "World Book Day", "type": "event"}}
+{"input": "Читательское мероприятие в День книги", "output": {"title": "Читательское мероприятие", "date": "День книги", "type": "event"}}
+{"input": "I'm keeping my options open", "output": {}}
+{"input": "Я оставляю свои варианты открытыми", "output": {}}
+{"input": "International Children's Day activities", "output": {"title": "International Children's Day activities", "date": "International Children's Day", "type": "event"}}
+{"input": "Мероприятия в День защиты детей", "output": {"title": "Мероприятия", "date": "День защиты детей", "type": "event"}}
+{"input": "Not sure if I can make it work", "output": {}}
+{"input": "Не уверен, что смогу это организовать", "output": {}}
+{"input": "World Peace Day meditation", "output": {"title": "World Peace Day meditation", "date": "World Peace Day", "type": "event"}}
+{"input": "Медитация в День мира", "output": {"title": "Медитация", "date": "День мира", "type": "event"}}
+{"input": "Let me think it over", "output": {}}
+{"input": "Дай мне это обдумать", "output": {}}
+{"input": "International Friendship Day meetup", "output": {"title": "International Friendship Day meetup", "date": "International Friendship Day", "type": "event"}}
+{"input": "Встреча в День дружбы", "output": {"title": "Встреча", "date": "День дружбы", "type": "event"}}
+{"input": "I'm hesitant to commit", "output": {}}
+{"input": "Я колеблюсь взять на себя обязательства", "output": {}}
+{"input": "World Music Day concert attendance", "output": {"title": "World Music Day concert attendance", "date": "World Music Day", "type": "event"}}
+{"input": "Посещение концерта в День музыки", "output": {"title": "Посещение концерта", "date": "День музыки", "type": "event"}}
+{"input": "That's way too uncertain", "output": {}}
+{"input": "Это слишком неопределенно", "output": {}}
+{"input": "International Dance Day performance", "output": {"title": "International Dance Day performance", "date": "International Dance Day", "type": "event"}}
+{"input": "Выступление в День танца", "output": {"title": "Выступление", "date": "День танца", "type": "event"}}
+{"input": "I can't plan that far ahead", "output": {}}
+{"input": "Я не могу планировать так далеко вперед", "output": {}}
+{"input": "World Art Day gallery visit", "output": {"title": "World Art Day gallery visit", "date": "World Art Day", "type": "event"}}
+{"input": "Посещение галереи в День искусства", "output": {"title": "Посещение галереи", "date": "День искусства", "type": "event"}}
+{"input": "Maybe I'll be available", "output": {}}
+{"input": "Возможно, я буду доступен", "output": {}}
+{"input": "World Theater Day show", "output": {"title": "World Theater Day show", "date": "World Theater Day", "type": "event"}}
+{"input": "Спектакль в День театра", "output": {"title": "Спектакль", "date": "День театра", "type": "event"}}
+{"input": "I'll get back to you on that", "output": {}}
+{"input": "Я вернусь к тебе по этому поводу", "output": {}}
+{"input": "World Wildlife Day nature walk", "output": {"title": "World Wildlife Day nature walk", "date": "World Wildlife Day", "type": "event"}}
+{"input": "Прогулка на природе в День дикой природы", "output": {"title": "Прогулка на природе", "date": "День дикой природы", "type": "event"}}
+{"input": "I'm waiting to see how things pan out", "output": {}}
+{"input": "Я жду, чтобы увидеть, как все обернется", "output": {}}
+{"input": "World Food Day cooking class", "output": {"title": "World Food Day cooking class", "date": "World Food Day", "type": "event"}}
+{"input": "Кулинарный класс в День еды", "output": {"title": "Кулинарный класс", "date": "День еды", "type": "event"}}
+{"input": "That's still being discussed", "output": {}}
+{"input": "Это еще обсуждается", "output": {}}
+{"input": "World Teachers' Day appreciation event", "output": {"title": "World Teachers' Day appreciation event", "date": "World Teachers' Day", "type": "event"}}
+{"input": "Мероприятие благодарности в День учителя", "output": {"title": "Мероприятие благодарности", "date": "День учителя", "type": "event"}}
+{"input": "I'm not ready to decide", "output": {}}
+{"input": "Я не готов решать", "output": {}}
+{"input": "World Mental Health Day seminar", "output": {"title": "World Mental Health Day seminar", "date": "World Mental Health Day", "type": "event"}}
+{"input": "Семинар в День психического здоровья", "output": {"title": "Семинар", "date": "День психического здоровья", "type": "event"}}
+{"input": "Let's see what develops", "output": {}}
+{"input": "Посмотрим, что произойдет", "output": {}}
+{"input": "International Coffee Day tasting", "output": {"title": "International Coffee Day tasting", "date": "International Coffee Day", "type": "event"}}
+{"input": "Дегустация в День кофе", "output": {"title": "Дегустация", "date": "День кофе", "type": "event"}}
+{"input": "I'm keeping that slot open for now", "output": {}}
+{"input": "Я пока оставляю это время свободным", "output": {}}
+{"input": "World Science Day presentation", "output": {"title": "World Science Day presentation", "date": "World Science Day", "type": "event"}}
+{"input": "Презентация в День науки", "output": {"title": "Презентация", "date": "День науки", "type": "event"}}
+{"input": "That's too vague to commit to", "output": {}}
+{"input": "Это слишком расплывчато, чтобы брать обязательства", "output": {}}
+{"input": "International Volunteer Day activities", "output": {"title": "International Volunteer Day activities", "date": "International Volunteer Day", "type": "event"}}
+{"input": "Мероприятия в День волонтера", "output": {"title": "Мероприятия", "date": "День волонтера", "type": "event"}}
+{"input": "I need more details first", "output": {}}
+{"input": "Мне нужно больше деталей сначала", "output": {}}
+{"input": "Universal Children's Day festival", "output": {"title": "Universal Children's Day festival", "date": "Universal Children's Day", "type": "event"}}
+{"input": "Фестиваль в Всемирный день ребенка", "output": {"title": "Фестиваль", "date": "Всемирный день ребенка", "type": "event"}}
+{"input": "I'm not sure that's realistic", "output": {}}
+{"input": "Я не уверен, что это реалистично", "output": {}}
+{"input": "Hey, great weather today! By the way, maybe coffee later this week?", "output": {"title": "Coffee", "date": "later this week", "type": "event"}}
+{"input": "Привет, отличная погода! Кстати, может, кофе на этой неделе?", "output": {"title": "Кофе", "date": "на этой неделе", "type": "event"}}
+{"input": "Not sure what my schedule looks like", "output": {}}
+{"input": "Не знаю, как выглядит мое расписание", "output": {}}
+{"input": "Did you watch the game last night? Oh, and dinner sometime?", "output": {"title": "Dinner", "date": "sometime", "type": "event"}}
+{"input": "Ты смотрел игру вчера? И ужин когда-нибудь?", "output": {"title": "Ужин", "date": "когда-нибудь", "type": "event"}}
+{"input": "I'll have to see what comes up", "output": {}}
+{"input": "Посмотрю, что будет", "output": {}}
+{"input": "Nice seeing you yesterday! Maybe lunch next month?", "output": {"title": "Lunch", "date": "next month", "type": "event"}}
+{"input": "Приятно было видеть тебя вчера! Может, обед в следующем месяце?", "output": {"title": "Обед", "date": "в следующем месяце", "type": "event"}}
+{"input": "That sounds interesting but I'm not committing", "output": {}}
+{"input": "Звучит интересно, но я не обязуюсь", "output": {}}
+{"input": "How's work going? Speaking of which, team meeting eventually?", "output": {"title": "Team meeting", "date": "eventually", "type": "event"}}
+{"input": "Как дела на работе? Кстати, собрание команды в конце концов?", "output": {"title": "Собрание команды", "date": "в конце концов", "type": "event"}}
+{"input": "I'll keep you posted", "output": {}}
+{"input": "Я буду держать тебя в курсе", "output": {}}
+{"input": "Love your new haircut! And drinks this Friday maybe?", "output": {"title": "Drinks", "date": "this Friday", "type": "event"}}
+{"input": "Нравится твоя новая стрижка! И выпивка в эту пятницу, может быть?", "output": {"title": "Выпивка", "date": "в эту пятницу", "type": "event"}}
+{"input": "I'm playing it by ear", "output": {}}
+{"input": "Я импровизирую", "output": {}}
+{"input": "Crazy traffic this morning! Gym session sometime soon?", "output": {"title": "Gym session", "date": "sometime soon", "type": "event"}}
+{"input": "Безумное движение этим утром! Тренировка в ближайшее время?", "output": {"title": "Тренировка", "date": "в ближайшее время", "type": "event"}}
+{"input": "Let me see what my week looks like", "output": {}}
+{"input": "Посмотрю, как выглядит моя неделя", "output": {}}
+{"input": "Thanks for the book recommendation! Coffee to discuss it?", "output": {"title": "Coffee to discuss", "date": "unspecified", "type": "event"}}
+{"input": "Спасибо за рекомендацию книги! Кофе, чтобы обсудить ее?", "output": {"title": "Кофе для обсуждения", "date": "не указано", "type": "event"}}
+{"input": "That's still in the planning stages", "output": {}}
+{"input": "Это еще на стадии планирования", "output": {}}
+{"input": "Hope your mom is feeling better. Family dinner when she's up for it?", "output": {"title": "Family dinner", "date": "when she's up for it", "type": "event"}}
+{"input": "Надеюсь, твоя мама чувствует себя лучше. Семейный ужин, когда она будет готова?", "output": {"title": "Семейный ужин", "date": "когда она будет готова", "type": "event"}}
+{"input": "I need to figure out my priorities first", "output": {}}
+{"input": "Мне нужно сначала разобраться с приоритетами", "output": {}}
+{"input": "Saw your vacation photos! Beach trip sometime this year?", "output": {"title": "Beach trip", "date": "sometime this year", "type": "event"}}
+{"input": "Видел твои фотографии с отпуска! Поездка на пляж когда-нибудь в этом году?", "output": {"title": "Поездка на пляж", "date": "когда-нибудь в этом году", "type": "event"}}
+{"input": "I'm waiting for things to settle down", "output": {}}
+{"input": "Я жду, когда все уляжется", "output": {}}
+{"input": "Congratulations on the promotion! Celebration dinner?", "output": {"title": "Celebration dinner", "date": "unspecified", "type": "event"}}
+{"input": "Поздравляю с повышением! Праздничный ужин?", "output": {"title": "Праздничный ужин", "date": "не указано", "type": "event"}}
+{"input": "I'm not making any concrete plans", "output": {}}
+{"input": "Я не строю никаких конкретных планов", "output": {}}
+{"input": "Hope the job interview went well! Drinks to celebrate if you got it?", "output": {"title": "Drinks to celebrate", "date": "if you got it", "type": "event"}}
+{"input": "Надеюсь, собеседование прошло хорошо! Выпивка, чтобы отпраздновать, если получил работу?", "output": {"title": "Выпивка для празднования", "date": "если получил работу", "type": "event"}}
+{"input": "Too many variables to consider", "output": {}}
+{"input": "Слишком много переменных для рассмотрения", "output": {}}
+{"input": "Love this restaurant! We should come back here eventually", "output": {"title": "Come back to restaurant", "date": "eventually", "type": "event"}}
+{"input": "Обожаю этот ресторан! Мы должны вернуться сюда в конце концов", "output": {"title": "Вернуться в ресторан", "date": "в конце концов", "type": "event"}}
+{"input": "I'm keeping my calendar flexible", "output": {}}
+{"input": "Я сохраняю гибкость в календаре", "output": {}}
+{"input": "Your presentation was amazing! Team lunch to discuss it further?", "output": {"title": "Team lunch to discuss", "date": "unspecified", "type": "event"}}
+{"input": "Твоя презентация была потрясающей! Командный обед, чтобы обсудить ее дальше?", "output": {"title": "Командный обед для обсуждения", "date": "не указано", "type": "event"}}
+{"input": "Not sure I can make any commitments", "output": {}}
+{"input": "Не уверен, что могу взять на себя какие-либо обязательства", "output": {}}
+{"input": "The weather's perfect for hiking! Mountain trip someday?", "output": {"title": "Mountain trip", "date": "someday", "type": "event"}}
+{"input": "Погода идеальна для походов! Поездка в горы когда-нибудь?", "output": {"title": "Поездка в горы", "date": "когда-нибудь", "type": "event"}}
+{"input": "I'll take it one day at a time", "output": {}}
+{"input": "Я буду жить одним днем", "output": {}}
+{"input": "Just finished reading that book you recommended! Book club meeting?", "output": {"title": "Book club meeting", "date": "unspecified", "type": "event"}}
+{"input": "Только что закончил читать книгу, которую ты рекомендовал! Встреча книжного клуба?", "output": {"title": "Встреча книжного клуба", "date": "не указано", "type": "event"}}
+{"input": "That's too hypothetical for me", "output": {}}
+{"input": "Это слишком гипотетично для меня", "output": {}}
+{"input": "Your garden looks beautiful! Gardening tips session sometime?", "output": {"title": "Gardening tips session", "date": "sometime", "type": "event"}}
+{"input": "Твой сад выглядит красиво! Сессия советов по садоводству когда-нибудь?", "output": {"title": "Сессия советов по садоводству", "date": "когда-нибудь", "type": "event"}}
+{"input": "I prefer to keep things spontaneous", "output": {}}
+{"input": "Я предпочитаю сохранять спонтанность", "output": {}}
+{"input": "Heard you're learning guitar! Jam session when you're ready?", "output": {"title": "Jam session", "date": "when you're ready", "type": "event"}}
+{"input": "Слышал, ты учишься играть на гитаре! Джем-сессия, когда будешь готов?", "output": {"title": "Джем-сессия", "date": "когда будешь готов", "type": "event"}}
+{"input": "I need to see how everything plays out", "output": {}}
+{"input": "Мне нужно посмотреть, как все сложится", "output": {}}
+{"input": "Great movie choice last night! Another movie night soon?", "output": {"title": "Movie night", "date": "soon", "type": "event"}}
+{"input": "Отличный выбор фильма вчера вечером! Еще один киновечер скоро?", "output": {"title": "Киновечер", "date": "скоро", "type": "event"}}
+{"input": "I'm not in a position to plan ahead", "output": {}}
+{"input": "Я не в состоянии планировать заранее", "output": {}}
+{"input": "Your cooking is incredible! Cooking class together?", "output": {"title": "Cooking class together", "date": "unspecified", "type": "event"}}
+{"input": "Твоя готовка невероятна! Кулинарный класс вместе?", "output": {"title": "Кулинарный класс вместе", "date": "не указано", "type": "event"}}
+{"input": "Everything's too uncertain right now", "output": {}}
+{"input": "Все слишком неопределенно прямо сейчас", "output": {}}
+{"input": "Loved the concert! Another music event sometime?", "output": {"title": "Music event", "date": "sometime", "type": "event"}}
+{"input": "Понравился концерт! Еще одно музыкальное мероприятие когда-нибудь?", "output": {"title": "Музыкальное мероприятие", "date": "когда-нибудь", "type": "event"}}
+{"input": "I'm keeping all options open", "output": {}}
+{"input": "Я оставляю все варианты открытыми", "output": {}}
+{"input": "Your workout routine is inspiring! Gym buddy arrangement?", "output": {"title": "Gym buddy arrangement", "date": "unspecified", "type": "event"}}
+{"input": "Твой режим тренировок вдохновляет! Договоренность о спортивном партнере?", "output": {"title": "Договоренность о спортивном партнере", "date": "не указано", "type": "event"}}
+{"input": "I'll cross that bridge when I come to it", "output": {}}
+{"input": "Я решу эту проблему, когда столкнусь с ней", "output": {}}
+{"input": "Thanks for helping with the move! Pizza night as thanks?", "output": {"title": "Pizza night as thanks", "date": "unspecified", "type": "event"}}
+{"input": "Спасибо за помощь с переездом! Вечер пиццы в знак благодарности?", "output": {"title": "Вечер пиццы в знак благодарности", "date": "не указано", "type": "event"}}
+{"input": "I can't make any firm commitments", "output": {}}
+{"input": "Я не могу взять на себя твердые обязательства", "output": {}}
+{"input": "Your art exhibition was fantastic! Studio visit sometime?", "output": {"title": "Studio visit", "date": "sometime", "type": "event"}}
+{"input": "Твоя художественная выставка была фантастической! Посещение студии когда-нибудь?", "output": {"title": "Посещение студии", "date": "когда-нибудь", "type": "event"}}
+{"input": "It's all still very tentative", "output": {}}
+{"input": "Все еще очень предварительно", "output": {}}
+{"input": "Great business idea! Strategy meeting to discuss it?", "output": {"title": "Strategy meeting to discuss", "date": "unspecified", "type": "event"}}
+{"input": "Отличная бизнес-идея! Стратегическая встреча для обсуждения?", "output": {"title": "Стратегическая встреча для обсуждения", "date": "не указано", "type": "event"}}
+{"input": "I'm waiting to see what develops", "output": {}}
+{"input": "Я жду, чтобы увидеть, что произойдет", "output": {}}
+{"input": "Loved your photography! Photo walk together?", "output": {"title": "Photo walk together", "date": "unspecified", "type": "event"}}
+{"input": "Понравилась твоя фотография! Фотопрогулка вместе?", "output": {"title": "Фотопрогулка вместе", "date": "не указано", "type": "event"}}
+{"input": "Too many unknowns to plan anything", "output": {}}
+{"input": "Слишком много неизвестных, чтобы что-то планировать", "output": {}}
+{"input": "Your dance moves are impressive! Dance class together?", "output": {"title": "Dance class together", "date": "unspecified", "type": "event"}}
+{"input": "Твои танцевальные движения впечатляют! Танцевальный класс вместе?", "output": {"title": "Танцевальный класс вместе", "date": "не указано", "type": "event"}}
+{"input": "I'm in a wait-and-see mode", "output": {}}
+{"input": "Я в режиме ожидания", "output": {}}
+{"input": "Your podcast episode was great! Recording session together?", "output": {"title": "Recording session together", "date": "unspecified", "type": "event"}}
+{"input": "Твой подкаст был отличным! Сессия записи вместе?", "output": {"title": "Сессия записи вместе", "date": "не указано", "type": "event"}}
+{"input": "Nothing's set in stone yet", "output": {}}
+{"input": "Ничего еще не высечено в камне", "output": {}}
+{"input": "Your baking skills are amazing! Baking session together?", "output": {"title": "Baking session together", "date": "unspecified", "type": "event"}}
+{"input": "Твои навыки выпечки потрясающие! Сессия выпечки вместе?", "output": {"title": "Сессия выпечки вместе", "date": "не указано", "type": "event"}}
+{"input": "I'm not ready to lock anything in", "output": {}}
+{"input": "Я не готов ничего закреплять", "output": {}}
+{"input": "Your volunteering work is inspiring! Volunteer together sometime?", "output": {"title": "Volunteer together", "date": "sometime", "type": "event"}}
+{"input": "Твоя волонтерская работа вдохновляет! Волонтерство вместе когда-нибудь?", "output": {"title": "Волонтерство вместе", "date": "когда-нибудь", "type": "event"}}
+{"input": "It's all up in the air right now", "output": {}}
+{"input": "Все висит в воздухе прямо сейчас", "output": {}}
+{"input": "Your language skills are impressive! Language exchange practice?", "output": {"title": "Language exchange practice", "date": "unspecified", "type": "event"}}
+{"input": "Твои языковые навыки впечатляют! Практика языкового обмена?", "output": {"title": "Практика языкового обмена", "date": "не указано", "type": "event"}}
+{"input": "I'll play it by ear for now", "output": {}}
+{"input": "Пока буду импровизировать", "output": {}}
+{"input": "Your startup pitch was compelling! Investor meeting arrangement?", "output": {"title": "Investor meeting arrangement", "date": "unspecified", "type": "event"}}
+{"input": "Твоя презентация стартапа была убедительной! Организация встречи с инвестором?", "output": {"title": "Организация встречи с инвестором", "date": "не указано", "type": "event"}}
+{"input": "I need to keep my schedule fluid", "output": {}}
+{"input": "Мне нужно сохранять гибкость расписания", "output": {}}
+{"input": "Your mentoring advice was helpful! Follow-up mentoring session?", "output": {"title": "Follow-up mentoring session", "date": "unspecified", "type": "event"}}
+{"input": "Твой совет наставника был полезным! Последующая сессия наставничества?", "output": {"title": "Последующая сессия наставничества", "date": "не указано", "type": "event"}}
+{"input": "Everything depends on too many factors", "output": {}}
+{"input": "Все зависит от слишком многих факторов", "output": {}}
+{"input": "Your home renovation looks great! DIY project together?", "output": {"title": "DIY project together", "date": "unspecified", "type": "event"}}
+{"input": "Твой домашний ремонт выглядит отлично! Проект «сделай сам» вместе?", "output": {"title": "Проект «сделай сам» вместе", "date": "не указано", "type": "event"}}
+{"input": "I'm keeping things loose for now", "output": {}}
+{"input": "Я пока держу все свободно", "output": {}}
+{"input": "Your travel blog is fascinating! Travel planning session?", "output": {"title": "Travel planning session", "date": "unspecified", "type": "event"}}
+{"input": "Твой блог о путешествиях увлекательный! Сессия планирования путешествий?", "output": {"title": "Сессия планирования путешествий", "date": "не указано", "type": "event"}}
+{"input": "I can't pin down anything definite", "output": {}}
+{"input": "Я не могу определить ничего конкретного", "output": {}}
+{"input": "Your fitness transformation is motivating! Workout planning session?", "output": {"title": "Workout planning session", "date": "unspecified", "type": "event"}}
+{"input": "Твоя фитнес-трансформация мотивирует! Сессия планирования тренировок?", "output": {"title": "Сессия планирования тренировок", "date": "не указано", "type": "event"}}
+{"input": "That's still being worked out", "output": {}}
+{"input": "Это все еще прорабатывается", "output": {}}
+{"input": "Your career advice was valuable! Career planning discussion?", "output": {"title": "Career planning discussion", "date": "unspecified", "type": "event"}}
+{"input": "Твой совет по карьере был ценным! Обсуждение планирования карьеры?", "output": {"title": "Обсуждение планирования карьеры", "date": "не указано", "type": "event"}}
+{"input": "I'm not making any definitive plans", "output": {}}
+{"input": "Я не строю никаких окончательных планов", "output": {}}
+{"input": "Your investment strategy is smart! Financial planning chat?", "output": {"title": "Financial planning chat", "date": "unspecified", "type": "event"}}
+{"input": "Твоя инвестиционная стратегия умна! Чат по финансовому планированию?", "output": {"title": "Чат по финансовому планированию", "date": "не указано", "type": "event"}}
+{"input": "I'll see what my availability looks like", "output": {}}
+{"input": "Посмотрю, как выглядит моя доступность", "output": {}}
+{"input": "Your networking skills are impressive! Networking event together?", "output": {"title": "Networking event together", "date": "unspecified", "type": "event"}}
+{"input": "Твои навыки нетворкинга впечатляют! Нетворкинг мероприятие вместе?", "output": {"title": "Нетворкинг мероприятие вместе", "date": "не указано", "type": "event"}}
+{"input": "I'm keeping all my options open", "output": {}}
+{"input": "Я оставляю все свои варианты открытыми", "output": {}}
+{"input": "Your public speaking was excellent! Speaking engagement practice?", "output": {"title": "Speaking engagement practice", "date": "unspecified", "type": "event"}}
+{"input": "Твое публичное выступление было отличным! Практика выступлений?", "output": {"title": "Практика выступлений", "date": "не указано", "type": "event"}}
+{"input": "Too many variables in play", "output": {}}
+{"input": "Слишком много переменных в игре", "output": {}}
+{"input": "Your leadership workshop was insightful! Leadership discussion?", "output": {"title": "Leadership discussion", "date": "unspecified", "type": "event"}}
+{"input": "Твой семинар по лидерству был проницательным! Обсуждение лидерства?", "output": {"title": "Обсуждение лидерства", "date": "не указано", "type": "event"}}
+{"input": "I'm waiting for clarity on several things", "output": {}}
+{"input": "Я жду ясности по нескольким вещам", "output": {}}
+{"input": "Your project management skills are great! PM strategy session?", "output": {"title": "PM strategy session", "date": "unspecified", "type": "event"}}
+{"input": "Твои навыки управления проектами великолепны! Стратегическая сессия по управлению проектами?", "output": {"title": "Стратегическая сессия по управлению проектами", "date": "не указано", "type": "event"}}
+{"input": "Nothing's confirmed at this point", "output": {}}
+{"input": "На данный момент ничего не подтверждено", "output": {}}

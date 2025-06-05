@@ -1,0 +1,262 @@
+{"input": "Work on essay for 2 hours", "output": {"title": "Work on essay", "duration": "2 hours", "type": "event"}}
+{"input": "Работать над эссе 2 часа", "output": {"title": "Работать над эссе", "duration": "2 часа", "type": "event"}}
+{"input": "Meeting from 3 to 4:30", "output": {"title": "Meeting", "start_time": "15:00", "end_time": "16:30", "type": "event"}}
+{"input": "Встреча с 15:00 до 16:30", "output": {"title": "Встреча", "start_time": "15:00", "end_time": "16:30", "type": "event"}}
+{"input": "Conference from June 5th to 7th", "output": {"title": "Conference", "date": "June 5th to 7th", "type": "event"}}
+{"input": "Конференция с 5 по 7 июня", "output": {"title": "Конференция", "date": "5 по 7 июня", "type": "event"}}
+{"input": "Available between 1 and 3PM", "output": {"title": "Available", "start_time": "13:00", "end_time": "15:00", "type": "event"}}
+{"input": "Доступен между 13:00 и 15:00", "output": {"title": "Доступен", "start_time": "13:00", "end_time": "15:00", "type": "event"}}
+{"input": "Study session from 9AM to noon", "output": {"title": "Study session", "start_time": "09:00", "end_time": "12:00", "type": "event"}}
+{"input": "Учебная сессия с 9 утра до полудня", "output": {"title": "Учебная сессия", "start_time": "09:00", "end_time": "12:00", "type": "event"}}
+{"input": "Code for 3 hours tomorrow", "output": {"title": "Code", "date": "tomorrow", "duration": "3 hours", "type": "event"}}
+{"input": "Программировать 3 часа завтра", "output": {"title": "Программировать", "date": "завтра", "duration": "3 часа", "type": "event"}}
+{"input": "Vacation from Monday to Friday", "output": {"title": "Vacation", "date": "Monday to Friday", "type": "event"}}
+{"input": "Отпуск с понедельника по пятницу", "output": {"title": "Отпуск", "date": "понедельник по пятницу", "type": "event"}}
+{"input": "Workshop 10:30 to 12:15", "output": {"title": "Workshop", "start_time": "10:30", "end_time": "12:15", "type": "event"}}
+{"input": "Мастер-класс с 10:30 до 12:15", "output": {"title": "Мастер-класс", "start_time": "10:30", "end_time": "12:15", "type": "event"}}
+{"input": "Focus block for 90 minutes", "output": {"title": "Focus block", "duration": "90 minutes", "type": "event"}}
+{"input": "Блок концентрации на 90 минут", "output": {"title": "Блок концентрации", "duration": "90 минут", "type": "event"}}
+{"input": "Training course March 1st to 5th", "output": {"title": "Training course", "date": "March 1st to 5th", "type": "event"}}
+{"input": "Курс обучения с 1 по 5 марта", "output": {"title": "Курс обучения", "date": "1 по 5 марта", "type": "event"}}
+{"input": "Client call between 2 and 4 PM", "output": {"title": "Client call", "start_time": "14:00", "end_time": "16:00", "type": "event"}}
+{"input": "Звонок клиенту между 14:00 и 16:00", "output": {"title": "Звонок клиенту", "start_time": "14:00", "end_time": "16:00", "type": "event"}}
+{"input": "Read for 45 minutes", "output": {"title": "Read", "duration": "45 minutes", "type": "event"}}
+{"input": "Читать 45 минут", "output": {"title": "Читать", "duration": "45 минут", "type": "event"}}
+{"input": "Project from 8AM to 5PM", "output": {"title": "Project", "start_time": "08:00", "end_time": "17:00", "type": "event"}}
+{"input": "Проект с 8 утра до 17:00", "output": {"title": "Проект", "start_time": "08:00", "end_time": "17:00", "type": "event"}}
+{"input": "Business trip from Tuesday to Thursday", "output": {"title": "Business trip", "date": "Tuesday to Thursday", "type": "event"}}
+{"input": "Командировка со вторника по четверг", "output": {"title": "Командировка", "date": "вторник по четверг", "type": "event"}}
+{"input": "Design work 1:30 to 4:45", "output": {"title": "Design work", "start_time": "13:30", "end_time": "16:45", "type": "event"}}
+{"input": "Дизайнерская работа с 13:30 до 16:45", "output": {"title": "Дизайнерская работа", "start_time": "13:30", "end_time": "16:45", "type": "event"}}
+{"input": "Exercise for 30 minutes", "output": {"title": "Exercise", "duration": "30 minutes", "type": "event"}}
+{"input": "Упражнения на 30 минут", "output": {"title": "Упражнения", "duration": "30 минут", "type": "event"}}
+{"input": "Conference call from 11 to 11:45", "output": {"title": "Conference call", "start_time": "11:00", "end_time": "11:45", "type": "event"}}
+{"input": "Конференц-звонок с 11:00 до 11:45", "output": {"title": "Конференц-звонок", "start_time": "11:00", "end_time": "11:45", "type": "event"}}
+{"input": "Seminar series April 10th to 12th", "output": {"title": "Seminar series", "date": "April 10th to 12th", "type": "event"}}
+{"input": "Серия семинаров с 10 по 12 апреля", "output": {"title": "Серия семинаров", "date": "10 по 12 апреля", "type": "event"}}
+{"input": "Available window between 9 and 11AM", "output": {"title": "Available window", "start_time": "09:00", "end_time": "11:00", "type": "event"}}
+{"input": "Свободное окно между 9 и 11 утра", "output": {"title": "Свободное окно", "start_time": "09:00", "end_time": "11:00", "type": "event"}}
+{"input": "Write for 1.5 hours", "output": {"title": "Write", "duration": "1.5 hours", "type": "event"}}
+{"input": "Писать 1.5 часа", "output": {"title": "Писать", "duration": "1.5 часа", "type": "event"}}
+{"input": "Team meeting 2:15 to 3:30", "output": {"title": "Team meeting", "start_time": "14:15", "end_time": "15:30", "type": "event"}}
+{"input": "Командная встреча с 14:15 до 15:30", "output": {"title": "Командная встреча", "start_time": "14:15", "end_time": "15:30", "type": "event"}}
+{"input": "Festival from Friday to Sunday", "output": {"title": "Festival", "date": "Friday to Sunday", "type": "event"}}
+{"input": "Фестиваль с пятницы по воскресенье", "output": {"title": "Фестиваль", "date": "пятница по воскресенье", "type": "event"}}
+{"input": "Research between 10AM and 1PM", "output": {"title": "Research", "start_time": "10:00", "end_time": "13:00", "type": "event"}}
+{"input": "Исследование между 10 утра и 13:00", "output": {"title": "Исследование", "start_time": "10:00", "end_time": "13:00", "type": "event"}}
+{"input": "Break for 20 minutes", "output": {"title": "Break", "duration": "20 minutes", "type": "event"}}
+{"input": "Перерыв на 20 минут", "output": {"title": "Перерыв", "duration": "20 минут", "type": "event"}}
+{"input": "Webinar from 4 to 5:30 PM", "output": {"title": "Webinar", "start_time": "16:00", "end_time": "17:30", "type": "event"}}
+{"input": "Вебинар с 16:00 до 17:30", "output": {"title": "Вебинар", "start_time": "16:00", "end_time": "17:30", "type": "event"}}
+{"input": "Workshop series from Monday to Wednesday", "output": {"title": "Workshop series", "date": "Monday to Wednesday", "type": "event"}}
+{"input": "Серия мастер-классов с понедельника по среду", "output": {"title": "Серия мастер-классов", "date": "понедельник по среду", "type": "event"}}
+{"input": "Free slot between 3 and 5PM", "output": {"title": "Free slot", "start_time": "15:00", "end_time": "17:00", "type": "event"}}
+{"input": "Свободный слот между 15:00 и 17:00", "output": {"title": "Свободный слот", "start_time": "15:00", "end_time": "17:00", "type": "event"}}
+{"input": "Meditation for 25 minutes", "output": {"title": "Meditation", "duration": "25 minutes", "type": "event"}}
+{"input": "Медитация на 25 минут", "output": {"title": "Медитация", "duration": "25 минут", "type": "event"}}
+{"input": "Presentation from 9:30 to 10:15", "output": {"title": "Presentation", "start_time": "09:30", "end_time": "10:15", "type": "event"}}
+{"input": "Презентация с 9:30 до 10:15", "output": {"title": "Презентация", "start_time": "09:30", "end_time": "10:15", "type": "event"}}
+{"input": "Retreat from Thursday to Saturday", "output": {"title": "Retreat", "date": "Thursday to Saturday", "type": "event"}}
+{"input": "Ретрит с четверга по субботу", "output": {"title": "Ретрит", "date": "четверг по субботу", "type": "event"}}
+{"input": "Open hours between 12 and 2PM", "output": {"title": "Open hours", "start_time": "12:00", "end_time": "14:00", "type": "event"}}
+{"input": "Открытые часы между 12:00 и 14:00", "output": {"title": "Открытые часы", "start_time": "12:00", "end_time": "14:00", "type": "event"}}
+{"input": "Study for 4 hours", "output": {"title": "Study", "duration": "4 hours", "type": "event"}}
+{"input": "Учиться 4 часа", "output": {"title": "Учиться", "duration": "4 часа", "type": "event"}}
+{"input": "Interview from 11:45 to 12:30", "output": {"title": "Interview", "start_time": "11:45", "end_time": "12:30", "type": "event"}}
+{"input": "Интервью с 11:45 до 12:30", "output": {"title": "Интервью", "start_time": "11:45", "end_time": "12:30", "type": "event"}}
+{"input": "Exhibition from May 15th to 20th", "output": {"title": "Exhibition", "date": "May 15th to 20th", "type": "event"}}
+{"input": "Выставка с 15 по 20 мая", "output": {"title": "Выставка", "date": "15 по 20 мая", "type": "event"}}
+{"input": "Consulting hours between 1 and 4PM", "output": {"title": "Consulting hours", "start_time": "13:00", "end_time": "16:00", "type": "event"}}
+{"input": "Консультационные часы между 13:00 и 16:00", "output": {"title": "Консультационные часы", "start_time": "13:00", "end_time": "16:00", "type": "event"}}
+{"input": "Practice for 50 minutes", "output": {"title": "Practice", "duration": "50 minutes", "type": "event"}}
+{"input": "Практиковаться 50 минут", "output": {"title": "Практиковаться", "duration": "50 минут", "type": "event"}}
+{"input": "Board meeting 8:30 to 10:00", "output": {"title": "Board meeting", "start_time": "08:30", "end_time": "10:00", "type": "event"}}
+{"input": "Заседание совета с 8:30 до 10:00", "output": {"title": "Заседание совета", "start_time": "08:30", "end_time": "10:00", "type": "event"}}
+{"input": "Training camp from Sunday to Tuesday", "output": {"title": "Training camp", "date": "Sunday to Tuesday", "type": "event"}}
+{"input": "Тренировочный лагерь с воскресенья по вторник", "output": {"title": "Тренировочный лагерь", "date": "воскресенье по вторник", "type": "event"}}
+{"input": "Office hours between 10 and 12", "output": {"title": "Office hours", "start_time": "10:00", "end_time": "12:00", "type": "event"}}
+{"input": "Приемные часы между 10:00 и 12:00", "output": {"title": "Приемные часы", "start_time": "10:00", "end_time": "12:00", "type": "event"}}
+{"input": "Cook for 1 hour", "output": {"title": "Cook", "duration": "1 hour", "type": "event"}}
+{"input": "Готовить 1 час", "output": {"title": "Готовить", "duration": "1 час", "type": "event"}}
+{"input": "Strategy session 1:00 to 3:45", "output": {"title": "Strategy session", "start_time": "13:00", "end_time": "15:45", "type": "event"}}
+{"input": "Стратегическая сессия с 13:00 до 15:45", "output": {"title": "Стратегическая сессия", "start_time": "13:00", "end_time": "15:45", "type": "event"}}
+{"input": "Convention from Wednesday to Friday", "output": {"title": "Convention", "date": "Wednesday to Friday", "type": "event"}}
+{"input": "Конвенция со среды по пятницу", "output": {"title": "Конвенция", "date": "среда по пятницу", "type": "event"}}
+{"input": "Available between 11AM and 1PM", "output": {"title": "Available", "start_time": "11:00", "end_time": "13:00", "type": "event"}}
+{"input": "Доступен между 11 утра и 13:00", "output": {"title": "Доступен", "start_time": "11:00", "end_time": "13:00", "type": "event"}}
+{"input": "Review for 2.5 hours", "output": {"title": "Review", "duration": "2.5 hours", "type": "event"}}
+{"input": "Обзор на 2.5 часа", "output": {"title": "Обзор", "duration": "2.5 часа", "type": "event"}}
+{"input": "Client work from 9 to 11:30", "output": {"title": "Client work", "start_time": "09:00", "end_time": "11:30", "type": "event"}}
+{"input": "Работа с клиентом с 9:00 до 11:30", "output": {"title": "Работа с клиентом", "start_time": "09:00", "end_time": "11:30", "type": "event"}}
+{"input": "Trade show from Tuesday to Thursday", "output": {"title": "Trade show", "date": "Tuesday to Thursday", "type": "event"}}
+{"input": "Торговая выставка со вторника по четверг", "output": {"title": "Торговая выставка", "date": "вторник по четверг", "type": "event"}}
+{"input": "Consultation window between 2 and 5PM", "output": {"title": "Consultation window", "start_time": "14:00", "end_time": "17:00", "type": "event"}}
+{"input": "Окно консультаций между 14:00 и 17:00", "output": {"title": "Окно консультаций", "start_time": "14:00", "end_time": "17:00", "type": "event"}}
+{"input": "Walk for 35 minutes", "output": {"title": "Walk", "duration": "35 minutes", "type": "event"}}
+{"input": "Прогулка на 35 минут", "output": {"title": "Прогулка", "duration": "35 минут", "type": "event"}}
+{"input": "Demo session 3:15 to 4:00", "output": {"title": "Demo session", "start_time": "15:15", "end_time": "16:00", "type": "event"}}
+{"input": "Демо сессия с 15:15 до 16:00", "output": {"title": "Демо сессия", "start_time": "15:15", "end_time": "16:00", "type": "event"}}
+{"input": "Conference from December 1st to 3rd", "output": {"title": "Conference", "date": "December 1st to 3rd", "type": "event"}}
+{"input": "Конференция с 1 по 3 декабря", "output": {"title": "Конференция", "date": "1 по 3 декабря", "type": "event"}}
+{"input": "Meeting slot between 4 and 6PM", "output": {"title": "Meeting slot", "start_time": "16:00", "end_time": "18:00", "type": "event"}}
+{"input": "Слот для встречи между 16:00 и 18:00", "output": {"title": "Слот для встречи", "start_time": "16:00", "end_time": "18:00", "type": "event"}}
+{"input": "Paint for 3 hours", "output": {"title": "Paint", "duration": "3 hours", "type": "event"}}
+{"input": "Рисовать 3 часа", "output": {"title": "Рисовать", "duration": "3 часа", "type": "event"}}
+{"input": "Workshop from 10:30 to 1:15", "output": {"title": "Workshop", "start_time": "10:30", "end_time": "13:15", "type": "event"}}
+{"input": "Мастер-класс с 10:30 до 13:15", "output": {"title": "Мастер-класс", "start_time": "10:30", "end_time": "13:15", "type": "event"}}
+{"input": "Summer course from June to August", "output": {"title": "Summer course", "date": "June to August", "type": "event"}}
+{"input": "Летний курс с июня по август", "output": {"title": "Летний курс", "date": "июнь по август", "type": "event"}}
+{"input": "Free time between 7 and 9PM", "output": {"title": "Free time", "start_time": "19:00", "end_time": "21:00", "type": "event"}}
+{"input": "Свободное время между 19:00 и 21:00", "output": {"title": "Свободное время", "start_time": "19:00", "end_time": "21:00", "type": "event"}}
+{"input": "Develop for 5 hours", "output": {"title": "Develop", "duration": "5 hours", "type": "event"}}
+{"input": "Разрабатывать 5 часов", "output": {"title": "Разрабатывать", "duration": "5 часов", "type": "event"}}
+{"input": "Training session 7:00 to 8:30", "output": {"title": "Training session", "start_time": "07:00", "end_time": "08:30", "type": "event"}}
+{"input": "Тренировочная сессия с 7:00 до 8:30", "output": {"title": "Тренировочная сессия", "start_time": "07:00", "end_time": "08:30", "type": "event"}}
+{"input": "Boot camp from Monday to Friday", "output": {"title": "Boot camp", "date": "Monday to Friday", "type": "event"}}
+{"input": "Учебный лагерь с понедельника по пятницу", "output": {"title": "Учебный лагерь", "date": "понедельник по пятницу", "type": "event"}}
+{"input": "Appointment window between 9 and 12", "output": {"title": "Appointment window", "start_time": "09:00", "end_time": "12:00", "type": "event"}}
+{"input": "Окно для записи между 9:00 и 12:00", "output": {"title": "Окно для записи", "start_time": "09:00", "end_time": "12:00", "type": "event"}}
+{"input": "Plan for 40 minutes", "output": {"title": "Plan", "duration": "40 minutes", "type": "event"}}
+{"input": "Планировать 40 минут", "output": {"title": "Планировать", "duration": "40 минут", "type": "event"}}
+{"input": "Review meeting 2:30 to 4:15", "output": {"title": "Review meeting", "start_time": "14:30", "end_time": "16:15", "type": "event"}}
+{"input": "Обзорная встреча с 14:30 до 16:15", "output": {"title": "Обзорная встреча", "start_time": "14:30", "end_time": "16:15", "type": "event"}}
+{"input": "Symposium from Thursday to Saturday", "output": {"title": "Symposium", "date": "Thursday to Saturday", "type": "event"}}
+{"input": "Симпозиум с четверга по субботу", "output": {"title": "Симпозиум", "date": "четверг по субботу", "type": "event"}}
+{"input": "Work block between 8 and 11AM", "output": {"title": "Work block", "start_time": "08:00", "end_time": "11:00", "type": "event"}}
+{"input": "Рабочий блок между 8 утра и 11:00", "output": {"title": "Рабочий блок", "start_time": "08:00", "end_time": "11:00", "type": "event"}}
+{"input": "Edit for 1.25 hours", "output": {"title": "Edit", "duration": "1.25 hours", "type": "event"}}
+{"input": "Редактировать 1.25 часа", "output": {"title": "Редактировать", "duration": "1.25 часа", "type": "event"}}
+{"input": "Sales call from 11:15 to 12:00", "output": {"title": "Sales call", "start_time": "11:15", "end_time": "12:00", "type": "event"}}
+{"input": "Продажный звонок с 11:15 до 12:00", "output": {"title": "Продажный звонок", "start_time": "11:15", "end_time": "12:00", "type": "event"}}
+{"input": "Masterclass from Friday to Sunday", "output": {"title": "Masterclass", "date": "Friday to Sunday", "type": "event"}}
+{"input": "Мастер-класс с пятницы по воскресенье", "output": {"title": "Мастер-класс", "date": "пятница по воскресенье", "type": "event"}}
+{"input": "Study window between 6 and 9PM", "output": {"title": "Study window", "start_time": "18:00", "end_time": "21:00", "type": "event"}}
+{"input": "Окно для учебы между 18:00 и 21:00", "output": {"title": "Окно для учебы", "start_time": "18:00", "end_time": "21:00", "type": "event"}}
+{"input": "Design for 6 hours", "output": {"title": "Design", "duration": "6 hours", "type": "event"}}
+{"input": "Дизайнить 6 часов", "output": {"title": "Дизайнить", "duration": "6 часов", "type": "event"}}
+{"input": "Brainstorming session 4:45 to 5:30", "output": {"title": "Brainstorming session", "start_time": "16:45", "end_time": "17:30", "type": "event"}}
+{"input": "Сессия мозгового штурма с 16:45 до 17:30", "output": {"title": "Сессия мозгового штурма", "start_time": "16:45", "end_time": "17:30", "type": "event"}}
+{"input": "Intensive course from October 5th to 10th", "output": {"title": "Intensive course", "date": "October 5th to 10th", "type": "event"}}
+{"input": "Интенсивный курс с 5 по 10 октября", "output": {"title": "Интенсивный курс", "date": "5 по 10 октября", "type": "event"}}
+{"input": "Available slot between 3:30 and 5PM", "output": {"title": "Available slot", "start_time": "15:30", "end_time": "17:00", "type": "event"}}
+{"input": "Доступный слот между 15:30 и 17:00", "output": {"title": "Доступный слот", "start_time": "15:30", "end_time": "17:00", "type": "event"}}
+{"input": "Test for 75 minutes", "output": {"title": "Test", "duration": "75 minutes", "type": "event"}}
+{"input": "Тестировать 75 минут", "output": {"title": "Тестировать", "duration": "75 минут", "type": "event"}}
+{"input": "Product demo 12:45 to 1:30", "output": {"title": "Product demo", "start_time": "12:45", "end_time": "13:30", "type": "event"}}
+{"input": "Демо продукта с 12:45 до 13:30", "output": {"title": "Демо продукта", "start_time": "12:45", "end_time": "13:30", "type": "event"}}
+{"input": "Residency from January to March", "output": {"title": "Residency", "date": "January to March", "type": "event"}}
+{"input": "Резиденция с января по март", "output": {"title": "Резиденция", "date": "январь по март", "type": "event"}}
+{"input": "Consulting between 10:30 and 1PM", "output": {"title": "Consulting", "start_time": "10:30", "end_time": "13:00", "type": "event"}}
+{"input": "Консультирование между 10:30 и 13:00", "output": {"title": "Консультирование", "start_time": "10:30", "end_time": "13:00", "type": "event"}}
+{"input": "Research for 8 hours", "output": {"title": "Research", "duration": "8 hours", "type": "event"}}
+{"input": "Исследовать 8 часов", "output": {"title": "Исследовать", "duration": "8 часов", "type": "event"}}
+{"input": "Planning meeting 8:15 to 9:45", "output": {"title": "Planning meeting", "start_time": "08:15", "end_time": "09:45", "type": "event"}}
+{"input": "Планерка с 8:15 до 9:45", "output": {"title": "Планерка", "start_time": "08:15", "end_time": "09:45", "type": "event"}}
+{"input": "Hackathon from Saturday to Monday", "output": {"title": "Hackathon", "date": "Saturday to Monday", "type": "event"}}
+{"input": "Хакатон с субботы по понедельник", "output": {"title": "Хакатон", "date": "суббота по понедельник", "type": "event"}}
+{"input": "Creative time between 5 and 7PM", "output": {"title": "Creative time", "start_time": "17:00", "end_time": "19:00", "type": "event"}}
+{"input": "Творческое время между 17:00 и 19:00", "output": {"title": "Творческое время", "start_time": "17:00", "end_time": "19:00", "type": "event"}}
+{"input": "Write for 90 minutes", "output": {"title": "Write", "duration": "90 minutes", "type": "event"}}
+{"input": "Писать 90 минут", "output": {"title": "Писать", "duration": "90 минут", "type": "event"}}
+{"input": "Team sync 9:30 to 10:45", "output": {"title": "Team sync", "start_time": "09:30", "end_time": "10:45", "type": "event"}}
+{"input": "Синхронизация команды с 9:30 до 10:45", "output": {"title": "Синхронизация команды", "start_time": "09:30", "end_time": "10:45", "type": "event"}}
+{"input": "Art installation from Wednesday to Friday", "output": {"title": "Art installation", "date": "Wednesday to Friday", "type": "event"}}
+{"input": "Арт-инсталляция со среды по пятницу", "output": {"title": "Арт-инсталляция", "date": "среда по пятницу", "type": "event"}}
+{"input": "Flexible hours between 11 and 2PM", "output": {"title": "Flexible hours", "start_time": "11:00", "end_time": "14:00", "type": "event"}}
+{"input": "Гибкие часы между 11:00 и 14:00", "output": {"title": "Гибкие часы", "start_time": "11:00", "end_time": "14:00", "type": "event"}}
+{"input": "Debug for 2.5 hours", "output": {"title": "Debug", "duration": "2.5 hours", "type": "event"}}
+{"input": "Отлаживать 2.5 часа", "output": {"title": "Отлаживать", "duration": "2.5 часа", "type": "event"}}
+{"input": "Client session 1:15 to 3:00", "output": {"title": "Client session", "start_time": "13:15", "end_time": "15:00", "type": "event"}}
+{"input": "Сессия с клиентом с 13:15 до 15:00", "output": {"title": "Сессия с клиентом", "start_time": "13:15", "end_time": "15:00", "type": "event"}}
+{"input": "Film festival from Tuesday to Sunday", "output": {"title": "Film festival", "date": "Tuesday to Sunday", "type": "event"}}
+{"input": "Кинофестиваль со вторника по воскресенье", "output": {"title": "Кинофестиваль", "date": "вторник по воскресенье", "type": "event"}}
+{"input": "Open studio between 12:30 and 4PM", "output": {"title": "Open studio", "start_time": "12:30", "end_time": "16:00", "type": "event"}}
+{"input": "Открытая студия между 12:30 и 16:00", "output": {"title": "Открытая студия", "start_time": "12:30", "end_time": "16:00", "type": "event"}}
+{"input": "Build for 4.5 hours", "output": {"title": "Build", "duration": "4.5 hours", "type": "event"}}
+{"input": "Строить 4.5 часа", "output": {"title": "Строить", "duration": "4.5 часа", "type": "event"}}
+{"input": "Focus session 6:00 to 8:30", "output": {"title": "Focus session", "start_time": "06:00", "end_time": "08:30", "type": "event"}}
+{"input": "Сессия концентрации с 6:00 до 8:30", "output": {"title": "Сессия концентрации", "start_time": "06:00", "end_time": "08:30", "type": "event"}}
+{"input": "Music camp from July 15th to 25th", "output": {"title": "Music camp", "date": "July 15th to 25th", "type": "event"}}
+{"input": "Музыкальный лагерь с 15 по 25 июля", "output": {"title": "Музыкальный лагерь", "date": "15 по 25 июля", "type": "event"}}
+{"input": "Drop-in hours between 2 and 6PM", "output": {"title": "Drop-in hours", "start_time": "14:00", "end_time": "18:00", "type": "event"}}
+{"input": "Часы свободного посещения между 14:00 и 18:00", "output": {"title": "Часы свободного посещения", "start_time": "14:00", "end_time": "18:00", "type": "event"}}
+{"input": "Code review for 60 minutes", "output": {"title": "Code review", "duration": "60 minutes", "type": "event"}}
+{"input": "Ревью кода 60 минут", "output": {"title": "Ревью кода", "duration": "60 минут", "type": "event"}}
+{"input": "Analysis session 10:00 to 12:30", "output": {"title": "Analysis session", "start_time": "10:00", "end_time": "12:30", "type": "event"}}
+{"input": "Сессия анализа с 10:00 до 12:30", "output": {"title": "Сессия анализа", "start_time": "10:00", "end_time": "12:30", "type": "event"}}
+{"input": "Artist residency from September to November", "output": {"title": "Artist residency", "date": "September to November", "type": "event"}}
+{"input": "Резиденция художника с сентября по ноябрь", "output": {"title": "Резиденция художника", "date": "сентябрь по ноябрь", "type": "event"}}
+{"input": "Lab time between 1:30 and 5PM", "output": {"title": "Lab time", "start_time": "13:30", "end_time": "17:00", "type": "event"}}
+{"input": "Время в лаборатории между 13:30 и 17:00", "output": {"title": "Время в лаборатории", "start_time": "13:30", "end_time": "17:00", "type": "event"}}
+{"input": "Network for 45 minutes", "output": {"title": "Network", "duration": "45 minutes", "type": "event"}}
+{"input": "Нетворкинг 45 минут", "output": {"title": "Нетворкинг", "duration": "45 минут", "type": "event"}}
+{"input": "Deep work from 7:30 to 11:00", "output": {"title": "Deep work", "start_time": "07:30", "end_time": "11:00", "type": "event"}}
+{"input": "Глубокая работа с 7:30 до 11:00", "output": {"title": "Глубокая работа", "start_time": "07:30", "end_time": "11:00", "type": "event"}}
+{"input": "Language immersion from Monday to Friday", "output": {"title": "Language immersion", "date": "Monday to Friday", "type": "event"}}
+{"input": "Языковое погружение с понедельника по пятницу", "output": {"title": "Языковое погружение", "date": "понедельник по пятницу", "type": "event"}}
+{"input": "Tutorial time between 3 and 4:30PM", "output": {"title": "Tutorial time", "start_time": "15:00", "end_time": "16:30", "type": "event"}}
+{"input": "Время для обучения между 15:00 и 16:30", "output": {"title": "Время для обучения", "start_time": "15:00", "end_time": "16:30", "type": "event"}}
+{"input": "Sketch for 30 minutes", "output": {"title": "Sketch", "duration": "30 minutes", "type": "event"}}
+{"input": "Скетчить 30 минут", "output": {"title": "Скетчить", "duration": "30 минут", "type": "event"}}
+{"input": "QA testing 11:30 to 2:15", "output": {"title": "QA testing", "start_time": "11:30", "end_time": "14:15", "type": "event"}}
+{"input": "QA тестирование с 11:30 до 14:15", "output": {"title": "QA тестирование", "start_time": "11:30", "end_time": "14:15", "type": "event"}}
+{"input": "Photography workshop from Thursday to Sunday", "output": {"title": "Photography workshop", "date": "Thursday to Sunday", "type": "event"}}
+{"input": "Фотографический семинар с четверга по воскресенье", "output": {"title": "Фотографический семинар", "date": "четверг по воскресенье", "type": "event"}}
+{"input": "Mentoring hours between 4 and 7PM", "output": {"title": "Mentoring hours", "start_time": "16:00", "end_time": "19:00", "type": "event"}}
+{"input": "Часы наставничества между 16:00 и 19:00", "output": {"title": "Часы наставничества", "start_time": "16:00", "end_time": "19:00", "type": "event"}}
+{"input": "Prototype for 3.5 hours", "output": {"title": "Prototype", "duration": "3.5 hours", "type": "event"}}
+{"input": "Прототипировать 3.5 часа", "output": {"title": "Прототипировать", "duration": "3.5 часа", "type": "event"}}
+{"input": "User testing 2:45 to 4:00", "output": {"title": "User testing", "start_time": "14:45", "end_time": "16:00", "type": "event"}}
+{"input": "Пользовательское тестирование с 14:45 до 16:00", "output": {"title": "Пользовательское тестирование", "start_time": "14:45", "end_time": "16:00", "type": "event"}}
+{"input": "Spring semester from February to May", "output": {"title": "Spring semester", "date": "February to May", "type": "event"}}
+{"input": "Весенний семестр с февраля по май", "output": {"title": "Весенний семестр", "date": "февраль по май", "type": "event"}}
+{"input": "Practice window between 6 and 8AM", "output": {"title": "Practice window", "start_time": "06:00", "end_time": "08:00", "type": "event"}}
+{"input": "Окно для практики между 6 утра и 8:00", "output": {"title": "Окно для практики", "start_time": "06:00", "end_time": "08:00", "type": "event"}}
+{"input": "Optimize for 2 hours", "output": {"title": "Optimize", "duration": "2 hours", "type": "event"}}
+{"input": "Оптимизировать 2 часа", "output": {"title": "Оптимизировать", "duration": "2 часа", "type": "event"}}
+{"input": "Standup meeting 9:15 to 9:45", "output": {"title": "Standup meeting", "start_time": "09:15", "end_time": "09:45", "type": "event"}}
+{"input": "Планерка с 9:15 до 9:45", "output": {"title": "Планерка", "start_time": "09:15", "end_time": "09:45", "type": "event"}}
+{"input": "Design sprint from Monday to Wednesday", "output": {"title": "Design sprint", "date": "Monday to Wednesday", "type": "event"}}
+{"input": "Дизайн-спринт с понедельника по среду", "output": {"title": "Дизайн-спринт", "date": "понедельник по среду", "type": "event"}}
+{"input": "Support hours between 9AM and 5PM", "output": {"title": "Support hours", "start_time": "09:00", "end_time": "17:00", "type": "event"}}
+{"input": "Часы поддержки между 9 утра и 17:00", "output": {"title": "Часы поддержки", "start_time": "09:00", "end_time": "17:00", "type": "event"}}
+{"input": "Document for 80 minutes", "output": {"title": "Document", "duration": "80 minutes", "type": "event"}}
+{"input": "Документировать 80 минут", "output": {"title": "Документировать", "duration": "80 минут", "type": "event"}}
+{"input": "Retrospective 3:30 to 4:45", "output": {"title": "Retrospective", "start_time": "15:30", "end_time": "16:45", "type": "event"}}
+{"input": "Ретроспектива с 15:30 до 16:45", "output": {"title": "Ретроспектива", "start_time": "15:30", "end_time": "16:45", "type": "event"}}
+{"input": "Tech conference from Friday to Sunday", "output": {"title": "Tech conference", "date": "Friday to Sunday", "type": "event"}}
+{"input": "Техническая конференция с пятницы по воскресенье", "output": {"title": "Техническая конференция", "date": "пятница по воскресенье", "type": "event"}}
+{"input": "Innovation lab between 10 and 2PM", "output": {"title": "Innovation lab", "start_time": "10:00", "end_time": "14:00", "type": "event"}}
+{"input": "Лаборатория инноваций между 10:00 и 14:00", "output": {"title": "Лаборатория инноваций", "start_time": "10:00", "end_time": "14:00", "type": "event"}}
+{"input": "Analyze for 3 hours", "output": {"title": "Analyze", "duration": "3 hours", "type": "event"}}
+{"input": "Анализировать 3 часа", "output": {"title": "Анализировать", "duration": "3 часа", "type": "event"}}
+{"input": "Demo prep 12:15 to 1:30", "output": {"title": "Demo prep", "start_time": "12:15", "end_time": "13:30", "type": "event"}}
+{"input": "Подготовка демо с 12:15 до 13:30", "output": {"title": "Подготовка демо", "start_time": "12:15", "end_time": "13:30", "type": "event"}}
+{"input": "Bootcamp from August 1st to 31st", "output": {"title": "Bootcamp", "date": "August 1st to 31st", "type": "event"}}
+{"input": "Буткемп с 1 по 31 августа", "output": {"title": "Буткемп", "date": "1 по 31 августа", "type": "event"}}
+{"input": "Coding window between 7 and 10AM", "output": {"title": "Coding window", "start_time": "07:00", "end_time": "10:00", "type": "event"}}
+{"input": "Окно для программирования между 7 утра и 10:00", "output": {"title": "Окно для программирования", "start_time": "07:00", "end_time": "10:00", "type": "event"}}
+{"input": "Deploy for 45 minutes", "output": {"title": "Deploy", "duration": "45 minutes", "type": "event"}}
+{"input": "Развертывать 45 минут", "output": {"title": "Развертывать", "duration": "45 минут", "type": "event"}}
+{"input": "Architecture review 4:00 to 6:00", "output": {"title": "Architecture review", "start_time": "16:00", "end_time": "18:00", "type": "event"}}
+{"input": "Обзор архитектуры с 16:00 до 18:00", "output": {"title": "Обзор архитектуры", "start_time": "16:00", "end_time": "18:00", "type": "event"}}
+{"input": "Theater festival from Wednesday to Sunday", "output": {"title": "Theater festival", "date": "Wednesday to Sunday", "type": "event"}}
+{"input": "Театральный фестиваль со среды по воскресенье", "output": {"title": "Театральный фестиваль", "date": "среда по воскресенье", "type": "event"}}
+{"input": "Clinic hours between 8AM and 12PM", "output": {"title": "Clinic hours", "start_time": "08:00", "end_time": "12:00", "type": "event"}}
+{"input": "Часы клиники между 8 утра и 12:00", "output": {"title": "Часы клиники", "start_time": "08:00", "end_time": "12:00", "type": "event"}}
+{"input": "Refactor for 5 hours", "output": {"title": "Refactor", "duration": "5 hours", "type": "event"}}
+{"input": "Рефакторить 5 часов", "output": {"title": "Рефакторить", "duration": "5 часов", "type": "event"}}
+{"input": "Sprint review 1:45 to 3:30", "output": {"title": "Sprint review", "start_time": "13:45", "end_time": "15:30", "type": "event"}}
+{"input": "Обзор спринта с 13:45 до 15:30", "output": {"title": "Обзор спринта", "start_time": "13:45", "end_time": "15:30", "type": "event"}}
+{"input": "Winter break from December 20th to January 5th", "output": {"title": "Winter break", "date": "December 20th to January 5th", "type": "event"}}
+{"input": "Зимние каникулы с 20 декабря по 5 января", "output": {"title": "Зимние каникулы", "date": "20 декабря по 5 января", "type": "event"}}
+{"input": "Study group between 5:30 and 8PM", "output": {"title": "Study group", "start_time": "17:30", "end_time": "20:00", "type": "event"}}
+{"input": "Учебная группа между 17:30 и 20:00", "output": {"title": "Учебная группа", "start_time": "17:30", "end_time": "20:00", "type": "event"}}
+{"input": "Investigate for 90 minutes", "output": {"title": "Investigate", "duration": "90 minutes", "type": "event"}}
+{"input": "Исследовать 90 минут", "output": {"title": "Исследовать", "duration": "90 минут", "type": "event"}}
+{"input": "Performance review 10:30 to 12:00", "output": {"title": "Performance review", "start_time": "10:30", "end_time": "12:00", "type": "event"}}
+{"input": "Обзор производительности с 10:30 до 12:00", "output": {"title": "Обзор производительности", "start_time": "10:30", "end_time": "12:00", "type": "event"}}
+{"input": "Art residency from May to July", "output": {"title": "Art residency", "date": "May to July", "type": "event"}}
+{"input": "Арт-резиденция с мая по июль", "output": {"title": "Арт-резиденция", "date": "май по июль", "type": "event"}}
+{"input": "Office hours between 1 and 4PM", "output": {"title": "Office hours", "start_time": "13:00", "end_time": "16:00", "type": "event"}}
+{"input": "Офисные часы между 13:00 и 16:00", "output": {"title": "Офисные часы", "start_time": "13:00", "end_time": "16:00", "type": "event"}}

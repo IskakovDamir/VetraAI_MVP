@@ -1,0 +1,226 @@
+{"input": "Team meeting every Monday at 9 AM", "output": {"title": "Team meeting", "date": "Monday", "time": "09:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Gym session twice a week on Tuesdays and Thursdays at 6 PM", "output": {"title": "Gym session", "date": "Tuesday, Thursday", "time": "18:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Coffee with Sarah every Friday at noon", "output": {"title": "Coffee with Sarah", "date": "Friday", "time": "12:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Weekly standup on Wednesdays at 10:30 AM", "output": {"title": "Weekly standup", "date": "Wednesday", "time": "10:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Piano lesson once a week on Saturdays at 2 PM", "output": {"title": "Piano lesson", "date": "Saturday", "time": "14:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Daily yoga at 7 AM", "output": {"title": "Daily yoga", "date": "daily", "time": "07:00", "type": "event", "recurrence": "daily"}}
+{"input": "Book club meeting every other Tuesday at 7 PM", "output": {"title": "Book club meeting", "date": "Tuesday", "time": "19:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Soccer practice twice weekly on Mondays and Wednesdays at 4:30 PM", "output": {"title": "Soccer practice", "date": "Monday, Wednesday", "time": "16:30", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Morning run every day at 6:30", "output": {"title": "Morning run", "date": "daily", "time": "06:30", "type": "event", "recurrence": "daily"}}
+{"input": "Client calls on Fridays at 3 PM weekly", "output": {"title": "Client calls", "date": "Friday", "time": "15:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Dinner with parents every Sunday at 6 PM", "output": {"title": "Dinner with parents", "date": "Sunday", "time": "18:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Spanish class every Thursday evening at 7:30", "output": {"title": "Spanish class", "date": "Thursday", "time": "19:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Monthly budget review on the first Monday at 10 AM", "output": {"title": "Monthly budget review", "date": "first Monday", "time": "10:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Swimming lessons on weekends at 11 AM", "output": {"title": "Swimming lessons", "date": "weekends", "time": "11:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Board meeting every other Friday at 2 PM", "output": {"title": "Board meeting", "date": "Friday", "time": "14:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Dog walking daily at 8 AM and 6 PM", "output": {"title": "Dog walking", "date": "daily", "time": "08:00, 18:00", "type": "event", "recurrence": "daily"}}
+{"input": "Meditation session every morning at 6 AM", "output": {"title": "Meditation session", "date": "daily", "time": "06:00", "type": "event", "recurrence": "daily"}}
+{"input": "Dance class once per week on Saturdays at 4 PM", "output": {"title": "Dance class", "date": "Saturday", "time": "16:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Sales meeting every Tuesday at 11 AM", "output": {"title": "Sales meeting", "date": "Tuesday", "time": "11:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Therapy appointment weekly on Thursdays at 5 PM", "output": {"title": "Therapy appointment", "date": "Thursday", "time": "17:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Grocery shopping every Saturday morning at 9", "output": {"title": "Grocery shopping", "date": "Saturday", "time": "09:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Guitar practice daily at 8 PM", "output": {"title": "Guitar practice", "date": "daily", "time": "20:00", "type": "event", "recurrence": "daily"}}
+{"input": "Team lunch every other Wednesday at 12:30", "output": {"title": "Team lunch", "date": "Wednesday", "time": "12:30", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Walking meeting with boss on Mondays at 3 PM", "output": {"title": "Walking meeting with boss", "date": "Monday", "time": "15:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Karate training twice a week on Tuesdays and Fridays at 7 PM", "output": {"title": "Karate training", "date": "Tuesday, Friday", "time": "19:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Family dinner every Sunday at 5:30 PM", "output": {"title": "Family dinner", "date": "Sunday", "time": "17:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Code review session weekly on Fridays at 4 PM", "output": {"title": "Code review session", "date": "Friday", "time": "16:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Art class on weekends at 2 PM", "output": {"title": "Art class", "date": "weekends", "time": "14:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Morning coffee break daily at 10:15", "output": {"title": "Morning coffee break", "date": "daily", "time": "10:15", "type": "event", "recurrence": "daily"}}
+{"input": "Photography club meeting every other Saturday at 1 PM", "output": {"title": "Photography club meeting", "date": "Saturday", "time": "13:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Dentist checkup every 6 months on first Wednesday at 10 AM", "output": {"title": "Dentist checkup", "date": "first Wednesday", "time": "10:00", "type": "event", "recurrence": "every 6 months"}}
+{"input": "Cooking class once weekly on Sundays at 3 PM", "output": {"title": "Cooking class", "date": "Sunday", "time": "15:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Project status meeting every Thursday at 9:30 AM", "output": {"title": "Project status meeting", "date": "Thursday", "time": "09:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Pilates session three times a week at 6:30 AM", "output": {"title": "Pilates session", "date": "Monday, Wednesday, Friday", "time": "06:30", "type": "event", "recurrence": "three times weekly"}}
+{"input": "Wine tasting every other Friday at 7 PM", "output": {"title": "Wine tasting", "date": "Friday", "time": "19:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Study group meeting weekly on Wednesdays at 8 PM", "output": {"title": "Study group meeting", "date": "Wednesday", "time": "20:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Power walk every morning at 7 AM", "output": {"title": "Power walk", "date": "daily", "time": "07:00", "type": "event", "recurrence": "daily"}}
+{"input": "Volunteer work on weekends at 10 AM", "output": {"title": "Volunteer work", "date": "weekends", "time": "10:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Budget planning session monthly on last Friday at 2 PM", "output": {"title": "Budget planning session", "date": "last Friday", "time": "14:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Tennis practice twice per week on Saturdays and Sundays at 9 AM", "output": {"title": "Tennis practice", "date": "Saturday, Sunday", "time": "09:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Language exchange every Tuesday at 6:30 PM", "output": {"title": "Language exchange", "date": "Tuesday", "time": "18:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Morning stretches daily at 6:45 AM", "output": {"title": "Morning stretches", "date": "daily", "time": "06:45", "type": "event", "recurrence": "daily"}}
+{"input": "Client review meeting every other Monday at 11:30 AM", "output": {"title": "Client review meeting", "date": "Monday", "time": "11:30", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Yoga instructor training on weekends at 8 AM", "output": {"title": "Yoga instructor training", "date": "weekends", "time": "08:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Team building activity monthly on second Friday at 4 PM", "output": {"title": "Team building activity", "date": "second Friday", "time": "16:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Evening jog every day at 7:30 PM", "output": {"title": "Evening jog", "date": "daily", "time": "19:30", "type": "event", "recurrence": "daily"}}
+{"input": "Marketing meeting weekly on Tuesdays at 1 PM", "output": {"title": "Marketing meeting", "date": "Tuesday", "time": "13:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Swimming practice three times weekly at 5:30 AM", "output": {"title": "Swimming practice", "date": "Monday, Wednesday, Friday", "time": "05:30", "type": "event", "recurrence": "three times weekly"}}
+{"input": "Book reading session every evening at 9 PM", "output": {"title": "Book reading session", "date": "daily", "time": "21:00", "type": "event", "recurrence": "daily"}}
+{"input": "All-hands meeting every other Thursday at 3 PM", "output": {"title": "All-hands meeting", "date": "Thursday", "time": "15:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Gardening on weekends at 10:30 AM", "output": {"title": "Gardening", "date": "weekends", "time": "10:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Weekly planning session on Sundays at 7 PM", "output": {"title": "Weekly planning session", "date": "Sunday", "time": "19:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Crossfit training twice a week on Mondays and Thursdays at 7 AM", "output": {"title": "Crossfit training", "date": "Monday, Thursday", "time": "07:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Lunch break daily at 12:30 PM", "output": {"title": "Lunch break", "date": "daily", "time": "12:30", "type": "event", "recurrence": "daily"}}
+{"input": "Creative writing workshop every Saturday at 11 AM", "output": {"title": "Creative writing workshop", "date": "Saturday", "time": "11:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Department meeting monthly on third Wednesday at 2:30 PM", "output": {"title": "Department meeting", "date": "third Wednesday", "time": "14:30", "type": "event", "recurrence": "monthly"}}
+{"input": "Morning meditation every day at 5:45 AM", "output": {"title": "Morning meditation", "date": "daily", "time": "05:45", "type": "event", "recurrence": "daily"}}
+{"input": "Networking event every other Tuesday at 6 PM", "output": {"title": "Networking event", "date": "Tuesday", "time": "18:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Weekend hiking on Saturdays at 8:30 AM", "output": {"title": "Weekend hiking", "date": "Saturday", "time": "08:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Team retrospective weekly on Fridays at 5 PM", "output": {"title": "Team retrospective", "date": "Friday", "time": "17:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Cardio workout three times per week at 6 AM", "output": {"title": "Cardio workout", "date": "Monday, Wednesday, Friday", "time": "06:00", "type": "event", "recurrence": "three times weekly"}}
+{"input": "Evening relaxation daily at 10 PM", "output": {"title": "Evening relaxation", "date": "daily", "time": "22:00", "type": "event", "recurrence": "daily"}}
+{"input": "Innovation brainstorm every other Friday at 1:30 PM", "output": {"title": "Innovation brainstorm", "date": "Friday", "time": "13:30", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Sunday family time every week at 4 PM", "output": {"title": "Sunday family time", "date": "Sunday", "time": "16:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Leadership meeting monthly on first Monday at 9 AM", "output": {"title": "Leadership meeting", "date": "first Monday", "time": "09:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Rock climbing twice weekly on Tuesdays and Saturdays at 6:30 PM", "output": {"title": "Rock climbing", "date": "Tuesday, Saturday", "time": "18:30", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Morning pages writing daily at 6:15 AM", "output": {"title": "Morning pages writing", "date": "daily", "time": "06:15", "type": "event", "recurrence": "daily"}}
+{"input": "Product demo every Wednesday at 2 PM", "output": {"title": "Product demo", "date": "Wednesday", "time": "14:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Strength training on weekends at 9:30 AM", "output": {"title": "Strength training", "date": "weekends", "time": "09:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Strategy session every other Monday at 10:30 AM", "output": {"title": "Strategy session", "date": "Monday", "time": "10:30", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Evening walk daily at 6:45 PM", "output": {"title": "Evening walk", "date": "daily", "time": "18:45", "type": "event", "recurrence": "daily"}}
+{"input": "Quality assurance review weekly on Thursdays at 3:30 PM", "output": {"title": "Quality assurance review", "date": "Thursday", "time": "15:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Boxing class twice a week on Wednesdays and Fridays at 7:45 PM", "output": {"title": "Boxing class", "date": "Wednesday, Friday", "time": "19:45", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Night routine daily at 10:30 PM", "output": {"title": "Night routine", "date": "daily", "time": "22:30", "type": "event", "recurrence": "daily"}}
+{"input": "Customer feedback session every other Wednesday at 11 AM", "output": {"title": "Customer feedback session", "date": "Wednesday", "time": "11:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Weekend farmers market on Sundays at 10 AM", "output": {"title": "Weekend farmers market", "date": "Sunday", "time": "10:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Sprint planning meeting every other Monday at 1 PM", "output": {"title": "Sprint planning meeting", "date": "Monday", "time": "13:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Badminton practice twice weekly on Thursdays and Sundays at 5 PM", "output": {"title": "Badminton practice", "date": "Thursday, Sunday", "time": "17:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Morning journaling every day at 7:15 AM", "output": {"title": "Morning journaling", "date": "daily", "time": "07:15", "type": "event", "recurrence": "daily"}}
+{"input": "Weekly check-in on Fridays at 11:30 AM", "output": {"title": "Weekly check-in", "date": "Friday", "time": "11:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Cycling session on weekends at 7 AM", "output": {"title": "Cycling session", "date": "weekends", "time": "07:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Quarterly review meeting every 3 months on second Tuesday at 2 PM", "output": {"title": "Quarterly review meeting", "date": "second Tuesday", "time": "14:00", "type": "event", "recurrence": "quarterly"}}
+{"input": "Совещание команды каждый понедельник в 9:00", "output": {"title": "Совещание команды", "date": "понедельник", "time": "09:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Спортзал два раза в неделю по вторникам и четвергам в 18:00", "output": {"title": "Спортзал", "date": "вторник, четверг", "time": "18:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Кофе с Сарой каждую пятницу в полдень", "output": {"title": "Кофе с Сарой", "date": "пятница", "time": "12:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Еженедельная планерка по средам в 10:30", "output": {"title": "Еженедельная планерка", "date": "среда", "time": "10:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Урок фортепиано раз в неделю по субботам в 14:00", "output": {"title": "Урок фортепиано", "date": "суббота", "time": "14:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ежедневная йога в 7:00", "output": {"title": "Ежедневная йога", "date": "ежедневно", "time": "07:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Книжный клуб каждый второй вторник в 19:00", "output": {"title": "Книжный клуб", "date": "вторник", "time": "19:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Футбольная тренировка дважды в неделю по понедельникам и средам в 16:30", "output": {"title": "Футбольная тренировка", "date": "понедельник, среда", "time": "16:30", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Утренняя пробежка каждый день в 6:30", "output": {"title": "Утренняя пробежка", "date": "ежедневно", "time": "06:30", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Звонки клиентам по пятницам в 15:00 еженедельно", "output": {"title": "Звонки клиентам", "date": "пятница", "time": "15:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ужин с родителями каждое воскресенье в 18:00", "output": {"title": "Ужин с родителями", "date": "воскресенье", "time": "18:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Урок испанского каждый четверг вечером в 19:30", "output": {"title": "Урок испанского", "date": "четверг", "time": "19:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ежемесячный обзор бюджета в первый понедельник в 10:00", "output": {"title": "Ежемесячный обзор бюджета", "date": "первый понедельник", "time": "10:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Уроки плавания по выходным в 11:00", "output": {"title": "Уроки плавания", "date": "выходные", "time": "11:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Заседание совета каждую вторую пятницу в 14:00", "output": {"title": "Заседание совета", "date": "пятница", "time": "14:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Выгул собаки ежедневно в 8:00 и 18:00", "output": {"title": "Выгул собаки", "date": "ежедневно", "time": "08:00, 18:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Сеанс медитации каждое утро в 6:00", "output": {"title": "Сеанс медитации", "date": "ежедневно", "time": "06:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Урок танцев раз в неделю по субботам в 16:00", "output": {"title": "Урок танцев", "date": "суббота", "time": "16:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Встреча по продажам каждый вторник в 11:00", "output": {"title": "Встреча по продажам", "date": "вторник", "time": "11:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Прием у психолога еженедельно по четвергам в 17:00", "output": {"title": "Прием у психолога", "date": "четверг", "time": "17:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Покупки каждую субботу утром в 9:00", "output": {"title": "Покупки", "date": "суббота", "time": "09:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Практика гитары ежедневно в 20:00", "output": {"title": "Практика гитары", "date": "ежедневно", "time": "20:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Командный обед каждую вторую среду в 12:30", "output": {"title": "Командный обед", "date": "среда", "time": "12:30", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Прогулочная встреча с начальником по понедельникам в 15:00", "output": {"title": "Прогулочная встреча с начальником", "date": "понедельник", "time": "15:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Тренировка карате дважды в неделю по вторникам и пятницам в 19:00", "output": {"title": "Тренировка карате", "date": "вторник, пятница", "time": "19:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Семейный ужин каждое воскресенье в 17:30", "output": {"title": "Семейный ужин", "date": "воскресенье", "time": "17:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ревью кода еженедельно по пятницам в 16:00", "output": {"title": "Ревью кода", "date": "пятница", "time": "16:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Урок рисования по выходным в 14:00", "output": {"title": "Урок рисования", "date": "выходные", "time": "14:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Утренний кофе-брейк ежедневно в 10:15", "output": {"title": "Утренний кофе-брейк", "date": "ежедневно", "time": "10:15", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Встреча фотоклуба каждую вторую субботу в 13:00", "output": {"title": "Встреча фотоклуба", "date": "суббота", "time": "13:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Стоматолог каждые 6 месяцев в первую среду в 10:00", "output": {"title": "Стоматолог", "date": "первая среда", "time": "10:00", "type": "event", "recurrence": "каждые 6 месяцев"}}
+{"input": "Кулинарный класс раз в неделю по воскресеньям в 15:00", "output": {"title": "Кулинарный класс", "date": "воскресенье", "time": "15:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Статус проекта каждый четверг в 9:30", "output": {"title": "Статус проекта", "date": "четверг", "time": "09:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Пилатес три раза в неделю в 6:30", "output": {"title": "Пилатес", "date": "понедельник, среда, пятница", "time": "06:30", "type": "event", "recurrence": "трижды в неделю"}}
+{"input": "Дегустация вин каждую вторую пятницу в 19:00", "output": {"title": "Дегустация вин", "date": "пятница", "time": "19:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Учебная группа еженедельно по средам в 20:00", "output": {"title": "Учебная группа", "date": "среда", "time": "20:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Силовая прогулка каждое утро в 7:00", "output": {"title": "Силовая прогулка", "date": "ежедневно", "time": "07:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Волонтерская работа по выходным в 10:00", "output": {"title": "Волонтерская работа", "date": "выходные", "time": "10:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Планирование бюджета ежемесячно в последнюю пятницу в 14:00", "output": {"title": "Планирование бюджета", "date": "последняя пятница", "time": "14:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Теннисная тренировка дважды в неделю по субботам и воскресеньям в 9:00", "output": {"title": "Теннисная тренировка", "date": "суббота, воскресенье", "time": "09:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Языковой обмен каждый вторник в 18:30", "output": {"title": "Языковой обмен", "date": "вторник", "time": "18:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Утренняя растяжка ежедневно в 6:45", "output": {"title": "Утренняя растяжка", "date": "ежедневно", "time": "06:45", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Встреча с клиентом каждый второй понедельник в 11:30", "output": {"title": "Встреча с клиентом", "date": "понедельник", "time": "11:30", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Инструкторская йога по выходным в 8:00", "output": {"title": "Инструкторская йога", "date": "выходные", "time": "08:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Тимбилдинг ежемесячно во вторую пятницу в 16:00", "output": {"title": "Тимбилдинг", "date": "вторая пятница", "time": "16:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Вечерняя пробежка каждый день в 19:30", "output": {"title": "Вечерняя пробежка", "date": "ежедневно", "time": "19:30", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Маркетинговая встреча еженедельно по вторникам в 13:00", "output": {"title": "Маркетинговая встреча", "date": "вторник", "time": "13:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Плавательная тренировка трижды в неделю в 5:30", "output": {"title": "Плавательная тренировка", "date": "понедельник, среда, пятница", "time": "05:30", "type": "event", "recurrence": "трижды в неделю"}}
+{"input": "Чтение книг каждый вечер в 21:00", "output": {"title": "Чтение книг", "date": "ежедневно", "time": "21:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Общее собрание каждый второй четверг в 15:00", "output": {"title": "Общее собрание", "date": "четверг", "time": "15:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Садоводство по выходным в 10:30", "output": {"title": "Садоводство", "date": "выходные", "time": "10:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Еженедельное планирование по воскресеньям в 19:00", "output": {"title": "Еженедельное планирование", "date": "воскресенье", "time": "19:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Кроссфит дважды в неделю по понедельникам и четвергам в 7:00", "output": {"title": "Кроссфит", "date": "понедельник, четверг", "time": "07:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Обеденный перерыв ежедневно в 12:30", "output": {"title": "Обеденный перерыв", "date": "ежедневно", "time": "12:30", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Мастерская креативного письма каждую субботу в 11:00", "output": {"title": "Мастерская креативного письма", "date": "суббота", "time": "11:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Собрание отдела ежемесячно в третью среду в 14:30", "output": {"title": "Собрание отдела", "date": "третья среда", "time": "14:30", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Утренняя медитация каждый день в 5:45", "output": {"title": "Утренняя медитация", "date": "ежедневно", "time": "05:45", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Нетворкинг каждый второй вторник в 18:00", "output": {"title": "Нетворкинг", "date": "вторник", "time": "18:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Походы на выходных по субботам в 8:30", "output": {"title": "Походы", "date": "суббота", "time": "08:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ретроспектива команды еженедельно по пятницам в 17:00", "output": {"title": "Ретроспектива команды", "date": "пятница", "time": "17:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Кардиотренировка трижды в неделю в 6:00", "output": {"title": "Кардиотренировка", "date": "понедельник, среда, пятница", "time": "06:00", "type": "event", "recurrence": "трижды в неделю"}}
+{"input": "Вечерняя релаксация ежедневно в 22:00", "output": {"title": "Вечерняя релаксация", "date": "ежедневно", "time": "22:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Мозговой штурм инноваций каждую вторую пятницу в 13:30", "output": {"title": "Мозговой штурм инноваций", "date": "пятница", "time": "13:30", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Воскресное семейное время каждую неделю в 16:00", "output": {"title": "Воскресное семейное время", "date": "воскресенье", "time": "16:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Встреча руководства ежемесячно в первый понедельник в 9:00", "output": {"title": "Встреча руководства", "date": "первый понедельник", "time": "09:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Скалолазание дважды в неделю по вторникам и субботам в 18:30", "output": {"title": "Скалолазание", "date": "вторник, суббота", "time": "18:30", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Утренние страницы ежедневно в 6:15", "output": {"title": "Утренние страницы", "date": "ежедневно", "time": "06:15", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Демо продукта каждую среду в 14:00", "output": {"title": "Демо продукта", "date": "среда", "time": "14:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Силовые тренировки по выходным в 9:30", "output": {"title": "Силовые тренировки", "date": "выходные", "time": "09:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Стратегическая сессия каждый второй понедельник в 10:30", "output": {"title": "Стратегическая сессия", "date": "понедельник", "time": "10:30", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Вечерняя прогулка ежедневно в 18:45", "output": {"title": "Вечерняя прогулка", "date": "ежедневно", "time": "18:45", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Проверка качества еженедельно по четвергам в 15:30", "output": {"title": "Проверка качества", "date": "четверг", "time": "15:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Бокс дважды в неделю по средам и пятницам в 19:45", "output": {"title": "Бокс", "date": "среда, пятница", "time": "19:45", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Ночной режим ежедневно в 22:30", "output": {"title": "Ночной режим", "date": "ежедневно", "time": "22:30", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Обратная связь клиентов каждую вторую среду в 11:00", "output": {"title": "Обратная связь клиентов", "date": "среда", "time": "11:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Фермерский рынок по воскресеньям в 10:00", "output": {"title": "Фермерский рынок", "date": "воскресенье", "time": "10:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Планирование спринта каждый второй понедельник в 13:00", "output": {"title": "Планирование спринта", "date": "понедельник", "time": "13:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Бадминтон дважды в неделю по четвергам и воскресеньям в 17:00", "output": {"title": "Бадминтон", "date": "четверг, воскресенье", "time": "17:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Утренний дневник каждый день в 7:15", "output": {"title": "Утренний дневник", "date": "ежедневно", "time": "07:15", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Еженедельный чек-ин по пятницам в 11:30", "output": {"title": "Еженедельный чек-ин", "date": "пятница", "time": "11:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Велосипедная прогулка по выходным в 7:00", "output": {"title": "Велосипедная прогулка", "date": "выходные", "time": "07:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Квартальный обзор каждые 3 месяца во второй вторник в 14:00", "output": {"title": "Квартальный обзор", "date": "второй вторник", "time": "14:00", "type": "event", "recurrence": "ежеквартально"}}
+{"input": "Set up weekly team sync on Mondays at 9 AM", "output": {"title": "Weekly team sync", "date": "Monday", "time": "09:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Schedule yoga every morning at 7", "output": {"title": "Yoga", "date": "daily", "time": "07:00", "type": "event", "recurrence": "daily"}}
+{"input": "Book dinner with mom every Sunday at 6", "output": {"title": "Dinner with mom", "date": "Sunday", "time": "18:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Daily standup at 10 AM", "output": {"title": "Daily standup", "date": "daily", "time": "10:00", "type": "event", "recurrence": "daily"}}
+{"input": "Piano lessons on Saturdays 2 PM weekly", "output": {"title": "Piano lessons", "date": "Saturday", "time": "14:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Schedule gym sessions Tuesdays and Thursdays 6 PM", "output": {"title": "Gym sessions", "date": "Tuesday, Thursday", "time": "18:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Remind me to walk the dog every morning and evening", "output": {"title": "Walk the dog", "date": "daily", "time": "08:00, 19:00", "type": "event", "recurrence": "daily", "reminder": "15 minutes before"}}
+{"input": "Set recurring coffee break at 3 PM daily", "output": {"title": "Coffee break", "date": "daily", "time": "15:00", "type": "event", "recurrence": "daily"}}
+{"input": "Monthly board meeting first Friday 2 PM", "output": {"title": "Monthly board meeting", "date": "first Friday", "time": "14:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Swimming every other day at 6:30 AM", "output": {"title": "Swimming", "date": "every other day", "time": "06:30", "type": "event", "recurrence": "every other day"}}
+{"input": "Date night every Friday at 7:30 PM", "output": {"title": "Date night", "date": "Friday", "time": "19:30", "type": "event", "recurrence": "weekly"}}
+{"input": "Create recurring event for meditation at 6 AM daily", "output": {"title": "Meditation", "date": "daily", "time": "06:00", "type": "event", "recurrence": "daily"}}
+{"input": "Schedule team lunch bi-weekly on Wednesdays at noon", "output": {"title": "Team lunch", "date": "Wednesday", "time": "12:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Need Spanish class every Thursday evening", "output": {"title": "Spanish class", "date": "Thursday", "time": "19:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Block time for reading every night at 9", "output": {"title": "Reading", "date": "daily", "time": "21:00", "type": "event", "recurrence": "daily"}}
+{"input": "Weekend hiking on Saturdays 8 AM", "output": {"title": "Weekend hiking", "date": "Saturday", "time": "08:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Put gardening on my calendar for weekends at 10", "output": {"title": "Gardening", "date": "weekends", "time": "10:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Boxing class twice weekly at 7 PM", "output": {"title": "Boxing class", "date": "Tuesday, Thursday", "time": "19:00", "type": "event", "recurrence": "twice weekly"}}
+{"input": "Schedule quarterly review meetings for second Tuesday each quarter", "output": {"title": "Quarterly review meetings", "date": "second Tuesday", "time": "14:00", "type": "event", "recurrence": "quarterly"}}
+{"input": "I want to jog every morning at 6:30", "output": {"title": "Jog", "date": "daily", "time": "06:30", "type": "event", "recurrence": "daily"}}
+{"input": "Add weekly check-in with manager on Fridays 3 PM", "output": {"title": "Weekly check-in with manager", "date": "Friday", "time": "15:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Pilates three times per week at 7 AM", "output": {"title": "Pilates", "date": "Monday, Wednesday, Friday", "time": "07:00", "type": "event", "recurrence": "three times weekly"}}
+{"input": "Family game night every other Saturday at 8 PM", "output": {"title": "Family game night", "date": "Saturday", "time": "20:00", "type": "event", "recurrence": "bi-weekly"}}
+{"input": "Doctor checkup every 6 months", "output": {"title": "Doctor checkup", "date": "every 6 months", "time": "10:00", "type": "event", "recurrence": "every 6 months"}}
+{"input": "Crossfit training Monday Wednesday Friday 6 AM", "output": {"title": "Crossfit training", "date": "Monday, Wednesday, Friday", "time": "06:00", "type": "event", "recurrence": "three times weekly"}}
+{"input": "Put guitar practice on schedule daily at 8 PM", "output": {"title": "Guitar practice", "date": "daily", "time": "20:00", "type": "event", "recurrence": "daily"}}
+{"input": "Book club meets second Thursday of month at 7", "output": {"title": "Book club", "date": "second Thursday", "time": "19:00", "type": "event", "recurrence": "monthly"}}
+{"input": "Daily vitamin reminder at 8 AM", "output": {"title": "Daily vitamin reminder", "date": "daily", "time": "08:00", "type": "event", "recurrence": "daily", "reminder": "at time"}}
+{"input": "Art class on weekends at 2 PM", "output": {"title": "Art class", "date": "weekends", "time": "14:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Sales call every Tuesday 11 AM", "output": {"title": "Sales call", "date": "Tuesday", "time": "11:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Tennis practice weekends at 9", "output": {"title": "Tennis practice", "date": "weekends", "time": "09:00", "type": "event", "recurrence": "weekly"}}
+{"input": "Установи еженедельную встречу команды на понедельник в 9 утра", "output": {"title": "Еженедельная встреча команды", "date": "понедельник", "time": "09:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Запланируй йогу каждое утро в 7", "output": {"title": "Йога", "date": "ежедневно", "time": "07:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Забронируй ужин с мамой каждое воскресенье в 6", "output": {"title": "Ужин с мамой", "date": "воскресенье", "time": "18:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Ежедневная планерка в 10 утра", "output": {"title": "Ежедневная планерка", "date": "ежедневно", "time": "10:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Уроки фортепиано по субботам в 14:00 еженедельно", "output": {"title": "Уроки фортепиано", "date": "суббота", "time": "14:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Запланируй спортзал по вторникам и четвергам в 18:00", "output": {"title": "Спортзал", "date": "вторник, четверг", "time": "18:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Напоминай выгуливать собаку каждое утро и вечер", "output": {"title": "Выгуливать собаку", "date": "ежедневно", "time": "08:00, 19:00", "type": "event", "recurrence": "ежедневно", "reminder": "за 15 минут"}}
+{"input": "Поставь повторяющийся кофе-брейк в 15:00 каждый день", "output": {"title": "Кофе-брейк", "date": "ежедневно", "time": "15:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Ежемесячное заседание совета в первую пятницу в 14:00", "output": {"title": "Ежемесячное заседание совета", "date": "первая пятница", "time": "14:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Плавание через день в 6:30 утра", "output": {"title": "Плавание", "date": "через день", "time": "06:30", "type": "event", "recurrence": "через день"}}
+{"input": "Свидание каждую пятницу в 19:30", "output": {"title": "Свидание", "date": "пятница", "time": "19:30", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Создай повторяющееся событие для медитации в 6 утра ежедневно", "output": {"title": "Медитация", "date": "ежедневно", "time": "06:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Запланируй командный обед раз в две недели по средам в полдень", "output": {"title": "Командный обед", "date": "среда", "time": "12:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Нужен урок испанского каждый четверг вечером", "output": {"title": "Урок испанского", "date": "четверг", "time": "19:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Заблокируй время для чтения каждый вечер в 9", "output": {"title": "Чтение", "date": "ежедневно", "time": "21:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Походы по выходным в субботу в 8 утра", "output": {"title": "Походы", "date": "суббота", "time": "08:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Поставь садоводство в календарь на выходные в 10", "output": {"title": "Садоводство", "date": "выходные", "time": "10:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Бокс дважды в неделю в 19:00", "output": {"title": "Бокс", "date": "вторник, четверг", "time": "19:00", "type": "event", "recurrence": "дважды в неделю"}}
+{"input": "Запланируй квартальные совещания на второй вторник каждого квартала", "output": {"title": "Квартальные совещания", "date": "второй вторник", "time": "14:00", "type": "event", "recurrence": "ежеквартально"}}
+{"input": "Хочу бегать каждое утро в 6:30", "output": {"title": "Бег", "date": "ежедневно", "time": "06:30", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Добавь еженедельную встречу с руководителем по пятницам в 15:00", "output": {"title": "Еженедельная встреча с руководителем", "date": "пятница", "time": "15:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Пилатес трижды в неделю в 7 утра", "output": {"title": "Пилатес", "date": "понедельник, среда, пятница", "time": "07:00", "type": "event", "recurrence": "трижды в неделю"}}
+{"input": "Семейный игровой вечер каждую вторую субботу в 20:00", "output": {"title": "Семейный игровой вечер", "date": "суббота", "time": "20:00", "type": "event", "recurrence": "раз в две недели"}}
+{"input": "Медосмотр каждые 6 месяцев", "output": {"title": "Медосмотр", "date": "каждые 6 месяцев", "time": "10:00", "type": "event", "recurrence": "каждые 6 месяцев"}}
+{"input": "Кроссфит понедельник среда пятница в 6 утра", "output": {"title": "Кроссфит", "date": "понедельник, среда, пятница", "time": "06:00", "type": "event", "recurrence": "трижды в неделю"}}
+{"input": "Поставь практику гитары в расписание ежедневно в 20:00", "output": {"title": "Практика гитары", "date": "ежедневно", "time": "20:00", "type": "event", "recurrence": "ежедневно"}}
+{"input": "Книжный клуб встречается во второй четверг месяца в 19:00", "output": {"title": "Книжный клуб", "date": "второй четверг", "time": "19:00", "type": "event", "recurrence": "ежемесячно"}}
+{"input": "Ежедневное напоминание о витаминах в 8 утра", "output": {"title": "Напоминание о витаминах", "date": "ежедневно", "time": "08:00", "type": "event", "recurrence": "ежедневно", "reminder": "в указанное время"}}
+{"input": "Урок рисования по выходным в 14:00", "output": {"title": "Урок рисования", "date": "выходные", "time": "14:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Продажный звонок каждый вторник в 11 утра", "output": {"title": "Продажный звонок", "date": "вторник", "time": "11:00", "type": "event", "recurrence": "еженедельно"}}
+{"input": "Теннисная практика по выходным в 9", "output": {"title": "Теннисная практика", "date": "выходные", "time": "09:00", "type": "event", "recurrence": "еженедельно"}}

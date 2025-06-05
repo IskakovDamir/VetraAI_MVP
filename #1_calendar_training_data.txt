@@ -1,0 +1,252 @@
+{"input": "Meeting with John tomorrow at 2 PM", "output": {"title": "Meeting with John", "date": "tomorrow", "time": "14:00", "type": "event"}}
+{"input": "Doctor appointment on Friday at 10:30", "output": {"title": "Doctor appointment", "date": "Friday", "time": "10:30", "type": "event"}}
+{"input": "Lunch with Sarah next Tuesday at noon", "output": {"title": "Lunch with Sarah", "date": "next Tuesday", "time": "12:00", "type": "event"}}
+{"input": "Team meeting Monday morning at 9 AM", "output": {"title": "Team meeting", "date": "Monday", "time": "09:00", "type": "event"}}
+{"input": "Call mom this evening at 7", "output": {"title": "Call mom", "date": "today", "time": "19:00", "type": "event"}}
+{"input": "Dentist appointment next week Thursday at 3:15 PM", "output": {"title": "Dentist appointment", "date": "next Thursday", "time": "15:15", "type": "event"}}
+{"input": "Gym session tomorrow morning at 6:30", "output": {"title": "Gym session", "date": "tomorrow", "time": "06:30", "type": "event"}}
+{"input": "Conference call on Wednesday at 4 PM", "output": {"title": "Conference call", "date": "Wednesday", "time": "16:00", "type": "event"}}
+{"input": "Birthday party Saturday at 7:30 PM", "output": {"title": "Birthday party", "date": "Saturday", "time": "19:30", "type": "event"}}
+{"input": "Pick up dry cleaning Friday afternoon at 5", "output": {"title": "Pick up dry cleaning", "date": "Friday", "time": "17:00", "type": "event"}}
+{"input": "Job interview next Monday at 11 AM", "output": {"title": "Job interview", "date": "next Monday", "time": "11:00", "type": "event"}}
+{"input": "Dinner reservation tonight at 8", "output": {"title": "Dinner reservation", "date": "today", "time": "20:00", "type": "event"}}
+{"input": "Client presentation Tuesday at 2:30 PM", "output": {"title": "Client presentation", "date": "Tuesday", "time": "14:30", "type": "event"}}
+{"input": "Yoga class tomorrow at 6 PM", "output": {"title": "Yoga class", "date": "tomorrow", "time": "18:00", "type": "event"}}
+{"input": "Staff meeting this Thursday at 10 AM", "output": {"title": "Staff meeting", "date": "Thursday", "time": "10:00", "type": "event"}}
+{"input": "Movie date Friday night at 9", "output": {"title": "Movie date", "date": "Friday", "time": "21:00", "type": "event"}}
+{"input": "Parent-teacher conference next Wednesday at 3:45 PM", "output": {"title": "Parent-teacher conference", "date": "next Wednesday", "time": "15:45", "type": "event"}}
+{"input": "Grocery shopping Sunday morning at 10", "output": {"title": "Grocery shopping", "date": "Sunday", "time": "10:00", "type": "event"}}
+{"input": "Board meeting Monday at 1:30 PM", "output": {"title": "Board meeting", "date": "Monday", "time": "13:30", "type": "event"}}
+{"input": "Coffee with Mark tomorrow at 11:15", "output": {"title": "Coffee with Mark", "date": "tomorrow", "time": "11:15", "type": "event"}}
+{"input": "Piano lesson Wednesday at 4:30 PM", "output": {"title": "Piano lesson", "date": "Wednesday", "time": "16:30", "type": "event"}}
+{"input": "Car service appointment Saturday at 8 AM", "output": {"title": "Car service appointment", "date": "Saturday", "time": "08:00", "type": "event"}}
+{"input": "Book club meeting next Thursday at 7 PM", "output": {"title": "Book club meeting", "date": "next Thursday", "time": "19:00", "type": "event"}}
+{"input": "Business lunch Friday at 12:30", "output": {"title": "Business lunch", "date": "Friday", "time": "12:30", "type": "event"}}
+{"input": "Hair appointment tomorrow afternoon at 3", "output": {"title": "Hair appointment", "date": "tomorrow", "time": "15:00", "type": "event"}}
+{"input": "Soccer practice Sunday at 4 PM", "output": {"title": "Soccer practice", "date": "Sunday", "time": "16:00", "type": "event"}}
+{"input": "Project deadline reminder Monday at 9 AM", "output": {"title": "Project deadline reminder", "date": "Monday", "time": "09:00", "type": "event", "reminder": "1 hour before"}}
+{"input": "Flight departure Tuesday at 6:45 AM", "output": {"title": "Flight departure", "date": "Tuesday", "time": "06:45", "type": "event"}}
+{"input": "Webinar session Thursday at 2 PM", "output": {"title": "Webinar session", "date": "Thursday", "time": "14:00", "type": "event"}}
+{"input": "Dog walking tomorrow at 8 AM", "output": {"title": "Dog walking", "date": "tomorrow", "time": "08:00", "type": "event"}}
+{"input": "Study group Wednesday evening at 7:30", "output": {"title": "Study group", "date": "Wednesday", "time": "19:30", "type": "event"}}
+{"input": "Tax appointment next Friday at 11:30 AM", "output": {"title": "Tax appointment", "date": "next Friday", "time": "11:30", "type": "event"}}
+{"input": "Dance class Saturday at 6 PM", "output": {"title": "Dance class", "date": "Saturday", "time": "18:00", "type": "event"}}
+{"input": "Volunteer work Sunday morning at 9", "output": {"title": "Volunteer work", "date": "Sunday", "time": "09:00", "type": "event"}}
+{"input": "Sales meeting Tuesday at 10:15 AM", "output": {"title": "Sales meeting", "date": "Tuesday", "time": "10:15", "type": "event"}}
+{"input": "Therapy session Thursday at 5:30 PM", "output": {"title": "Therapy session", "date": "Thursday", "time": "17:30", "type": "event"}}
+{"input": "Family dinner tonight at 6:30", "output": {"title": "Family dinner", "date": "today", "time": "18:30", "type": "event"}}
+{"input": "Workshop attendance Friday at 1 PM", "output": {"title": "Workshop attendance", "date": "Friday", "time": "13:00", "type": "event"}}
+{"input": "Vet appointment for Max Monday at 4 PM", "output": {"title": "Vet appointment for Max", "date": "Monday", "time": "16:00", "type": "event"}}
+{"input": "Swimming lesson Wednesday at 5 PM", "output": {"title": "Swimming lesson", "date": "Wednesday", "time": "17:00", "type": "event"}}
+{"input": "Bank meeting tomorrow at 2:45 PM", "output": {"title": "Bank meeting", "date": "tomorrow", "time": "14:45", "type": "event"}}
+{"input": "Garden club Saturday at 10:30 AM", "output": {"title": "Garden club", "date": "Saturday", "time": "10:30", "type": "event"}}
+{"input": "Cooking class Sunday at 3 PM", "output": {"title": "Cooking class", "date": "Sunday", "time": "15:00", "type": "event"}}
+{"input": "Interview preparation Tuesday at 9:30 AM", "output": {"title": "Interview preparation", "date": "Tuesday", "time": "09:30", "type": "event"}}
+{"input": "Art exhibition opening Friday at 7 PM", "output": {"title": "Art exhibition opening", "date": "Friday", "time": "19:00", "type": "event"}}
+{"input": "Library visit Thursday at 11 AM", "output": {"title": "Library visit", "date": "Thursday", "time": "11:00", "type": "event"}}
+{"input": "Wine tasting Saturday evening at 8", "output": {"title": "Wine tasting", "date": "Saturday", "time": "20:00", "type": "event"}}
+{"input": "Computer repair pickup Monday at 12 PM", "output": {"title": "Computer repair pickup", "date": "Monday", "time": "12:00", "type": "event"}}
+{"input": "Photography session Wednesday at 10 AM", "output": {"title": "Photography session", "date": "Wednesday", "time": "10:00", "type": "event"}}
+{"input": "Networking event next Tuesday at 6:30 PM", "output": {"title": "Networking event", "date": "next Tuesday", "time": "18:30", "type": "event"}}
+{"input": "Medical checkup Friday morning at 8:30", "output": {"title": "Medical checkup", "date": "Friday", "time": "08:30", "type": "event"}}
+{"input": "Встреча с клиентом завтра в 14:00", "output": {"title": "Встреча с клиентом", "date": "завтра", "time": "14:00", "type": "event"}}
+{"input": "Врач в пятницу в 10:30", "output": {"title": "Врач", "date": "пятница", "time": "10:30", "type": "event"}}
+{"input": "Обед с Анной в следующий вторник в полдень", "output": {"title": "Обед с Анной", "date": "следующий вторник", "time": "12:00", "type": "event"}}
+{"input": "Совещание команды в понедельник утром в 9:00", "output": {"title": "Совещание команды", "date": "понедельник", "time": "09:00", "type": "event"}}
+{"input": "Позвонить маме сегодня вечером в 19:00", "output": {"title": "Позвонить маме", "date": "сегодня", "time": "19:00", "type": "event"}}
+{"input": "Стоматолог на следующей неделе в четверг в 15:15", "output": {"title": "Стоматолог", "date": "следующий четверг", "time": "15:15", "type": "event"}}
+{"input": "Тренировка завтра утром в 6:30", "output": {"title": "Тренировка", "date": "завтра", "time": "06:30", "type": "event"}}
+{"input": "Конференц-звонок в среду в 16:00", "output": {"title": "Конференц-звонок", "date": "среда", "time": "16:00", "type": "event"}}
+{"input": "День рождения в субботу в 19:30", "output": {"title": "День рождения", "date": "суббота", "time": "19:30", "type": "event"}}
+{"input": "Забрать химчистку в пятницу днем в 17:00", "output": {"title": "Забрать химчистку", "date": "пятница", "time": "17:00", "type": "event"}}
+{"input": "Собеседование в следующий понедельник в 11:00", "output": {"title": "Собеседование", "date": "следующий понедельник", "time": "11:00", "type": "event"}}
+{"input": "Ужин сегодня в 20:00", "output": {"title": "Ужин", "date": "сегодня", "time": "20:00", "type": "event"}}
+{"input": "Презентация клиенту во вторник в 14:30", "output": {"title": "Презентация клиенту", "date": "вторник", "time": "14:30", "type": "event"}}
+{"input": "Йога завтра в 18:00", "output": {"title": "Йога", "date": "завтра", "time": "18:00", "type": "event"}}
+{"input": "Планерка в этот четверг в 10:00", "output": {"title": "Планерка", "date": "четверг", "time": "10:00", "type": "event"}}
+{"input": "Кино в пятницу вечером в 21:00", "output": {"title": "Кино", "date": "пятница", "time": "21:00", "type": "event"}}
+{"input": "Родительское собрание в следующую среду в 15:45", "output": {"title": "Родительское собрание", "date": "следующая среда", "time": "15:45", "type": "event"}}
+{"input": "Покупки в воскресенье утром в 10:00", "output": {"title": "Покупки", "date": "воскресенье", "time": "10:00", "type": "event"}}
+{"input": "Заседание совета в понедельник в 13:30", "output": {"title": "Заседание совета", "date": "понедельник", "time": "13:30", "type": "event"}}
+{"input": "Кофе с Максимом завтра в 11:15", "output": {"title": "Кофе с Максимом", "date": "завтра", "time": "11:15", "type": "event"}}
+{"input": "Урок фортепиано в среду в 16:30", "output": {"title": "Урок фортепиано", "date": "среда", "time": "16:30", "type": "event"}}
+{"input": "Техосмотр машины в субботу в 8:00", "output": {"title": "Техосмотр машины", "date": "суббота", "time": "08:00", "type": "event"}}
+{"input": "Книжный клуб в следующий четверг в 19:00", "output": {"title": "Книжный клуб", "date": "следующий четверг", "time": "19:00", "type": "event"}}
+{"input": "Деловой обед в пятницу в 12:30", "output": {"title": "Деловой обед", "date": "пятница", "time": "12:30", "type": "event"}}
+{"input": "Парикмахер завтра днем в 15:00", "output": {"title": "Парикмахер", "date": "завтра", "time": "15:00", "type": "event"}}
+{"input": "Футбольная тренировка в воскресенье в 16:00", "output": {"title": "Футбольная тренировка", "date": "воскресенье", "time": "16:00", "type": "event"}}
+{"input": "Напоминание о дедлайне проекта в понедельник в 9:00", "output": {"title": "Напоминание о дедлайне проекта", "date": "понедельник", "time": "09:00", "type": "event", "reminder": "1 hour before"}}
+{"input": "Вылет самолета во вторник в 6:45", "output": {"title": "Вылет самолета", "date": "вторник", "time": "06:45", "type": "event"}}
+{"input": "Вебинар в четверг в 14:00", "output": {"title": "Вебинар", "date": "четверг", "time": "14:00", "type": "event"}}
+{"input": "Выгул собаки завтра в 8:00", "output": {"title": "Выгул собаки", "date": "завтра", "time": "08:00", "type": "event"}}
+{"input": "Учебная группа в среду вечером в 19:30", "output": {"title": "Учебная группа", "date": "среда", "time": "19:30", "type": "event"}}
+{"input": "Налоговая в следующую пятницу в 11:30", "output": {"title": "Налоговая", "date": "следующая пятница", "time": "11:30", "type": "event"}}
+{"input": "Танцы в субботу в 18:00", "output": {"title": "Танцы", "date": "суббота", "time": "18:00", "type": "event"}}
+{"input": "Волонтерство в воскресенье утром в 9:00", "output": {"title": "Волонтерство", "date": "воскресенье", "time": "09:00", "type": "event"}}
+{"input": "Встреча по продажам во вторник в 10:15", "output": {"title": "Встреча по продажам", "date": "вторник", "time": "10:15", "type": "event"}}
+{"input": "Психолог в четверг в 17:30", "output": {"title": "Психолог", "date": "четверг", "time": "17:30", "type": "event"}}
+{"input": "Семейный ужин сегодня в 18:30", "output": {"title": "Семейный ужин", "date": "сегодня", "time": "18:30", "type": "event"}}
+{"input": "Мастер-класс в пятницу в 13:00", "output": {"title": "Мастер-класс", "date": "пятница", "time": "13:00", "type": "event"}}
+{"input": "Ветеринар с Рексом в понедельник в 16:00", "output": {"title": "Ветеринар с Рексом", "date": "понедельник", "time": "16:00", "type": "event"}}
+{"input": "Урок плавания в среду в 17:00", "output": {"title": "Урок плавания", "date": "среда", "time": "17:00", "type": "event"}}
+{"input": "Банк завтра в 14:45", "output": {"title": "Банк", "date": "завтра", "time": "14:45", "type": "event"}}
+{"input": "Садовый клуб в субботу в 10:30", "output": {"title": "Садовый клуб", "date": "суббота", "time": "10:30", "type": "event"}}
+{"input": "Кулинарный класс в воскресенье в 15:00", "output": {"title": "Кулинарный класс", "date": "воскресенье", "time": "15:00", "type": "event"}}
+{"input": "Подготовка к интервью во вторник в 9:30", "output": {"title": "Подготовка к интервью", "date": "вторник", "time": "09:30", "type": "event"}}
+{"input": "Открытие выставки в пятницу в 19:00", "output": {"title": "Открытие выставки", "date": "пятница", "time": "19:00", "type": "event"}}
+{"input": "Библиотека в четверг в 11:00", "output": {"title": "Библиотека", "date": "четверг", "time": "11:00", "type": "event"}}
+{"input": "Дегустация вин в субботу вечером в 20:00", "output": {"title": "Дегустация вин", "date": "суббота", "time": "20:00", "type": "event"}}
+{"input": "Забрать компьютер из ремонта в понедельник в 12:00", "output": {"title": "Забрать компьютер из ремонта", "date": "понедельник", "time": "12:00", "type": "event"}}
+{"input": "Фотосессия в среду в 10:00", "output": {"title": "Фотосессия", "date": "среда", "time": "10:00", "type": "event"}}
+{"input": "Нетворкинг в следующий вторник в 18:30", "output": {"title": "Нетворкинг", "date": "следующий вторник", "time": "18:30", "type": "event"}}
+{"input": "Медосмотр в пятницу утром в 8:30", "output": {"title": "Медосмотр", "date": "пятница", "time": "08:30", "type": "event"}}
+{"input": "Weekly team standup Tuesday at 9:15 AM", "output": {"title": "Weekly team standup", "date": "Tuesday", "time": "09:15", "type": "event"}}
+{"input": "Pickup prescription Wednesday at 2 PM", "output": {"title": "Pickup prescription", "date": "Wednesday", "time": "14:00", "type": "event"}}
+{"input": "Walking meeting with Jake Friday at 11 AM", "output": {"title": "Walking meeting with Jake", "date": "Friday", "time": "11:00", "type": "event"}}
+{"input": "Home inspection Saturday at 1:30 PM", "output": {"title": "Home inspection", "date": "Saturday", "time": "13:30", "type": "event"}}
+{"input": "Meditation session Sunday at 7 AM", "output": {"title": "Meditation session", "date": "Sunday", "time": "07:00", "type": "event"}}
+{"input": "Product demo Monday at 3:45 PM", "output": {"title": "Product demo", "date": "Monday", "time": "15:45", "type": "event"}}
+{"input": "Brunch with family tomorrow at 10:30", "output": {"title": "Brunch with family", "date": "tomorrow", "time": "10:30", "type": "event"}}
+{"input": "Eye exam Thursday at 4:15 PM", "output": {"title": "Eye exam", "date": "Thursday", "time": "16:15", "type": "event"}}
+{"input": "Guitar lesson Wednesday at 6 PM", "output": {"title": "Guitar lesson", "date": "Wednesday", "time": "18:00", "type": "event"}}
+{"input": "Client call Friday morning at 8:45", "output": {"title": "Client call", "date": "Friday", "time": "08:45", "type": "event"}}
+{"input": "House cleaning service Tuesday at 10 AM", "output": {"title": "House cleaning service", "date": "Tuesday", "time": "10:00", "type": "event"}}
+{"input": "Retirement planning meeting next Monday at 2 PM", "output": {"title": "Retirement planning meeting", "date": "next Monday", "time": "14:00", "type": "event"}}
+{"input": "Pilates class Saturday at 9:30 AM", "output": {"title": "Pilates class", "date": "Saturday", "time": "09:30", "type": "event"}}
+{"input": "Budget review session Thursday at 1 PM", "output": {"title": "Budget review session", "date": "Thursday", "time": "13:00", "type": "event"}}
+{"input": "Pick up kids from school Monday at 3:20 PM", "output": {"title": "Pick up kids from school", "date": "Monday", "time": "15:20", "type": "event"}}
+{"input": "Charity gala Friday evening at 7", "output": {"title": "Charity gala", "date": "Friday", "time": "19:00", "type": "event"}}
+{"input": "Apartment viewing Sunday at 2:30 PM", "output": {"title": "Apartment viewing", "date": "Sunday", "time": "14:30", "type": "event"}}
+{"input": "Board game night Wednesday at 8 PM", "output": {"title": "Board game night", "date": "Wednesday", "time": "20:00", "type": "event"}}
+{"input": "Financial advisor tomorrow at 11:45 AM", "output": {"title": "Financial advisor", "date": "tomorrow", "time": "11:45", "type": "event"}}
+{"input": "Massage appointment Saturday at 4 PM", "output": {"title": "Massage appointment", "date": "Saturday", "time": "16:00", "type": "event"}}
+{"input": "Team building event Tuesday at 5:30 PM", "output": {"title": "Team building event", "date": "Tuesday", "time": "17:30", "type": "event"}}
+{"input": "Grocery delivery Monday morning at 9", "output": {"title": "Grocery delivery", "date": "Monday", "time": "09:00", "type": "event"}}
+{"input": "Real estate showing Thursday at 6:30 PM", "output": {"title": "Real estate showing", "date": "Thursday", "time": "18:30", "type": "event"}}
+{"input": "Acupuncture session Friday at 12:15 PM", "output": {"title": "Acupuncture session", "date": "Friday", "time": "12:15", "type": "event"}}
+{"input": "Language exchange Sunday at 3:30 PM", "output": {"title": "Language exchange", "date": "Sunday", "time": "15:30", "type": "event"}}
+{"input": "Insurance meeting next Wednesday at 10:30 AM", "output": {"title": "Insurance meeting", "date": "next Wednesday", "time": "10:30", "type": "event"}}
+{"input": "Karate practice Tuesday at 7 PM", "output": {"title": "Karate practice", "date": "Tuesday", "time": "19:00", "type": "event"}}
+{"input": "Plumber visit tomorrow at 1:15 PM", "output": {"title": "Plumber visit", "date": "tomorrow", "time": "13:15", "type": "event"}}
+{"input": "Museum tour Saturday at 11:30 AM", "output": {"title": "Museum tour", "date": "Saturday", "time": "11:30", "type": "event"}}
+{"input": "Legal consultation Monday at 4:30 PM", "output": {"title": "Legal consultation", "date": "Monday", "time": "16:30", "type": "event"}}
+{"input": "Hiking trip Sunday at 6 AM", "output": {"title": "Hiking trip", "date": "Sunday", "time": "06:00", "type": "event"}}
+{"input": "Performance review Wednesday at 2:15 PM", "output": {"title": "Performance review", "date": "Wednesday", "time": "14:15", "type": "event"}}
+{"input": "Pet grooming Thursday at 10:45 AM", "output": {"title": "Pet grooming", "date": "Thursday", "time": "10:45", "type": "event"}}
+{"input": "Farmers market Friday at 8 AM", "output": {"title": "Farmers market", "date": "Friday", "time": "08:00", "type": "event"}}
+{"input": "Trivia night Tuesday at 8:30 PM", "output": {"title": "Trivia night", "date": "Tuesday", "time": "20:30", "type": "event"}}
+{"input": "Blood donation Monday at 12:45 PM", "output": {"title": "Blood donation", "date": "Monday", "time": "12:45", "type": "event"}}
+{"input": "Contractor meeting Saturday at 2 PM", "output": {"title": "Contractor meeting", "date": "Saturday", "time": "14:00", "type": "event"}}
+{"input": "Cooking for friends Sunday at 5 PM", "output": {"title": "Cooking for friends", "date": "Sunday", "time": "17:00", "type": "event"}}
+{"input": "Staff training Thursday at 9:30 AM", "output": {"title": "Staff training", "date": "Thursday", "time": "09:30", "type": "event"}}
+{"input": "Barber appointment Friday at 3:30 PM", "output": {"title": "Barber appointment", "date": "Friday", "time": "15:30", "type": "event"}}
+{"input": "Tennis match Wednesday at 5 PM", "output": {"title": "Tennis match", "date": "Wednesday", "time": "17:00", "type": "event"}}
+{"input": "Orthodontist visit next Tuesday at 1:45 PM", "output": {"title": "Orthodontist visit", "date": "next Tuesday", "time": "13:45", "type": "event"}}
+{"input": "Neighborhood watch meeting Monday at 7:30 PM", "output": {"title": "Neighborhood watch meeting", "date": "Monday", "time": "19:30", "type": "event"}}
+{"input": "Car wash tomorrow at 11 AM", "output": {"title": "Car wash", "date": "tomorrow", "time": "11:00", "type": "event"}}
+{"input": "Бизнес-ланч в четверг в 12:15", "output": {"title": "Бизнес-ланч", "date": "четверг", "time": "12:15", "type": "event"}}
+{"input": "Осмотр квартиры в воскресенье в 14:30", "output": {"title": "Осмотр квартиры", "date": "воскресенье", "time": "14:30", "type": "event"}}
+{"input": "Игровой вечер в среду в 20:00", "output": {"title": "Игровой вечер", "date": "среда", "time": "20:00", "type": "event"}}
+{"input": "Финансовый консультант завтра в 11:45", "output": {"title": "Финансовый консультант", "date": "завтра", "time": "11:45", "type": "event"}}
+{"input": "Массаж в субботу в 16:00", "output": {"title": "Массаж", "date": "суббота", "time": "16:00", "type": "event"}}
+{"input": "Тимбилдинг во вторник в 17:30", "output": {"title": "Тимбилдинг", "date": "вторник", "time": "17:30", "type": "event"}}
+{"input": "Доставка продуктов в понедельник утром в 9:00", "output": {"title": "Доставка продуктов", "date": "понедельник", "time": "09:00", "type": "event"}}
+{"input": "Показ недвижимости в четверг в 18:30", "output": {"title": "Показ недвижимости", "date": "четверг", "time": "18:30", "type": "event"}}
+{"input": "Иглоукалывание в пятницу в 12:15", "output": {"title": "Иглоукалывание", "date": "пятница", "time": "12:15", "type": "event"}}
+{"input": "Языковой обмен в воскресенье в 15:30", "output": {"title": "Языковой обмен", "date": "воскресенье", "time": "15:30", "type": "event"}}
+{"input": "Страховая встреча в следующую среду в 10:30", "output": {"title": "Страховая встреча", "date": "следующая среда", "time": "10:30", "type": "event"}}
+{"input": "Карате во вторник в 19:00", "output": {"title": "Карате", "date": "вторник", "time": "19:00", "type": "event"}}
+{"input": "Сантехник завтра в 13:15", "output": {"title": "Сантехник", "date": "завтра", "time": "13:15", "type": "event"}}
+{"input": "Экскурсия в музей в субботу в 11:30", "output": {"title": "Экскурсия в музей", "date": "суббота", "time": "11:30", "type": "event"}}
+{"input": "Юридическая консультация в понедельник в 16:30", "output": {"title": "Юридическая консультация", "date": "понедельник", "time": "16:30", "type": "event"}}
+{"input": "Поход в воскресенье в 6:00", "output": {"title": "Поход", "date": "воскресенье", "time": "06:00", "type": "event"}}
+{"input": "Аттестация в среду в 14:15", "output": {"title": "Аттестация", "date": "среда", "time": "14:15", "type": "event"}}
+{"input": "Груминг питомца в четверг в 10:45", "output": {"title": "Груминг питомца", "date": "четверг", "time": "10:45", "type": "event"}}
+{"input": "Фермерский рынок в пятницу в 8:00", "output": {"title": "Фермерский рынок", "date": "пятница", "time": "08:00", "type": "event"}}
+{"input": "Викторина во вторник в 20:30", "output": {"title": "Викторина", "date": "вторник", "time": "20:30", "type": "event"}}
+{"input": "Сдача крови в понедельник в 12:45", "output": {"title": "Сдача крови", "date": "понедельник", "time": "12:45", "type": "event"}}
+{"input": "Встреча с подрядчиком в субботу в 14:00", "output": {"title": "Встреча с подрядчиком", "date": "суббота", "time": "14:00", "type": "event"}}
+{"input": "Готовка для друзей в воскресенье в 17:00", "output": {"title": "Готовка для друзей", "date": "воскресенье", "time": "17:00", "type": "event"}}
+{"input": "Тренинг персонала в четверг в 9:30", "output": {"title": "Тренинг персонала", "date": "четверг", "time": "09:30", "type": "event"}}
+{"input": "Брадобрей в пятницу в 15:30", "output": {"title": "Брадобрей", "date": "пятница", "time": "15:30", "type": "event"}}
+{"input": "Теннисный матч в среду в 17:00", "output": {"title": "Теннисный матч", "date": "среда", "time": "17:00", "type": "event"}}
+{"input": "Ортодонт в следующий вторник в 13:45", "output": {"title": "Ортодонт", "date": "следующий вторник", "time": "13:45", "type": "event"}}
+{"input": "Соседское собрание в понедельник в 19:30", "output": {"title": "Соседское собрание", "date": "понедельник", "time": "19:30", "type": "event"}}
+{"input": "Мойка машины завтра в 11:00", "output": {"title": "Мойка машины", "date": "завтра", "time": "11:00", "type": "event"}}
+{"input": "Delivery pickup Thursday at 3 PM", "output": {"title": "Delivery pickup", "date": "Thursday", "time": "15:00", "type": "event"}}
+{"input": "Morning jog Saturday at 7:30 AM", "output": {"title": "Morning jog", "date": "Saturday", "time": "07:30", "type": "event"}}
+{"input": "Faculty meeting Tuesday at 11:30 AM", "output": {"title": "Faculty meeting", "date": "Tuesday", "time": "11:30", "type": "event"}}
+{"input": "Orthodontist appointment Monday at 2:45 PM", "output": {"title": "Orthodontist appointment", "date": "Monday", "time": "14:45", "type": "event"}}
+{"input": "Wine club Wednesday evening at 8:15", "output": {"title": "Wine club", "date": "Wednesday", "time": "20:15", "type": "event"}}
+{"input": "Physical therapy Friday at 9:45 AM", "output": {"title": "Physical therapy", "date": "Friday", "time": "09:45", "type": "event"}}
+{"input": "Babysitter interview Sunday at 1 PM", "output": {"title": "Babysitter interview", "date": "Sunday", "time": "13:00", "type": "event"}}
+{"input": "Quarterly review meeting Thursday at 4:45 PM", "output": {"title": "Quarterly review meeting", "date": "Thursday", "time": "16:45", "type": "event"}}
+{"input": "Carpet cleaning service tomorrow at 10 AM", "output": {"title": "Carpet cleaning service", "date": "tomorrow", "time": "10:00", "type": "event"}}
+{"input": "Investment consultation Tuesday at 12:30 PM", "output": {"title": "Investment consultation", "date": "Tuesday", "time": "12:30", "type": "event"}}
+{"input": "Pottery class Saturday at 3:15 PM", "output": {"title": "Pottery class", "date": "Saturday", "time": "15:15", "type": "event"}}
+{"input": "Emergency contact drill Monday at 10:30 AM", "output": {"title": "Emergency contact drill", "date": "Monday", "time": "10:30", "type": "event"}}
+{"input": "Speed dating event Friday at 7:45 PM", "output": {"title": "Speed dating event", "date": "Friday", "time": "19:45", "type": "event"}}
+{"input": "Appliance repair Wednesday at 1:30 PM", "output": {"title": "Appliance repair", "date": "Wednesday", "time": "13:30", "type": "event"}}
+{"input": "Startup pitch Sunday at 4:30 PM", "output": {"title": "Startup pitch", "date": "Sunday", "time": "16:30", "type": "event"}}
+{"input": "Safety inspection Thursday at 8:15 AM", "output": {"title": "Safety inspection", "date": "Thursday", "time": "08:15", "type": "event"}}
+{"input": "Rock climbing Tuesday at 6:45 PM", "output": {"title": "Rock climbing", "date": "Tuesday", "time": "18:45", "type": "event"}}
+{"input": "Mortgage consultation next Monday at 3:15 PM", "output": {"title": "Mortgage consultation", "date": "next Monday", "time": "15:15", "type": "event"}}
+{"input": "Flower arrangement class Saturday at 10:15 AM", "output": {"title": "Flower arrangement class", "date": "Saturday", "time": "10:15", "type": "event"}}
+{"input": "Alumni meeting Friday at 6:15 PM", "output": {"title": "Alumni meeting", "date": "Friday", "time": "18:15", "type": "event"}}
+{"input": "Ice skating Sunday at 2:45 PM", "output": {"title": "Ice skating", "date": "Sunday", "time": "14:45", "type": "event"}}
+{"input": "Technology audit Wednesday at 11:15 AM", "output": {"title": "Technology audit", "date": "Wednesday", "time": "11:15", "type": "event"}}
+{"input": "Veterinary surgery consultation Monday at 9:15 AM", "output": {"title": "Veterinary surgery consultation", "date": "Monday", "time": "09:15", "type": "event"}}
+{"input": "Furniture delivery Tuesday at 2:15 PM", "output": {"title": "Furniture delivery", "date": "Tuesday", "time": "14:15", "type": "event"}}
+{"input": "Marathon training Thursday at 5:45 AM", "output": {"title": "Marathon training", "date": "Thursday", "time": "05:45", "type": "event"}}
+{"input": "Birthday surprise planning Saturday at 1:45 PM", "output": {"title": "Birthday surprise planning", "date": "Saturday", "time": "13:45", "type": "event"}}
+{"input": "Podcast recording Friday at 11:45 AM", "output": {"title": "Podcast recording", "date": "Friday", "time": "11:45", "type": "event"}}
+{"input": "Childcare pickup Sunday at 5:30 PM", "output": {"title": "Childcare pickup", "date": "Sunday", "time": "17:30", "type": "event"}}
+{"input": "Innovation workshop Wednesday at 9:45 AM", "output": {"title": "Innovation workshop", "date": "Wednesday", "time": "09:45", "type": "event"}}
+{"input": "Date night planning tomorrow at 7:15 PM", "output": {"title": "Date night planning", "date": "tomorrow", "time": "19:15", "type": "event"}}
+{"input": "Spin class Monday at 6:15 AM", "output": {"title": "Spin class", "date": "Monday", "time": "06:15", "type": "event"}}
+{"input": "Zumba session Tuesday at 7:30 PM", "output": {"title": "Zumba session", "date": "Tuesday", "time": "19:30", "type": "event"}}
+{"input": "Furniture assembly Saturday at 9 AM", "output": {"title": "Furniture assembly", "date": "Saturday", "time": "09:00", "type": "event"}}
+{"input": "Estate planning meeting Thursday at 1:15 PM", "output": {"title": "Estate planning meeting", "date": "Thursday", "time": "13:15", "type": "event"}}
+{"input": "Costume fitting Friday at 4:45 PM", "output": {"title": "Costume fitting", "date": "Friday", "time": "16:45", "type": "event"}}
+{"input": "Volunteer orientation Sunday at 10:45 AM", "output": {"title": "Volunteer orientation", "date": "Sunday", "time": "10:45", "type": "event"}}
+{"input": "Strategy session Wednesday at 3:45 PM", "output": {"title": "Strategy session", "date": "Wednesday", "time": "15:45", "type": "event"}}
+{"input": "Interior design consultation Monday at 11:15 AM", "output": {"title": "Interior design consultation", "date": "Monday", "time": "11:15", "type": "event"}}
+{"input": "Birthday cake pickup Tuesday at 4:15 PM", "output": {"title": "Birthday cake pickup", "date": "Tuesday", "time": "16:15", "type": "event"}}
+{"input": "Забор посылки в четверг в 15:00", "output": {"title": "Забор посылки", "date": "четверг", "time": "15:00", "type": "event"}}
+{"input": "Утренняя пробежка в субботу в 7:30", "output": {"title": "Утренняя пробежка", "date": "суббота", "time": "07:30", "type": "event"}}
+{"input": "Заседание факультета во вторник в 11:30", "output": {"title": "Заседание факультета", "date": "вторник", "time": "11:30", "type": "event"}}
+{"input": "Винный клуб в среду вечером в 20:15", "output": {"title": "Винный клуб", "date": "среда", "time": "20:15", "type": "event"}}
+{"input": "Физиотерапия в пятницу в 9:45", "output": {"title": "Физиотерапия", "date": "пятница", "time": "09:45", "type": "event"}}
+{"input": "Собеседование няни в воскресенье в 13:00", "output": {"title": "Собеседование няни", "date": "воскресенье", "time": "13:00", "type": "event"}}
+{"input": "Квартальный отчет в четверг в 16:45", "output": {"title": "Квартальный отчет", "date": "четверг", "time": "16:45", "type": "event"}}
+{"input": "Чистка ковров завтра в 10:00", "output": {"title": "Чистка ковров", "date": "завтра", "time": "10:00", "type": "event"}}
+{"input": "Инвестиционная консультация во вторник в 12:30", "output": {"title": "Инвестиционная консультация", "date": "вторник", "time": "12:30", "type": "event"}}
+{"input": "Гончарный класс в субботу в 15:15", "output": {"title": "Гончарный класс", "date": "суббота", "time": "15:15", "type": "event"}}
+{"input": "Учения по эвакуации в понедельник в 10:30", "output": {"title": "Учения по эвакуации", "date": "понедельник", "time": "10:30", "type": "event"}}
+{"input": "Быстрые свидания в пятницу в 19:45", "output": {"title": "Быстрые свидания", "date": "пятница", "time": "19:45", "type": "event"}}
+{"input": "Ремонт техники в среду в 13:30", "output": {"title": "Ремонт техники", "date": "среда", "time": "13:30", "type": "event"}}
+{"input": "Презентация стартапа в воскресенье в 16:30", "output": {"title": "Презентация стартапа", "date": "воскресенье", "time": "16:30", "type": "event"}}
+{"input": "Проверка безопасности в четверг в 8:15", "output": {"title": "Проверка безопасности", "date": "четверг", "time": "08:15", "type": "event"}}
+{"input": "Скалолазание во вторник в 18:45", "output": {"title": "Скалолазание", "date": "вторник", "time": "18:45", "type": "event"}}
+{"input": "Ипотечная консультация в следующий понедельник в 15:15", "output": {"title": "Ипотечная консультация", "date": "следующий понедельник", "time": "15:15", "type": "event"}}
+{"input": "Флористика в субботу в 10:15", "output": {"title": "Флористика", "date": "суббота", "time": "10:15", "type": "event"}}
+{"input": "Встреча выпускников в пятницу в 18:15", "output": {"title": "Встреча выпускников", "date": "пятница", "time": "18:15", "type": "event"}}
+{"input": "Катание на коньках в воскресенье в 14:45", "output": {"title": "Катание на коньках", "date": "воскресенье", "time": "14:45", "type": "event"}}
+{"input": "Технический аудит в среду в 11:15", "output": {"title": "Технический аудит", "date": "среда", "time": "11:15", "type": "event"}}
+{"input": "Консультация по операции животного в понедельник в 9:15", "output": {"title": "Консультация по операции животного", "date": "понедельник", "time": "09:15", "type": "event"}}
+{"input": "Доставка мебели во вторник в 14:15", "output": {"title": "Доставка мебели", "date": "вторник", "time": "14:15", "type": "event"}}
+{"input": "Марафонская тренировка в четверг в 5:45", "output": {"title": "Марафонская тренировка", "date": "четверг", "time": "05:45", "type": "event"}}
+{"input": "Планирование сюрприза на день рождения в субботу в 13:45", "output": {"title": "Планирование сюрприза на день рождения", "date": "суббота", "time": "13:45", "type": "event"}}
+{"input": "Запись подкаста в пятницу в 11:45", "output": {"title": "Запись подкаста", "date": "пятница", "time": "11:45", "type": "event"}}
+{"input": "Забрать ребенка из садика в воскресенье в 17:30", "output": {"title": "Забрать ребенка из садика", "date": "воскресенье", "time": "17:30", "type": "event"}}
+{"input": "Инновационный семинар в среду в 9:45", "output": {"title": "Инновационный семинар", "date": "среда", "time": "09:45", "type": "event"}}
+{"input": "Планирование романтического вечера завтра в 19:15", "output": {"title": "Планирование романтического вечера", "date": "завтра", "time": "19:15", "type": "event"}}
+{"input": "Спин-класс в понедельник в 6:15", "output": {"title": "Спин-класс", "date": "понедельник", "time": "06:15", "type": "event"}}
+{"input": "Зумба во вторник в 19:30", "output": {"title": "Зумба", "date": "вторник", "time": "19:30", "type": "event"}}
+{"input": "Сборка мебели в субботу в 9:00", "output": {"title": "Сборка мебели", "date": "суббота", "time": "09:00", "type": "event"}}
+{"input": "Планирование наследства в четверг в 13:15", "output": {"title": "Планирование наследства", "date": "четверг", "time": "13:15", "type": "event"}}
+{"input": "Примерка костюма в пятницу в 16:45", "output": {"title": "Примерка костюма", "date": "пятница", "time": "16:45", "type": "event"}}
+{"input": "Ориентация волонтеров в воскресенье в 10:45", "output": {"title": "Ориентация волонтеров", "date": "воскресенье", "time": "10:45", "type": "event"}}
+{"input": "Стратегическая сессия в среду в 15:45", "output": {"title": "Стратегическая сессия", "date": "среда", "time": "15:45", "type": "event"}}
+{"input": "Консультация дизайнера интерьера в понедельник в 11:15", "output": {"title": "Консультация дизайнера интерьера", "date": "понедельник", "time": "11:15", "type": "event"}}
+{"input": "Забрать торт на день рождения во вторник в 16:15", "output": {"title": "Забрать торт на день рождения", "date": "вторник", "time": "16:15", "type": "event"}}

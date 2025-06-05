@@ -1,0 +1,242 @@
+{"input": "Submit physics lab on Thursday", "output": {"title": "Submit physics lab", "date": "Thursday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Сдать лабораторную по физике в четверг", "output": {"title": "Сдать лабораторную по физике", "date": "четверг", "type": "event", "reminder": "24 hours before"}}
+{"input": "Client feedback session at 16:30", "output": {"title": "Client feedback session", "time": "16:30", "type": "event"}}
+{"input": "Сессия обратной связи с клиентом в 16:30", "output": {"title": "Сессия обратной связи с клиентом", "time": "16:30", "type": "event"}}
+{"input": "Work on portfolio 18:00–20:00", "output": {"title": "Work on portfolio", "time": "18:00", "type": "event", "duration": "2 hours"}}
+{"input": "Работать над портфолио 18:00–20:00", "output": {"title": "Работать над портфолио", "time": "18:00", "type": "event", "duration": "2 часа"}}
+{"input": "Pomodoro session at 10", "output": {"title": "Pomodoro session", "time": "10:00", "type": "event", "duration": "25 minutes"}}
+{"input": "Помодоро сессия в 10", "output": {"title": "Помодоро сессия", "time": "10:00", "type": "event", "duration": "25 минут"}}
+{"input": "Math assignment due tomorrow", "output": {"title": "Math assignment", "date": "tomorrow", "type": "event", "reminder": "6 hours before"}}
+{"input": "Задание по математике до завтра", "output": {"title": "Задание по математике", "date": "завтра", "type": "event", "reminder": "6 hours before"}}
+{"input": "Deep work block from 9 to 12", "output": {"title": "Deep work block", "time": "09:00", "type": "event", "duration": "3 hours"}}
+{"input": "Блок глубокой работы с 9 до 12", "output": {"title": "Блок глубокой работы", "time": "09:00", "type": "event", "duration": "3 часа"}}
+{"input": "Client call Wednesday 3 PM", "output": {"title": "Client call", "date": "Wednesday", "time": "15:00", "type": "event"}}
+{"input": "Звонок клиенту среда в 15:00", "output": {"title": "Звонок клиенту", "date": "среда", "time": "15:00", "type": "event"}}
+{"input": "Study for midterm exam Friday", "output": {"title": "Study for midterm exam", "date": "Friday", "type": "event", "duration": "2 hours"}}
+{"input": "Готовиться к промежуточному экзамену в пятницу", "output": {"title": "Готовиться к промежуточному экзамену", "date": "пятница", "type": "event", "duration": "2 часа"}}
+{"input": "Coffee break at 2:30 PM", "output": {"title": "Coffee break", "time": "14:30", "type": "event", "duration": "15 minutes"}}
+{"input": "Кофе-брейк в 14:30", "output": {"title": "Кофе-брейк", "time": "14:30", "type": "event", "duration": "15 минут"}}
+{"input": "Freelance project deadline Monday", "output": {"title": "Freelance project deadline", "date": "Monday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Дедлайн фриланс проекта в понедельник", "output": {"title": "Дедлайн фриланс проекта", "date": "понедельник", "type": "event", "reminder": "48 hours before"}}
+{"input": "Sprint planning meeting 10 AM", "output": {"title": "Sprint planning meeting", "time": "10:00", "type": "event", "duration": "1 hour"}}
+{"input": "Планирование спринта в 10:00", "output": {"title": "Планирование спринта", "time": "10:00", "type": "event", "duration": "1 час"}}
+{"input": "Lunch break 12:30-13:30", "output": {"title": "Lunch break", "time": "12:30", "type": "event", "duration": "1 hour"}}
+{"input": "Обеденный перерыв 12:30-13:30", "output": {"title": "Обеденный перерыв", "time": "12:30", "type": "event", "duration": "1 час"}}
+{"input": "Code review session Tuesday 4 PM", "output": {"title": "Code review session", "date": "Tuesday", "time": "16:00", "type": "event"}}
+{"input": "Ревью кода вторник в 16:00", "output": {"title": "Ревью кода", "date": "вторник", "time": "16:00", "type": "event"}}
+{"input": "Research paper deadline next Friday", "output": {"title": "Research paper deadline", "date": "next Friday", "type": "event", "reminder": "1 week before"}}
+{"input": "Дедлайн исследовательской работы в следующую пятницу", "output": {"title": "Дедлайн исследовательской работы", "date": "следующая пятница", "type": "event", "reminder": "1 week before"}}
+{"input": "Focus time 2-4 PM no interruptions", "output": {"title": "Focus time", "time": "14:00", "type": "event", "duration": "2 hours"}}
+{"input": "Время концентрации 14:00-16:00 без прерываний", "output": {"title": "Время концентрации", "time": "14:00", "type": "event", "duration": "2 часа"}}
+{"input": "Design review with client tomorrow 11 AM", "output": {"title": "Design review with client", "date": "tomorrow", "time": "11:00", "type": "event"}}
+{"input": "Обзор дизайна с клиентом завтра в 11:00", "output": {"title": "Обзор дизайна с клиентом", "date": "завтра", "time": "11:00", "type": "event"}}
+{"input": "Evening study session 7-9 PM", "output": {"title": "Evening study session", "time": "19:00", "type": "event", "duration": "2 hours"}}
+{"input": "Вечерняя учеба 19:00-21:00", "output": {"title": "Вечерняя учеба", "time": "19:00", "type": "event", "duration": "2 часа"}}
+{"input": "Stand-up meeting daily at 9:30", "output": {"title": "Stand-up meeting", "time": "09:30", "type": "event", "duration": "15 minutes"}}
+{"input": "Ежедневная планерка в 9:30", "output": {"title": "Ежедневная планерка", "time": "09:30", "type": "event", "duration": "15 минут"}}
+{"input": "Assignment submission Wednesday by midnight", "output": {"title": "Assignment submission", "date": "Wednesday", "time": "23:59", "type": "event", "reminder": "12 hours before"}}
+{"input": "Сдача задания в среду до полуночи", "output": {"title": "Сдача задания", "date": "среда", "time": "23:59", "type": "event", "reminder": "12 hours before"}}
+{"input": "Client onboarding call 3:30 PM", "output": {"title": "Client onboarding call", "time": "15:30", "type": "event", "duration": "45 minutes"}}
+{"input": "Звонок онбординга клиента в 15:30", "output": {"title": "Звонок онбординга клиента", "time": "15:30", "type": "event", "duration": "45 минут"}}
+{"input": "Side project work 6-8 PM", "output": {"title": "Side project work", "time": "18:00", "type": "event", "duration": "2 hours"}}
+{"input": "Работа над побочным проектом 18:00-20:00", "output": {"title": "Работа над побочным проектом", "time": "18:00", "type": "event", "duration": "2 часа"}}
+{"input": "Essay deadline this Thursday", "output": {"title": "Essay deadline", "date": "this Thursday", "type": "event", "reminder": "2 days before"}}
+{"input": "Дедлайн эссе в этот четверг", "output": {"title": "Дедлайн эссе", "date": "этот четверг", "type": "event", "reminder": "2 days before"}}
+{"input": "Team retrospective Friday 4 PM", "output": {"title": "Team retrospective", "date": "Friday", "time": "16:00", "type": "event", "duration": "1 hour"}}
+{"input": "Командная ретроспектива пятница в 16:00", "output": {"title": "Командная ретроспектива", "date": "пятница", "time": "16:00", "type": "event", "duration": "1 час"}}
+{"input": "Learning block Python 10-12", "output": {"title": "Learning Python", "time": "10:00", "type": "event", "duration": "2 hours"}}
+{"input": "Изучение Python 10:00-12:00", "output": {"title": "Изучение Python", "time": "10:00", "type": "event", "duration": "2 часа"}}
+{"input": "Project proposal due tomorrow", "output": {"title": "Project proposal", "date": "tomorrow", "type": "event", "reminder": "6 hours before"}}
+{"input": "Предложение проекта до завтра", "output": {"title": "Предложение проекта", "date": "завтра", "type": "event", "reminder": "6 hours before"}}
+{"input": "Client check-in Monday 2 PM", "output": {"title": "Client check-in", "date": "Monday", "time": "14:00", "type": "event"}}
+{"input": "Проверка с клиентом понедельник в 14:00", "output": {"title": "Проверка с клиентом", "date": "понедельник", "time": "14:00", "type": "event"}}
+{"input": "Exercise break 3:15 PM", "output": {"title": "Exercise break", "time": "15:15", "type": "event", "duration": "20 minutes"}}
+{"input": "Перерыв на упражнения в 15:15", "output": {"title": "Перерыв на упражнения", "time": "15:15", "type": "event", "duration": "20 минут"}}
+{"input": "Coding session Thursday 9-12", "output": {"title": "Coding session", "date": "Thursday", "time": "09:00", "type": "event", "duration": "3 hours"}}
+{"input": "Сессия программирования четверг 9:00-12:00", "output": {"title": "Сессия программирования", "date": "четверг", "time": "09:00", "type": "event", "duration": "3 часа"}}
+{"input": "Lab report submission Friday", "output": {"title": "Lab report submission", "date": "Friday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Сдача лабораторного отчета в пятницу", "output": {"title": "Сдача лабораторного отчета", "date": "пятница", "type": "event", "reminder": "24 hours before"}}
+{"input": "Daily standup 9 AM", "output": {"title": "Daily standup", "time": "09:00", "type": "event", "duration": "15 minutes"}}
+{"input": "Ежедневная планерка в 9:00", "output": {"title": "Ежедневная планерка", "time": "09:00", "type": "event", "duration": "15 минут"}}
+{"input": "Portfolio review session 11:30", "output": {"title": "Portfolio review session", "time": "11:30", "type": "event", "duration": "1 hour"}}
+{"input": "Сессия обзора портфолио в 11:30", "output": {"title": "Сессия обзора портфолио", "time": "11:30", "type": "event", "duration": "1 час"}}
+{"input": "Study group Tuesday 6 PM", "output": {"title": "Study group", "date": "Tuesday", "time": "18:00", "type": "event", "duration": "2 hours"}}
+{"input": "Учебная группа вторник в 18:00", "output": {"title": "Учебная группа", "date": "вторник", "time": "18:00", "type": "event", "duration": "2 часа"}}
+{"input": "Creative writing time 8-10 PM", "output": {"title": "Creative writing time", "time": "20:00", "type": "event", "duration": "2 hours"}}
+{"input": "Время креативного письма 20:00-22:00", "output": {"title": "Время креативного письма", "time": "20:00", "type": "event", "duration": "2 часа"}}
+{"input": "Midterm exam Monday 10 AM", "output": {"title": "Midterm exam", "date": "Monday", "time": "10:00", "type": "event", "reminder": "24 hours before"}}
+{"input": "Промежуточный экзамен понедельник в 10:00", "output": {"title": "Промежуточный экзамен", "date": "понедельник", "time": "10:00", "type": "event", "reminder": "24 hours before"}}
+{"input": "Freelance project kick-off 2 PM", "output": {"title": "Freelance project kick-off", "time": "14:00", "type": "event", "duration": "1 hour"}}
+{"input": "Запуск фриланс проекта в 14:00", "output": {"title": "Запуск фриланс проекта", "time": "14:00", "type": "event", "duration": "1 час"}}
+{"input": "Break time 10:45 AM", "output": {"title": "Break time", "time": "10:45", "type": "event", "duration": "15 minutes"}}
+{"input": "Время перерыва в 10:45", "output": {"title": "Время перерыва", "time": "10:45", "type": "event", "duration": "15 минут"}}
+{"input": "Weekly planning Sunday 7 PM", "output": {"title": "Weekly planning", "date": "Sunday", "time": "19:00", "type": "event", "duration": "1 hour"}}
+{"input": "Еженедельное планирование воскресенье в 19:00", "output": {"title": "Еженедельное планирование", "date": "воскресенье", "time": "19:00", "type": "event", "duration": "1 час"}}
+{"input": "Database assignment due Wednesday", "output": {"title": "Database assignment", "date": "Wednesday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Задание по базам данных до среды", "output": {"title": "Задание по базам данных", "date": "среда", "type": "event", "reminder": "48 hours before"}}
+{"input": "Client presentation prep 1-3 PM", "output": {"title": "Client presentation prep", "time": "13:00", "type": "event", "duration": "2 hours"}}
+{"input": "Подготовка презентации клиенту 13:00-15:00", "output": {"title": "Подготовка презентации клиенту", "time": "13:00", "type": "event", "duration": "2 часа"}}
+{"input": "Reading assignment by tomorrow", "output": {"title": "Reading assignment", "date": "tomorrow", "type": "event", "reminder": "6 hours before"}}
+{"input": "Задание по чтению до завтра", "output": {"title": "Задание по чтению", "date": "завтра", "type": "event", "reminder": "6 hours before"}}
+{"input": "UX design session 9:30-11:30", "output": {"title": "UX design session", "time": "09:30", "type": "event", "duration": "2 hours"}}
+{"input": "Сессия UX дизайна 9:30-11:30", "output": {"title": "Сессия UX дизайна", "time": "09:30", "type": "event", "duration": "2 часа"}}
+{"input": "Quick walk break at 3", "output": {"title": "Quick walk break", "time": "15:00", "type": "event", "duration": "10 minutes"}}
+{"input": "Быстрая прогулка в 15:00", "output": {"title": "Быстрая прогулка", "time": "15:00", "type": "event", "duration": "10 минут"}}
+{"input": "Final exam preparation Thursday", "output": {"title": "Final exam preparation", "date": "Thursday", "type": "event", "duration": "4 hours"}}
+{"input": "Подготовка к финальному экзамену в четверг", "output": {"title": "Подготовка к финальному экзамену", "date": "четверг", "type": "event", "duration": "4 часа"}}
+{"input": "API documentation work 11-1", "output": {"title": "API documentation work", "time": "11:00", "type": "event", "duration": "2 hours"}}
+{"input": "Работа над документацией API 11:00-13:00", "output": {"title": "Работа над документацией API", "time": "11:00", "type": "event", "duration": "2 часа"}}
+{"input": "Lecture notes review tonight", "output": {"title": "Lecture notes review", "date": "tonight", "type": "event", "duration": "1.5 hours"}}
+{"input": "Обзор конспектов лекций сегодня вечером", "output": {"title": "Обзор конспектов лекций", "date": "сегодня вечером", "type": "event", "duration": "1.5 часа"}}
+{"input": "Sprint demo Friday 3 PM", "output": {"title": "Sprint demo", "date": "Friday", "time": "15:00", "type": "event", "duration": "30 minutes"}}
+{"input": "Демо спринта пятница в 15:00", "output": {"title": "Демо спринта", "date": "пятница", "time": "15:00", "type": "event", "duration": "30 минут"}}
+{"input": "Mindfulness break 2:15 PM", "output": {"title": "Mindfulness break", "time": "14:15", "type": "event", "duration": "10 minutes"}}
+{"input": "Перерыв на осознанность в 14:15", "output": {"title": "Перерыв на осознанность", "time": "14:15", "type": "event", "duration": "10 минут"}}
+{"input": "Group project meeting Tuesday 5 PM", "output": {"title": "Group project meeting", "date": "Tuesday", "time": "17:00", "type": "event", "duration": "1 hour"}}
+{"input": "Встреча группового проекта вторник в 17:00", "output": {"title": "Встреча группового проекта", "date": "вторник", "time": "17:00", "type": "event", "duration": "1 час"}}
+{"input": "Content writing block 8-10 AM", "output": {"title": "Content writing block", "time": "08:00", "type": "event", "duration": "2 hours"}}
+{"input": "Блок написания контента 8:00-10:00", "output": {"title": "Блок написания контента", "time": "08:00", "type": "event", "duration": "2 часа"}}
+{"input": "Thesis proposal due next Monday", "output": {"title": "Thesis proposal", "date": "next Monday", "type": "event", "reminder": "1 week before"}}
+{"input": "Предложение диссертации до следующего понедельника", "output": {"title": "Предложение диссертации", "date": "следующий понедельник", "type": "event", "reminder": "1 week before"}}
+{"input": "Client interview 4:30 PM", "output": {"title": "Client interview", "time": "16:30", "type": "event", "duration": "45 minutes"}}
+{"input": "Интервью с клиентом в 16:30", "output": {"title": "Интервью с клиентом", "time": "16:30", "type": "event", "duration": "45 минут"}}
+{"input": "Stretch break every 2 hours", "output": {"title": "Stretch break", "type": "event", "duration": "5 minutes"}}
+{"input": "Перерыв на растяжку каждые 2 часа", "output": {"title": "Перерыв на растяжку", "type": "event", "duration": "5 минут"}}
+{"input": "Programming tutorial 7-9 PM", "output": {"title": "Programming tutorial", "time": "19:00", "type": "event", "duration": "2 hours"}}
+{"input": "Программное обучение 19:00-21:00", "output": {"title": "Программное обучение", "time": "19:00", "type": "event", "duration": "2 часа"}}
+{"input": "Chemistry lab report Friday", "output": {"title": "Chemistry lab report", "date": "Friday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Отчет по химической лабе в пятницу", "output": {"title": "Отчет по химической лабе", "date": "пятница", "type": "event", "reminder": "24 hours before"}}
+{"input": "Design critique session 11 AM", "output": {"title": "Design critique session", "time": "11:00", "type": "event", "duration": "1 hour"}}
+{"input": "Сессия критики дизайна в 11:00", "output": {"title": "Сессия критики дизайна", "time": "11:00", "type": "event", "duration": "1 час"}}
+{"input": "Meditation session 6:30 AM", "output": {"title": "Meditation session", "time": "06:30", "type": "event", "duration": "20 minutes"}}
+{"input": "Сессия медитации в 6:30", "output": {"title": "Сессия медитации", "time": "06:30", "type": "event", "duration": "20 минут"}}
+{"input": "Economics quiz tomorrow", "output": {"title": "Economics quiz", "date": "tomorrow", "type": "event", "reminder": "12 hours before"}}
+{"input": "Тест по экономике завтра", "output": {"title": "Тест по экономике", "date": "завтра", "type": "event", "reminder": "12 hours before"}}
+{"input": "Bug fixing session 2-5 PM", "output": {"title": "Bug fixing session", "time": "14:00", "type": "event", "duration": "3 hours"}}
+{"input": "Сессия исправления багов 14:00-17:00", "output": {"title": "Сессия исправления багов", "time": "14:00", "type": "event", "duration": "3 часа"}}
+{"input": "Power nap 1:30 PM", "output": {"title": "Power nap", "time": "13:30", "type": "event", "duration": "20 minutes"}}
+{"input": "Короткий сон в 13:30", "output": {"title": "Короткий сон", "time": "13:30", "type": "event", "duration": "20 минут"}}
+{"input": "Literature review Wednesday", "output": {"title": "Literature review", "date": "Wednesday", "type": "event", "duration": "3 hours"}}
+{"input": "Обзор литературы в среду", "output": {"title": "Обзор литературы", "date": "среда", "type": "event", "duration": "3 часа"}}
+{"input": "Project status update 10:30 AM", "output": {"title": "Project status update", "time": "10:30", "type": "event", "duration": "30 minutes"}}
+{"input": "Обновление статуса проекта в 10:30", "output": {"title": "Обновление статуса проекта", "time": "10:30", "type": "event", "duration": "30 минут"}}
+{"input": "Eye break every hour", "output": {"title": "Eye break", "type": "event", "duration": "2 minutes"}}
+{"input": "Перерыв для глаз каждый час", "output": {"title": "Перерыв для глаз", "type": "event", "duration": "2 минуты"}}
+{"input": "Capstone project work 3-6 PM", "output": {"title": "Capstone project work", "time": "15:00", "type": "event", "duration": "3 hours"}}
+{"input": "Работа над дипломным проектом 15:00-18:00", "output": {"title": "Работа над дипломным проектом", "time": "15:00", "type": "event", "duration": "3 часа"}}
+{"input": "Client wireframe review 2:30 PM", "output": {"title": "Client wireframe review", "time": "14:30", "type": "event", "duration": "45 minutes"}}
+{"input": "Обзор вайрфреймов с клиентом в 14:30", "output": {"title": "Обзор вайрфреймов с клиентом", "time": "14:30", "type": "event", "duration": "45 минут"}}
+{"input": "Hydration reminder every 30 min", "output": {"title": "Hydration reminder", "type": "event", "reminder": "every 30 minutes"}}
+{"input": "Напоминание о воде каждые 30 мин", "output": {"title": "Напоминание о воде", "type": "event", "reminder": "каждые 30 минут"}}
+{"input": "Statistics homework due Thursday", "output": {"title": "Statistics homework", "date": "Thursday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Домашка по статистике до четверга", "output": {"title": "Домашка по статистике", "date": "четверг", "type": "event", "reminder": "24 hours before"}}
+{"input": "Testing session Friday 10-12", "output": {"title": "Testing session", "date": "Friday", "time": "10:00", "type": "event", "duration": "2 hours"}}
+{"input": "Сессия тестирования пятница 10:00-12:00", "output": {"title": "Сессия тестирования", "date": "пятница", "time": "10:00", "type": "event", "duration": "2 часа"}}
+{"input": "Breathing exercise 12:15 PM", "output": {"title": "Breathing exercise", "time": "12:15", "type": "event", "duration": "5 minutes"}}
+{"input": "Дыхательное упражнение в 12:15", "output": {"title": "Дыхательное упражнение", "time": "12:15", "type": "event", "duration": "5 минут"}}
+{"input": "Research methods class Monday 2 PM", "output": {"title": "Research methods class", "date": "Monday", "time": "14:00", "type": "event", "duration": "1.5 hours"}}
+{"input": "Класс методов исследования понедельник в 14:00", "output": {"title": "Класс методов исследования", "date": "понедельник", "time": "14:00", "type": "event", "duration": "1.5 часа"}}
+{"input": "Logo design work 9-11 AM", "output": {"title": "Logo design work", "time": "09:00", "type": "event", "duration": "2 hours"}}
+{"input": "Работа над логотипом 9:00-11:00", "output": {"title": "Работа над логотипом", "time": "09:00", "type": "event", "duration": "2 часа"}}
+{"input": "Desk organization 5:30 PM", "output": {"title": "Desk organization", "time": "17:30", "type": "event", "duration": "30 minutes"}}
+{"input": "Организация рабочего стола в 17:30", "output": {"title": "Организация рабочего стола", "time": "17:30", "type": "event", "duration": "30 минут"}}
+{"input": "Presentation practice Tuesday", "output": {"title": "Presentation practice", "date": "Tuesday", "type": "event", "duration": "1 hour"}}
+{"input": "Практика презентации во вторник", "output": {"title": "Практика презентации", "date": "вторник", "type": "event", "duration": "1 час"}}
+{"input": "Mobile app testing 1-4 PM", "output": {"title": "Mobile app testing", "time": "13:00", "type": "event", "duration": "3 hours"}}
+{"input": "Тестирование мобильного приложения 13:00-16:00", "output": {"title": "Тестирование мобильного приложения", "time": "13:00", "type": "event", "duration": "3 часа"}}
+{"input": "Social media break 4:45 PM", "output": {"title": "Social media break", "time": "16:45", "type": "event", "duration": "10 minutes"}}
+{"input": "Перерыв на соцсети в 16:45", "output": {"title": "Перерыв на соцсети", "time": "16:45", "type": "event", "duration": "10 минут"}}
+{"input": "Philosophy essay due Monday", "output": {"title": "Philosophy essay", "date": "Monday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Эссе по философии до понедельника", "output": {"title": "Эссе по философии", "date": "понедельник", "type": "event", "reminder": "48 hours before"}}
+{"input": "Wireframe creation session 10-1", "output": {"title": "Wireframe creation session", "time": "10:00", "type": "event", "duration": "3 hours"}}
+{"input": "Сессия создания вайрфреймов 10:00-13:00", "output": {"title": "Сессия создания вайрфреймов", "time": "10:00", "type": "event", "duration": "3 часа"}}
+{"input": "Quick snack break 11:15 AM", "output": {"title": "Quick snack break", "time": "11:15", "type": "event", "duration": "10 minutes"}}
+{"input": "Быстрый перекус в 11:15", "output": {"title": "Быстрый перекус", "time": "11:15", "type": "event", "duration": "10 минут"}}
+{"input": "Calculus study session Thursday", "output": {"title": "Calculus study session", "date": "Thursday", "type": "event", "duration": "2 hours"}}
+{"input": "Изучение математического анализа в четверг", "output": {"title": "Изучение математического анализа", "date": "четверг", "type": "event", "duration": "2 часа"}}
+{"input": "Database design work 2:30-5:30", "output": {"title": "Database design work", "time": "14:30", "type": "event", "duration": "3 hours"}}
+{"input": "Работа над дизайном базы данных 14:30-17:30", "output": {"title": "Работа над дизайном базы данных", "time": "14:30", "type": "event", "duration": "3 часа"}}
+{"input": "End of day wrap-up 5:45 PM", "output": {"title": "End of day wrap-up", "time": "17:45", "type": "event", "duration": "15 minutes"}}
+{"input": "Подведение итогов дня в 17:45", "output": {"title": "Подведение итогов дня", "time": "17:45", "type": "event", "duration": "15 минут"}}
+{"input": "Organic chemistry lab Wednesday", "output": {"title": "Organic chemistry lab", "date": "Wednesday", "type": "event", "duration": "3 hours"}}
+{"input": "Лаба по органической химии в среду", "output": {"title": "Лаба по органической химии", "date": "среда", "type": "event", "duration": "3 часа"}}
+{"input": "Client prototype demo 3:15 PM", "output": {"title": "Client prototype demo", "time": "15:15", "type": "event", "duration": "30 minutes"}}
+{"input": "Демо прототипа клиенту в 15:15", "output": {"title": "Демо прототипа клиенту", "time": "15:15", "type": "event", "duration": "30 минут"}}
+{"input": "Posture check reminder hourly", "output": {"title": "Posture check reminder", "type": "event", "reminder": "hourly"}}
+{"input": "Напоминание о осанке каждый час", "output": {"title": "Напоминание о осанке", "type": "event", "reminder": "каждый час"}}
+{"input": "Foreign language practice 7-8:30 PM", "output": {"title": "Foreign language practice", "time": "19:00", "type": "event", "duration": "1.5 hours"}}
+{"input": "Практика иностранного языка 19:00-20:30", "output": {"title": "Практика иностранного языка", "time": "19:00", "type": "event", "duration": "1.5 часа"}}
+{"input": "Web development work Friday 9-12", "output": {"title": "Web development work", "date": "Friday", "time": "09:00", "type": "event", "duration": "3 hours"}}
+{"input": "Веб-разработка пятница 9:00-12:00", "output": {"title": "Веб-разработка", "date": "пятница", "time": "09:00", "type": "event", "duration": "3 часа"}}
+{"input": "Afternoon energy boost 3 PM", "output": {"title": "Afternoon energy boost", "time": "15:00", "type": "event", "duration": "5 minutes"}}
+{"input": "Дневной прилив энергии в 15:00", "output": {"title": "Дневной прилив энергии", "time": "15:00", "type": "event", "duration": "5 минут"}}
+{"input": "History term paper due next Friday", "output": {"title": "History term paper", "date": "next Friday", "type": "event", "reminder": "1 week before"}}
+{"input": "Курсовая по истории до следующей пятницы", "output": {"title": "Курсовая по истории", "date": "следующая пятница", "type": "event", "reminder": "1 week before"}}
+{"input": "User research analysis 11:30-2:30", "output": {"title": "User research analysis", "time": "11:30", "type": "event", "duration": "3 hours"}}
+{"input": "Анализ пользовательского исследования 11:30-14:30", "output": {"title": "Анализ пользовательского исследования", "time": "11:30", "type": "event", "duration": "3 часа"}}
+{"input": "Music listening break 4:20 PM", "output": {"title": "Music listening break", "time": "16:20", "type": "event", "duration": "10 minutes"}}
+{"input": "Перерыв на музыку в 16:20", "output": {"title": "Перерыв на музыку", "time": "16:20", "type": "event", "duration": "10 минут"}}
+{"input": "Biology lab assignment Monday", "output": {"title": "Biology lab assignment", "date": "Monday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Задание по биологической лабе в понедельник", "output": {"title": "Задание по биологической лабе", "date": "понедельник", "type": "event", "reminder": "24 hours before"}}
+{"input": "Brand identity work 1-4 PM", "output": {"title": "Brand identity work", "time": "13:00", "type": "event", "duration": "3 hours"}}
+{"input": "Работа над брендом 13:00-16:00", "output": {"title": "Работа над брендом", "time": "13:00", "type": "event", "duration": "3 часа"}}
+{"input": "Fresh air break 2:45 PM", "output": {"title": "Fresh air break", "time": "14:45", "type": "event", "duration": "15 minutes"}}
+{"input": "Перерыв на свежий воздух в 14:45", "output": {"title": "Перерыв на свежий воздух", "time": "14:45", "type": "event", "duration": "15 минут"}}
+{"input": "Psychology research paper Tuesday", "output": {"title": "Psychology research paper", "date": "Tuesday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Исследовательская работа по психологии во вторник", "output": {"title": "Исследовательская работа по психологии", "date": "вторник", "type": "event", "reminder": "48 hours before"}}
+{"input": "API integration work 10:15-1:15", "output": {"title": "API integration work", "time": "10:15", "type": "event", "duration": "3 hours"}}
+{"input": "Работа по интеграции API 10:15-13:15", "output": {"title": "Работа по интеграции API", "time": "10:15", "type": "event", "duration": "3 часа"}}
+{"input": "Gratitude journaling 9 PM", "output": {"title": "Gratitude journaling", "time": "21:00", "type": "event", "duration": "10 minutes"}}
+{"input": "Ведение дневника благодарности в 21:00", "output": {"title": "Ведение дневника благодарности", "time": "21:00", "type": "event", "duration": "10 минут"}}
+{"input": "Spanish homework due tomorrow", "output": {"title": "Spanish homework", "date": "tomorrow", "type": "event", "reminder": "6 hours before"}}
+{"input": "Домашка по испанскому до завтра", "output": {"title": "Домашка по испанскому", "date": "завтра", "type": "event", "reminder": "6 hours before"}}
+{"input": "Product roadmap planning 2-5 PM", "output": {"title": "Product roadmap planning", "time": "14:00", "type": "event", "duration": "3 hours"}}
+{"input": "Планирование продуктовой карты 14:00-17:00", "output": {"title": "Планирование продуктовой карты", "time": "14:00", "type": "event", "duration": "3 часа"}}
+{"input": "Quick phone check 12:45 PM", "output": {"title": "Quick phone check", "time": "12:45", "type": "event", "duration": "5 minutes"}}
+{"input": "Быстрая проверка телефона в 12:45", "output": {"title": "Быстрая проверка телефона", "time": "12:45", "type": "event", "duration": "5 минут"}}
+{"input": "Linear algebra quiz Wednesday", "output": {"title": "Linear algebra quiz", "date": "Wednesday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Тест по линейной алгебре в среду", "output": {"title": "Тест по линейной алгебре", "date": "среда", "type": "event", "reminder": "24 hours before"}}
+{"input": "SEO optimization work 9:30-12:30", "output": {"title": "SEO optimization work", "time": "09:30", "type": "event", "duration": "3 hours"}}
+{"input": "Работа по SEO оптимизации 9:30-12:30", "output": {"title": "Работа по SEO оптимизации", "time": "09:30", "type": "event", "duration": "3 часа"}}
+{"input": "Brain dump session 6 PM", "output": {"title": "Brain dump session", "time": "18:00", "type": "event", "duration": "20 minutes"}}
+{"input": "Сессия выброса мыслей в 18:00", "output": {"title": "Сессия выброса мыслей", "time": "18:00", "type": "event", "duration": "20 минут"}}
+{"input": "Literature review work Thursday", "output": {"title": "Literature review work", "date": "Thursday", "type": "event", "duration": "4 hours"}}
+{"input": "Работа над обзором литературы в четверг", "output": {"title": "Работа над обзором литературы", "date": "четверг", "type": "event", "duration": "4 часа"}}
+{"input": "Client mockup review 4 PM", "output": {"title": "Client mockup review", "time": "16:00", "type": "event", "duration": "45 minutes"}}
+{"input": "Обзор макетов с клиентом в 16:00", "output": {"title": "Обзор макетов с клиентом", "time": "16:00", "type": "event", "duration": "45 минут"}}
+{"input": "Digital detox hour 7-8 PM", "output": {"title": "Digital detox hour", "time": "19:00", "type": "event", "duration": "1 hour"}}
+{"input": "Час цифрового детокса 19:00-20:00", "output": {"title": "Час цифрового детокса", "time": "19:00", "type": "event", "duration": "1 час"}}
+{"input": "Accounting homework due Friday", "output": {"title": "Accounting homework", "date": "Friday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Домашка по бухучету до пятницы", "output": {"title": "Домашка по бухучету", "date": "пятница", "type": "event", "reminder": "24 hours before"}}
+{"input": "E-commerce site work 11-2 PM", "output": {"title": "E-commerce site work", "time": "11:00", "type": "event", "duration": "3 hours"}}
+{"input": "Работа над интернет-магазином 11:00-14:00", "output": {"title": "Работа над интернет-магазином", "time": "11:00", "type": "event", "duration": "3 часа"}}
+{"input": "Reflection time 8:30 PM", "output": {"title": "Reflection time", "time": "20:30", "type": "event", "duration": "15 minutes"}}
+{"input": "Время для размышлений в 20:30", "output": {"title": "Время для размышлений", "time": "20:30", "type": "event", "duration": "15 минут"}}
+{"input": "Computer science project Monday", "output": {"title": "Computer science project", "date": "Monday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Проект по информатике в понедельник", "output": {"title": "Проект по информатике", "date": "понедельник", "type": "event", "reminder": "48 hours before"}}
+{"input": "Content strategy meeting 1:30 PM", "output": {"title": "Content strategy meeting", "time": "13:30", "type": "event", "duration": "1 hour"}}
+{"input": "Встреча по контент-стратегии в 13:30", "output": {"title": "Встреча по контент-стратегии", "time": "13:30", "type": "event", "duration": "1 час"}}
+{"input": "Evening wind-down 9:45 PM", "output": {"title": "Evening wind-down", "time": "21:45", "type": "event", "duration": "30 minutes"}}
+{"input": "Вечернее расслабление в 21:45", "output": {"title": "Вечернее расслабление", "time": "21:45", "type": "event", "duration": "30 минут"}}
+{"input": "Marketing assignment due Wednesday", "output": {"title": "Marketing assignment", "date": "Wednesday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Задание по маркетингу до среды", "output": {"title": "Задание по маркетингу", "date": "среда", "type": "event", "reminder": "48 hours before"}}
+{"input": "Graphics design work 3-6 PM", "output": {"title": "Graphics design work", "time": "15:00", "type": "event", "duration": "3 hours"}}
+{"input": "Работа над графическим дизайном 15:00-18:00", "output": {"title": "Работа над графическим дизайном", "time": "15:00", "type": "event", "duration": "3 часа"}}
+{"input": "Mindful breathing 10:30 AM", "output": {"title": "Mindful breathing", "time": "10:30", "type": "event", "duration": "5 minutes"}}
+{"input": "Осознанное дыхание в 10:30", "output": {"title": "Осознанное дыхание", "time": "10:30", "type": "event", "duration": "5 минут"}}
+{"input": "Sociology paper due Thursday", "output": {"title": "Sociology paper", "date": "Thursday", "type": "event", "reminder": "2 days before"}}
+{"input": "Работа по социологии до четверга", "output": {"title": "Работа по социологии", "date": "четверг", "type": "event", "reminder": "2 days before"}}
+{"input": "Client assets review 2:15 PM", "output": {"title": "Client assets review", "time": "14:15", "type": "event", "duration": "30 minutes"}}
+{"input": "Обзор материалов клиента в 14:15", "output": {"title": "Обзор материалов клиента", "time": "14:15", "type": "event", "duration": "30 минут"}}
+{"input": "Day planning session 8:15 AM", "output": {"title": "Day planning session", "time": "08:15", "type": "event", "duration": "15 minutes"}}
+{"input": "Сессия планирования дня в 8:15", "output": {"title": "Сессия планирования дня", "time": "08:15", "type": "event", "duration": "15 минут"}}
+{"input": "Physics problem set Friday", "output": {"title": "Physics problem set", "date": "Friday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Набор задач по физике в пятницу", "output": {"title": "Набор задач по физике", "date": "пятница", "type": "event", "reminder": "24 hours before"}}
+{"input": "Social media audit 12-3 PM", "output": {"title": "Social media audit", "time": "12:00", "type": "event", "duration": "3 hours"}}
+{"input": "Аудит социальных сетей 12:00-15:00", "output": {"title": "Аудит социальных сетей", "time": "12:00", "type": "event", "duration": "3 часа"}}
+{"input": "Positive affirmations 7:30 AM", "output": {"title": "Positive affirmations", "time": "07:30", "type": "event", "duration": "5 minutes"}}
+{"input": "Позитивные аффирмации в 7:30", "output": {"title": "Позитивные аффирмации", "time": "07:30", "type": "event", "duration": "5 минут"}}
+{"input": "English literature essay Tuesday", "output": {"title": "English literature essay", "date": "Tuesday", "type": "event", "reminder": "2 days before"}}
+{"input": "Эссе по английской литературе во вторник", "output": {"title": "Эссе по английской литературе", "date": "вторник", "type": "event", "reminder": "2 days before"}}
+{"input": "Client email responses 4:30-5:30", "output": {"title": "Client email responses", "time": "16:30", "type": "event", "duration": "1 hour"}}
+{"input": "Ответы на письма клиентов 16:30-17:30", "output": {"title": "Ответы на письма клиентов", "time": "16:30", "type": "event", "duration": "1 час"}}

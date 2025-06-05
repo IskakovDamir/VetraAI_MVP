@@ -1,0 +1,242 @@
+{"input": "Remind me to send the report tomorrow", "output": {"title": "Send the report", "date": "tomorrow", "type": "event", "reminder": "at time"}}
+{"input": "Напомни позвонить маме за день до поездки", "output": {"title": "Позвонить маме", "date": "day before trip", "type": "event", "reminder": "24 hours before"}}
+{"input": "Set reminder to call dentist at 9 AM", "output": {"title": "Call dentist", "date": "today", "time": "09:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to buy groceries after work", "output": {"title": "Buy groceries", "date": "today", "time": "17:00", "type": "event", "reminder": "at time"}}
+{"input": "Deadline for project submission is Friday", "output": {"title": "Project submission deadline", "date": "Friday", "type": "event", "reminder": "24 hours before"}}
+{"input": "Напомни забрать химчистку в четверг", "output": {"title": "Забрать химчистку", "date": "четверг", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with client tomorrow afternoon", "output": {"title": "Follow up with client", "date": "tomorrow", "time": "14:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Remind me to take medicine at 8 PM", "output": {"title": "Take medicine", "date": "today", "time": "20:00", "type": "event", "reminder": "10 minutes before"}}
+{"input": "Deadline reminder for tax documents next Monday", "output": {"title": "Tax documents deadline", "date": "next Monday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Напомни подготовить презентацию к завтрашней встрече", "output": {"title": "Подготовить презентацию", "date": "today", "type": "event", "reminder": "2 hours before"}}
+{"input": "Set alarm to wake up at 6 AM tomorrow", "output": {"title": "Wake up", "date": "tomorrow", "time": "06:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to check emails before leaving office", "output": {"title": "Check emails", "date": "today", "time": "17:30", "type": "event", "reminder": "15 minutes before"}}
+{"input": "Follow up on job application next week", "output": {"title": "Follow up on job application", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни оплатить счета до конца месяца", "output": {"title": "Оплатить счета", "date": "end of month", "type": "event", "reminder": "3 days before"}}
+{"input": "Remind me to confirm restaurant reservation", "output": {"title": "Confirm restaurant reservation", "date": "today", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for insurance renewal is next Friday", "output": {"title": "Insurance renewal deadline", "date": "next Friday", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни позвонить врачу утром", "output": {"title": "Позвонить врачу", "date": "tomorrow", "time": "09:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Set reminder to backup files tonight", "output": {"title": "Backup files", "date": "today", "time": "22:00", "type": "event", "reminder": "at time"}}
+{"input": "Follow up with team about project status", "output": {"title": "Follow up with team about project status", "date": "today", "type": "event", "reminder": "1 hour before"}}
+{"input": "Remind me to buy birthday gift for Sarah", "output": {"title": "Buy birthday gift for Sarah", "date": "this week", "type": "event", "reminder": "2 days before"}}
+{"input": "Напомни сдать отчет до пятницы", "output": {"title": "Сдать отчет", "date": "пятница", "type": "event", "reminder": "24 hours before"}}
+{"input": "Deadline for visa application is tomorrow", "output": {"title": "Visa application deadline", "date": "tomorrow", "type": "event", "reminder": "4 hours before"}}
+{"input": "Remind me to water plants this evening", "output": {"title": "Water plants", "date": "today", "time": "18:00", "type": "event", "reminder": "at time"}}
+{"input": "Follow up with landlord about repairs", "output": {"title": "Follow up with landlord about repairs", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Напомни купить продукты на ужин", "output": {"title": "Купить продукты на ужин", "date": "сегодня", "time": "16:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Set reminder to charge phone before trip", "output": {"title": "Charge phone", "date": "before trip", "type": "event", "reminder": "2 hours before"}}
+{"input": "Remind me to submit expense report by Wednesday", "output": {"title": "Submit expense report", "date": "Wednesday", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for course registration ends today", "output": {"title": "Course registration deadline", "date": "today", "type": "event", "reminder": "2 hours before"}}
+{"input": "Напомни забронировать столик в ресторане", "output": {"title": "Забронировать столик в ресторане", "date": "сегодня", "type": "event", "reminder": "1 hour before"}}
+{"input": "Follow up with client about contract details", "output": {"title": "Follow up with client about contract", "date": "tomorrow", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Remind me to pick up dry cleaning on Saturday", "output": {"title": "Pick up dry cleaning", "date": "Saturday", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline reminder for quarterly taxes", "output": {"title": "Quarterly taxes deadline", "date": "March 15", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни подготовиться к собеседованию", "output": {"title": "Подготовиться к собеседованию", "date": "завтра", "type": "event", "reminder": "3 hours before"}}
+{"input": "Set reminder to lock doors before leaving", "output": {"title": "Lock doors", "date": "before leaving", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to send thank you email after meeting", "output": {"title": "Send thank you email", "date": "after meeting", "type": "event", "reminder": "1 hour after"}}
+{"input": "Follow up on payment status next Tuesday", "output": {"title": "Follow up on payment status", "date": "next Tuesday", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить почту перед сном", "output": {"title": "Проверить почту", "date": "сегодня", "time": "22:30", "type": "event", "reminder": "at time"}}
+{"input": "Deadline for book return is this Friday", "output": {"title": "Book return deadline", "date": "Friday", "type": "event", "reminder": "2 days before"}}
+{"input": "Remind me to call mom tonight", "output": {"title": "Call mom", "date": "today", "time": "19:00", "type": "event", "reminder": "15 minutes before"}}
+{"input": "Set reminder to update LinkedIn profile", "output": {"title": "Update LinkedIn profile", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни отправить приглашения на встречу", "output": {"title": "Отправить приглашения на встречу", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with supplier about delivery", "output": {"title": "Follow up with supplier about delivery", "date": "tomorrow morning", "time": "10:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Remind me to pack lunch for tomorrow", "output": {"title": "Pack lunch", "date": "tonight", "time": "21:00", "type": "event", "reminder": "at time"}}
+{"input": "Deadline for scholarship application is next month", "output": {"title": "Scholarship application deadline", "date": "next month", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни сделать резервную копию данных", "output": {"title": "Сделать резервную копию данных", "date": "сегодня вечером", "time": "20:00", "type": "event", "reminder": "at time"}}
+{"input": "Set reminder to feed cat at 7 AM", "output": {"title": "Feed cat", "date": "tomorrow", "time": "07:00", "type": "event", "reminder": "5 minutes before"}}
+{"input": "Remind me to confirm flight details", "output": {"title": "Confirm flight details", "date": "day before flight", "type": "event", "reminder": "24 hours before"}}
+{"input": "Follow up with bank about loan application", "output": {"title": "Follow up with bank about loan", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни купить подарок на день рождения", "output": {"title": "Купить подарок на день рождения", "date": "эта неделя", "type": "event", "reminder": "3 days before"}}
+{"input": "Deadline for project proposal is Monday", "output": {"title": "Project proposal deadline", "date": "Monday", "type": "event", "reminder": "48 hours before"}}
+{"input": "Remind me to schedule doctor appointment", "output": {"title": "Schedule doctor appointment", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to turn off all lights", "output": {"title": "Turn off all lights", "date": "before bed", "time": "23:00", "type": "event", "reminder": "at time"}}
+{"input": "Напомни подписать документы завтра", "output": {"title": "Подписать документы", "date": "завтра", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with HR about vacation request", "output": {"title": "Follow up with HR about vacation", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Remind me to check tire pressure before road trip", "output": {"title": "Check tire pressure", "date": "before road trip", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for credit card payment is 15th", "output": {"title": "Credit card payment deadline", "date": "15th", "type": "event", "reminder": "3 days before"}}
+{"input": "Напомни позвонить страховой компании", "output": {"title": "Позвонить страховой компании", "date": "завтра", "time": "11:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Set reminder to empty trash bins", "output": {"title": "Empty trash bins", "date": "Thursday morning", "time": "07:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to review contract before signing", "output": {"title": "Review contract", "date": "before signing", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with customer service about refund", "output": {"title": "Follow up about refund", "date": "next Monday", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни сделать заказ продуктов онлайн", "output": {"title": "Сделать заказ продуктов онлайн", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for apartment rent is 1st of month", "output": {"title": "Apartment rent deadline", "date": "1st of month", "type": "event", "reminder": "5 days before"}}
+{"input": "Remind me to submit timesheet by Friday", "output": {"title": "Submit timesheet", "date": "Friday", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to check weather before leaving", "output": {"title": "Check weather", "date": "before leaving", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Напомни записаться к парикмахеру", "output": {"title": "Записаться к парикмахеру", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with mentor about career advice", "output": {"title": "Follow up with mentor", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to renew gym membership", "output": {"title": "Renew gym membership", "date": "end of month", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for final exam registration", "output": {"title": "Final exam registration deadline", "date": "next Friday", "type": "event", "reminder": "3 days before"}}
+{"input": "Напомни купить билеты на концерт", "output": {"title": "Купить билеты на концерт", "date": "сегодня", "type": "event", "reminder": "1 hour before"}}
+{"input": "Set reminder to clean house before guests arrive", "output": {"title": "Clean house", "date": "before guests arrive", "type": "event", "reminder": "2 hours before"}}
+{"input": "Remind me to send birthday wishes to John", "output": {"title": "Send birthday wishes to John", "date": "John's birthday", "type": "event", "reminder": "1 hour before"}}
+{"input": "Follow up with contractor about quote", "output": {"title": "Follow up with contractor", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить баланс банковского счета", "output": {"title": "Проверить баланс счета", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for library fine payment", "output": {"title": "Library fine payment deadline", "date": "this Monday", "type": "event", "reminder": "2 days before"}}
+{"input": "Remind me to backup computer files", "output": {"title": "Backup computer files", "date": "Sunday", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to check passport expiration", "output": {"title": "Check passport expiration", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни заказать торт на день рождения", "output": {"title": "Заказать торт на день рождения", "date": "за неделю до дня рождения", "type": "event", "reminder": "3 days before"}}
+{"input": "Follow up with publisher about manuscript", "output": {"title": "Follow up with publisher", "date": "next month", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to change smoke detector batteries", "output": {"title": "Change smoke detector batteries", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for voting registration", "output": {"title": "Voting registration deadline", "date": "October 15", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни отправить резюме в компанию", "output": {"title": "Отправить резюме", "date": "завтра", "type": "event", "reminder": "2 hours before"}}
+{"input": "Set reminder to water garden plants", "output": {"title": "Water garden plants", "date": "every other day", "time": "08:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to confirm hotel booking", "output": {"title": "Confirm hotel booking", "date": "week before trip", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with teacher about grades", "output": {"title": "Follow up with teacher", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Напомни подготовить документы для налоговой", "output": {"title": "Подготовить документы для налоговой", "date": "до конца месяца", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for health insurance enrollment", "output": {"title": "Health insurance enrollment deadline", "date": "November 30", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to clean out email inbox", "output": {"title": "Clean out email inbox", "date": "Friday afternoon", "time": "15:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Set reminder to check car oil level", "output": {"title": "Check car oil level", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни записаться на прием к стоматологу", "output": {"title": "Записаться к стоматологу", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with client about project feedback", "output": {"title": "Follow up about project feedback", "date": "next Tuesday", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to organize desk before Monday", "output": {"title": "Organize desk", "date": "Sunday", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for scholarship essay submission", "output": {"title": "Scholarship essay deadline", "date": "December 1", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни купить новые батарейки для пульта", "output": {"title": "Купить батарейки для пульта", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Set reminder to update antivirus software", "output": {"title": "Update antivirus software", "date": "tonight", "time": "21:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to call veterinarian for appointment", "output": {"title": "Call veterinarian", "date": "tomorrow morning", "time": "09:30", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Follow up with realtor about house viewing", "output": {"title": "Follow up with realtor", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить срок действия водительских прав", "output": {"title": "Проверить срок действия прав", "date": "этот месяц", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for conference abstract submission", "output": {"title": "Conference abstract deadline", "date": "January 15", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to schedule oil change appointment", "output": {"title": "Schedule oil change", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check flight status", "output": {"title": "Check flight status", "date": "day of flight", "time": "06:00", "type": "event", "reminder": "at time"}}
+{"input": "Напомни купить новую зубную щетку", "output": {"title": "Купить новую зубную щетку", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with accountant about tax returns", "output": {"title": "Follow up with accountant", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to submit annual review forms", "output": {"title": "Submit annual review forms", "date": "end of month", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for student loan payment", "output": {"title": "Student loan payment deadline", "date": "20th of month", "type": "event", "reminder": "5 days before"}}
+{"input": "Напомни заменить фильтр в кондиционере", "output": {"title": "Заменить фильтр в кондиционере", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to defrost freezer", "output": {"title": "Defrost freezer", "date": "Saturday morning", "time": "09:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to check subscription renewals", "output": {"title": "Check subscription renewals", "date": "end of month", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with editor about article status", "output": {"title": "Follow up with editor", "date": "next Friday", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни продлить абонемент в спортзал", "output": {"title": "Продлить абонемент в спортзал", "date": "до конца месяца", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for research proposal submission", "output": {"title": "Research proposal deadline", "date": "March 30", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to clean keyboard and mouse", "output": {"title": "Clean keyboard and mouse", "date": "Friday", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to check smoke alarm", "output": {"title": "Check smoke alarm", "date": "first Sunday of month", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни записаться на курсы вождения", "output": {"title": "Записаться на курсы вождения", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with insurance company about claim", "output": {"title": "Follow up about insurance claim", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Remind me to organize closet this weekend", "output": {"title": "Organize closet", "date": "Saturday", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for property tax payment", "output": {"title": "Property tax payment deadline", "date": "December 31", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни купить подарочные карты", "output": {"title": "Купить подарочные карты", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Set reminder to check tire tread depth", "output": {"title": "Check tire tread depth", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to update emergency contact info", "output": {"title": "Update emergency contacts", "date": "this week", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with landlord about lease renewal", "output": {"title": "Follow up about lease renewal", "date": "next month", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни проверить остаток на транспортной карте", "output": {"title": "Проверить остаток на транспортной карте", "date": "понедельник утром", "time": "08:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Deadline for annual membership renewal", "output": {"title": "Annual membership renewal deadline", "date": "end of year", "type": "event", "reminder": "1 month before"}}
+{"input": "Remind me to schedule home maintenance", "output": {"title": "Schedule home maintenance", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check expiration dates in fridge", "output": {"title": "Check fridge expiration dates", "date": "Sunday evening", "time": "19:00", "type": "event", "reminder": "at time"}}
+{"input": "Напомни отправить поздравления с праздником", "output": {"title": "Отправить поздравления с праздником", "date": "день до праздника", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with doctor about test results", "output": {"title": "Follow up about test results", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to backup phone photos", "output": {"title": "Backup phone photos", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for grant application submission", "output": {"title": "Grant application deadline", "date": "February 28", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни проверить почтовый ящик", "output": {"title": "Проверить почтовый ящик", "date": "сегодня вечером", "time": "18:00", "type": "event", "reminder": "at time"}}
+{"input": "Set reminder to change air freshener", "output": {"title": "Change air freshener", "date": "this week", "type": "event", "reminder": "2 days before"}}
+{"input": "Remind me to confirm babysitter for tonight", "output": {"title": "Confirm babysitter", "date": "today", "time": "16:00", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with travel agent about booking", "output": {"title": "Follow up with travel agent", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Напомни купить новый зонт", "output": {"title": "Купить новый зонт", "date": "эта неделя", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for online course completion", "output": {"title": "Online course completion deadline", "date": "end of month", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to schedule eye exam", "output": {"title": "Schedule eye exam", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check weather forecast", "output": {"title": "Check weather forecast", "date": "Sunday evening", "time": "20:00", "type": "event", "reminder": "at time"}}
+{"input": "Напомни подготовить одежду на завтра", "output": {"title": "Подготовить одежду на завтра", "date": "сегодня вечером", "time": "22:00", "type": "event", "reminder": "at time"}}
+{"input": "Follow up with supervisor about promotion", "output": {"title": "Follow up about promotion", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to clean bathroom this weekend", "output": {"title": "Clean bathroom", "date": "Saturday", "type": "event", "reminder": "2 hours before"}}
+{"input": "Deadline for jury duty response", "output": {"title": "Jury duty response deadline", "date": "within 10 days", "type": "event", "reminder": "3 days before"}}
+{"input": "Напомни записаться на прием к косметологу", "output": {"title": "Записаться к косметологу", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Set reminder to check car registration expiration", "output": {"title": "Check car registration expiration", "date": "this month", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to purchase concert tickets", "output": {"title": "Purchase concert tickets", "date": "today", "type": "event", "reminder": "1 hour before"}}
+{"input": "Follow up with mechanic about car repair", "output": {"title": "Follow up about car repair", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Напомни обновить резюме", "output": {"title": "Обновить резюме", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for credit report review", "output": {"title": "Credit report review deadline", "date": "quarterly", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to organize digital photos", "output": {"title": "Organize digital photos", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Set reminder to check blood pressure", "output": {"title": "Check blood pressure", "date": "weekly", "time": "09:00", "type": "event", "reminder": "15 minutes before"}}
+{"input": "Напомни купить новые тапочки", "output": {"title": "Купить новые тапочки", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with IT about password reset", "output": {"title": "Follow up about password reset", "date": "tomorrow morning", "time": "10:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Remind me to submit monthly report", "output": {"title": "Submit monthly report", "date": "end of month", "type": "event", "reminder": "2 days before"}}
+{"input": "Deadline for apartment deposit refund claim", "output": {"title": "Apartment deposit refund deadline", "date": "30 days after move-out", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни позвонить электрику", "output": {"title": "Позвонить электрику", "date": "завтра утром", "time": "09:00", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Set reminder to clean out car", "output": {"title": "Clean out car", "date": "Saturday morning", "time": "10:00", "type": "event", "reminder": "at time"}}
+{"input": "Remind me to check bank statement", "output": {"title": "Check bank statement", "date": "monthly", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with lawyer about case status", "output": {"title": "Follow up with lawyer", "date": "next Friday", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни купить новую подушку", "output": {"title": "Купить новую подушку", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for course withdrawal", "output": {"title": "Course withdrawal deadline", "date": "mid-semester", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to clean windows this spring", "output": {"title": "Clean windows", "date": "spring", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to change phone case", "output": {"title": "Change phone case", "date": "this week", "type": "event", "reminder": "2 days before"}}
+{"input": "Напомни записаться на маникюр", "output": {"title": "Записаться на маникюр", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with publisher about royalties", "output": {"title": "Follow up about royalties", "date": "quarterly", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to organize spice rack", "output": {"title": "Organize spice rack", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for health insurance claim", "output": {"title": "Health insurance claim deadline", "date": "90 days after service", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни купить корм для собаки", "output": {"title": "Купить корм для собаки", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Set reminder to check home security system", "output": {"title": "Check security system", "date": "monthly", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to schedule carpet cleaning", "output": {"title": "Schedule carpet cleaning", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with dentist about treatment plan", "output": {"title": "Follow up with dentist", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить давление в шинах", "output": {"title": "Проверить давление в шинах", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for utility bill payment", "output": {"title": "Utility bill payment deadline", "date": "25th of month", "type": "event", "reminder": "5 days before"}}
+{"input": "Remind me to clean out garage", "output": {"title": "Clean out garage", "date": "this spring", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check smoke detector batteries", "output": {"title": "Check smoke detector batteries", "date": "twice yearly", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни купить новые наушники", "output": {"title": "Купить новые наушники", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with therapist about appointment", "output": {"title": "Follow up with therapist", "date": "tomorrow", "type": "event", "reminder": "2 hours before"}}
+{"input": "Remind me to organize photo albums", "output": {"title": "Organize photo albums", "date": "this winter", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for tax document collection", "output": {"title": "Tax document collection deadline", "date": "January 31", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни заменить батарейки в часах", "output": {"title": "Заменить батарейки в часах", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Set reminder to clean computer screen", "output": {"title": "Clean computer screen", "date": "weekly", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to check credit score", "output": {"title": "Check credit score", "date": "quarterly", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with plumber about estimate", "output": {"title": "Follow up with plumber", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни купить новые полотенца", "output": {"title": "Купить новые полотенца", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for magazine subscription renewal", "output": {"title": "Magazine subscription renewal deadline", "date": "annually", "type": "event", "reminder": "1 month before"}}
+{"input": "Remind me to organize kitchen cabinets", "output": {"title": "Organize kitchen cabinets", "date": "this month", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check website backup", "output": {"title": "Check website backup", "date": "weekly", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни записаться на прием к окулисту", "output": {"title": "Записаться к окулисту", "date": "этот месяц", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with contractor about timeline", "output": {"title": "Follow up about timeline", "date": "next Monday", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to clean out inbox folders", "output": {"title": "Clean out inbox folders", "date": "monthly", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for conference paper submission", "output": {"title": "Conference paper deadline", "date": "April 15", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни купить новый календарь", "output": {"title": "Купить новый календарь", "date": "декабрь", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check car fluids", "output": {"title": "Check car fluids", "date": "monthly", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to schedule annual physical", "output": {"title": "Schedule annual physical", "date": "this year", "type": "event", "reminder": "1 month before"}}
+{"input": "Follow up with electrician about wiring", "output": {"title": "Follow up with electrician", "date": "tomorrow", "type": "event", "reminder": "2 hours before"}}
+{"input": "Напомни проверить срок годности лекарств", "output": {"title": "Проверить срок годности лекарств", "date": "ежемесячно", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for passport renewal application", "output": {"title": "Passport renewal deadline", "date": "6 months before expiration", "type": "event", "reminder": "2 months before"}}
+{"input": "Remind me to clean out attic", "output": {"title": "Clean out attic", "date": "this summer", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Set reminder to check fire extinguisher", "output": {"title": "Check fire extinguisher", "date": "annually", "type": "event", "reminder": "1 month before"}}
+{"input": "Напомни купить подарок учителю", "output": {"title": "Купить подарок учителю", "date": "перед концом учебного года", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with accountant about deductions", "output": {"title": "Follow up about deductions", "date": "before tax season", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to organize basement storage", "output": {"title": "Organize basement storage", "date": "this fall", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for jury duty exemption request", "output": {"title": "Jury duty exemption deadline", "date": "2 weeks before service", "type": "event", "reminder": "1 week before"}}
+{"input": "Напомни заказать новые линзы", "output": {"title": "Заказать новые линзы", "date": "этот месяц", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to change HVAC filter", "output": {"title": "Change HVAC filter", "date": "quarterly", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to check investment portfolio", "output": {"title": "Check investment portfolio", "date": "quarterly", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with real estate agent about listing", "output": {"title": "Follow up about listing", "date": "next week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни купить новые простыни", "output": {"title": "Купить новые простыни", "date": "эти выходные", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for vehicle inspection renewal", "output": {"title": "Vehicle inspection deadline", "date": "annually", "type": "event", "reminder": "1 month before"}}
+{"input": "Remind me to organize digital files", "output": {"title": "Organize digital files", "date": "monthly", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check home insurance policy", "output": {"title": "Check home insurance policy", "date": "annually", "type": "event", "reminder": "2 months before"}}
+{"input": "Напомни записаться на массаж", "output": {"title": "Записаться на массаж", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Follow up with vendor about delivery date", "output": {"title": "Follow up about delivery", "date": "tomorrow", "type": "event", "reminder": "1 hour before"}}
+{"input": "Remind me to clean out medicine cabinet", "output": {"title": "Clean out medicine cabinet", "date": "twice yearly", "type": "event", "reminder": "1 week before"}}
+{"input": "Deadline for scholarship essay revision", "output": {"title": "Scholarship essay revision deadline", "date": "1 week before submission", "type": "event", "reminder": "3 days before"}}
+{"input": "Напомни купить новую сумку", "output": {"title": "Купить новую сумку", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Set reminder to check water heater", "output": {"title": "Check water heater", "date": "annually", "type": "event", "reminder": "1 month before"}}
+{"input": "Remind me to schedule furnace maintenance", "output": {"title": "Schedule furnace maintenance", "date": "before winter", "type": "event", "reminder": "1 month before"}}
+{"input": "Follow up with caterer about menu options", "output": {"title": "Follow up about menu", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить состояние крыши", "output": {"title": "Проверить состояние крыши", "date": "весной", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Deadline for course evaluation submission", "output": {"title": "Course evaluation deadline", "date": "end of semester", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to organize tool shed", "output": {"title": "Organize tool shed", "date": "this spring", "type": "event", "reminder": "1 week before"}}
+{"input": "Set reminder to check car warranty expiration", "output": {"title": "Check car warranty expiration", "date": "annually", "type": "event", "reminder": "3 months before"}}
+{"input": "Напомни купить новую зубную пасту", "output": {"title": "Купить новую зубную пасту", "date": "сегодня", "type": "event", "reminder": "2 hours before"}}
+{"input": "Follow up with wedding planner about details", "output": {"title": "Follow up with wedding planner", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to clean out car glove compartment", "output": {"title": "Clean glove compartment", "date": "this weekend", "type": "event", "reminder": "1 day before"}}
+{"input": "Deadline for student financial aid application", "output": {"title": "Financial aid application deadline", "date": "March 1", "type": "event", "reminder": "1 month before"}}
+{"input": "Напомни заменить щетки стеклоочистителей", "output": {"title": "Заменить щетки стеклоочистителей", "date": "перед зимой", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Set reminder to check appliance warranties", "output": {"title": "Check appliance warranties", "date": "annually", "type": "event", "reminder": "2 months before"}}
+{"input": "Remind me to schedule gutter cleaning", "output": {"title": "Schedule gutter cleaning", "date": "before fall", "type": "event", "reminder": "1 month before"}}
+{"input": "Follow up with decorator about timeline", "output": {"title": "Follow up with decorator", "date": "next Tuesday", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни купить новую куртку", "output": {"title": "Купить новую куртку", "date": "перед зимой", "type": "event", "reminder": "1 month before"}}
+{"input": "Deadline for employee benefits enrollment", "output": {"title": "Benefits enrollment deadline", "date": "open enrollment period", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Remind me to organize holiday decorations", "output": {"title": "Organize holiday decorations", "date": "after holidays", "type": "event", "reminder": "1 week after"}}
+{"input": "Set reminder to check lawn mower before spring", "output": {"title": "Check lawn mower", "date": "before spring", "type": "event", "reminder": "1 month before"}}
+{"input": "Напомни записаться на прием к диетологу", "output": {"title": "Записаться к диетологу", "date": "этот месяц", "type": "event", "reminder": "1 week before"}}
+{"input": "Follow up with travel insurance company", "output": {"title": "Follow up with travel insurance", "date": "before trip", "type": "event", "reminder": "1 week before"}}
+{"input": "Remind me to clean out dryer vent", "output": {"title": "Clean dryer vent", "date": "annually", "type": "event", "reminder": "1 month before"}}
+{"input": "Deadline for conference registration", "output": {"title": "Conference registration deadline", "date": "early bird deadline", "type": "event", "reminder": "2 weeks before"}}
+{"input": "Напомни купить новую мышку для компьютера", "output": {"title": "Купить новую мышку", "date": "эта неделя", "type": "event", "reminder": "2 days before"}}
+{"input": "Set reminder to check pool chemical levels", "output": {"title": "Check pool chemicals", "date": "weekly during season", "type": "event", "reminder": "1 day before"}}
+{"input": "Remind me to schedule chimney inspection", "output": {"title": "Schedule chimney inspection", "date": "before winter", "type": "event", "reminder": "2 months before"}}
+{"input": "Follow up with loan officer about rates", "output": {"title": "Follow up about loan rates", "date": "this week", "type": "event", "reminder": "1 day before"}}
+{"input": "Напомни проверить аптечку первой помощи", "output": {"title": "Проверить аптечку", "date": "раз в полгода", "type": "event", "reminder": "1 month before"}}
+{"input": "Deadline for retirement contribution", "output": {"title": "Retirement contribution deadline", "date": "end of tax year", "type": "event", "reminder": "2 months before"}}

@@ -1,0 +1,280 @@
+{"input": "Move Friday's call to next Monday at 10", "output": {"title": "Call", "date": "next Monday", "time": "10:00", "type": "event"}}
+{"input": "Перенеси звонок с пятницы на следующий понедельник в 10:00", "output": {"title": "Звонок", "date": "следующий понедельник", "time": "10:00", "type": "event"}}
+{"input": "Cancel the meeting with Alex", "output": {"action": "cancel", "title": "Meeting with Alex", "type": "event"}}
+{"input": "Отмени встречу с Алексом", "output": {"action": "cancel", "title": "Встреча с Алексом", "type": "event"}}
+{"input": "Change the reminder for today's call to 15 min before", "output": {"title": "Call", "date": "today", "type": "event", "reminder": "15 minutes before"}}
+{"input": "Измени напоминание для сегодняшнего звонка на 15 минут до", "output": {"title": "Звонок", "date": "сегодня", "type": "event", "reminder": "15 minutes before"}}
+{"input": "Reschedule tomorrow's dentist appointment to Thursday at 2 PM", "output": {"title": "Dentist appointment", "date": "Thursday", "time": "14:00", "type": "event"}}
+{"input": "Перенеси завтрашний прием у стоматолога на четверг в 14:00", "output": {"title": "Прием у стоматолога", "date": "четверг", "time": "14:00", "type": "event"}}
+{"input": "Cancel lunch with Sarah today", "output": {"action": "cancel", "title": "Lunch with Sarah", "date": "today", "type": "event"}}
+{"input": "Отмени обед с Сарой сегодня", "output": {"action": "cancel", "title": "Обед с Сарой", "date": "сегодня", "type": "event"}}
+{"input": "Update the location for Tuesday's meeting to Conference Room B", "output": {"title": "Meeting", "date": "Tuesday", "type": "event", "location": "Conference Room B"}}
+{"input": "Обнови локацию для встречи во вторник на Конференц-зал Б", "output": {"title": "Встреча", "date": "вторник", "type": "event", "location": "Конференц-зал Б"}}
+{"input": "Move the gym session from 6 PM to 7 PM", "output": {"title": "Gym session", "time": "19:00", "type": "event"}}
+{"input": "Перенеси тренировку с 18:00 на 19:00", "output": {"title": "Тренировка", "time": "19:00", "type": "event"}}
+{"input": "Cancel all meetings on Friday", "output": {"action": "cancel", "title": "All meetings", "date": "Friday", "type": "event"}}
+{"input": "Отмени все встречи в пятницу", "output": {"action": "cancel", "title": "Все встречи", "date": "пятница", "type": "event"}}
+{"input": "Change tomorrow's presentation time from 10 AM to 11:30 AM", "output": {"title": "Presentation", "date": "tomorrow", "time": "11:30", "type": "event"}}
+{"input": "Измени время завтрашней презентации с 10:00 на 11:30", "output": {"title": "Презентация", "date": "завтра", "time": "11:30", "type": "event"}}
+{"input": "Postpone the client call to next week", "output": {"title": "Client call", "date": "next week", "type": "event"}}
+{"input": "Отложи звонок клиенту на следующую неделю", "output": {"title": "Звонок клиенту", "date": "следующая неделя", "type": "event"}}
+{"input": "Cancel the team building event", "output": {"action": "cancel", "title": "Team building event", "type": "event"}}
+{"input": "Отмени тимбилдинг", "output": {"action": "cancel", "title": "Тимбилдинг", "type": "event"}}
+{"input": "Move Monday's interview to Wednesday at 3 PM", "output": {"title": "Interview", "date": "Wednesday", "time": "15:00", "type": "event"}}
+{"input": "Перенеси интервью с понедельника на среду в 15:00", "output": {"title": "Интервью", "date": "среда", "time": "15:00", "type": "event"}}
+{"input": "Update the reminder for the board meeting to 1 hour before", "output": {"title": "Board meeting", "type": "event", "reminder": "1 hour before"}}
+{"input": "Обнови напоминание для заседания совета на 1 час до", "output": {"title": "Заседание совета", "type": "event", "reminder": "1 hour before"}}
+{"input": "Cancel tonight's dinner reservation", "output": {"action": "cancel", "title": "Dinner reservation", "date": "tonight", "type": "event"}}
+{"input": "Отмени бронь на ужин сегодня вечером", "output": {"action": "cancel", "title": "Бронь на ужин", "date": "сегодня вечером", "type": "event"}}
+{"input": "Reschedule the doctor visit from 2 PM to 4 PM", "output": {"title": "Doctor visit", "time": "16:00", "type": "event"}}
+{"input": "Перенеси визит к врачу с 14:00 на 16:00", "output": {"title": "Визит к врачу", "time": "16:00", "type": "event"}}
+{"input": "Change the meeting location to Zoom", "output": {"title": "Meeting", "type": "event", "location": "Zoom"}}
+{"input": "Измени место встречи на Zoom", "output": {"title": "Встреча", "type": "event", "location": "Zoom"}}
+{"input": "Cancel Wednesday's piano lesson", "output": {"action": "cancel", "title": "Piano lesson", "date": "Wednesday", "type": "event"}}
+{"input": "Отмени урок фортепиано в среду", "output": {"action": "cancel", "title": "Урок фортепиано", "date": "среда", "type": "event"}}
+{"input": "Move the conference call 30 minutes earlier", "output": {"title": "Conference call", "type": "event"}}
+{"input": "Перенеси конференц-звонок на 30 минут раньше", "output": {"title": "Конференц-звонок", "type": "event"}}
+{"input": "Update the participants for tomorrow's meeting to include John", "output": {"title": "Meeting", "date": "tomorrow", "type": "event", "participants": ["John"]}}
+{"input": "Добавь Джона к участникам завтрашней встречи", "output": {"title": "Встреча", "date": "завтра", "type": "event", "participants": ["Джон"]}}
+{"input": "Cancel the yoga class this evening", "output": {"action": "cancel", "title": "Yoga class", "date": "this evening", "type": "event"}}
+{"input": "Отмени урок йоги сегодня вечером", "output": {"action": "cancel", "title": "Урок йоги", "date": "сегодня вечером", "type": "event"}}
+{"input": "Reschedule Saturday's brunch to Sunday at 11 AM", "output": {"title": "Brunch", "date": "Sunday", "time": "11:00", "type": "event"}}
+{"input": "Перенеси субботний бранч на воскресенье в 11:00", "output": {"title": "Бранч", "date": "воскресенье", "time": "11:00", "type": "event"}}
+{"input": "Change the reminder for the flight to 3 hours before", "output": {"title": "Flight", "type": "event", "reminder": "3 hours before"}}
+{"input": "Измени напоминание для рейса на 3 часа до", "output": {"title": "Рейс", "type": "event", "reminder": "3 hours before"}}
+{"input": "Cancel all appointments for today", "output": {"action": "cancel", "title": "All appointments", "date": "today", "type": "event"}}
+{"input": "Отмени все встречи на сегодня", "output": {"action": "cancel", "title": "Все встречи", "date": "сегодня", "type": "event"}}
+{"input": "Move Thursday's training to next Monday at 2 PM", "output": {"title": "Training", "date": "next Monday", "time": "14:00", "type": "event"}}
+{"input": "Перенеси четверговый тренинг на следующий понедельник в 14:00", "output": {"title": "Тренинг", "date": "следующий понедельник", "time": "14:00", "type": "event"}}
+{"input": "Update the meeting duration to 2 hours", "output": {"title": "Meeting", "type": "event", "duration": "2 hours"}}
+{"input": "Обнови продолжительность встречи на 2 часа", "output": {"title": "Встреча", "type": "event", "duration": "2 часа"}}
+{"input": "Cancel the coffee meeting with Maria", "output": {"action": "cancel", "title": "Coffee meeting with Maria", "type": "event"}}
+{"input": "Отмени встречу за кофе с Марией", "output": {"action": "cancel", "title": "Встреча за кофе с Марией", "type": "event"}}
+{"input": "Reschedule the dentist from 9 AM to 2 PM", "output": {"title": "Dentist", "time": "14:00", "type": "event"}}
+{"input": "Перенеси стоматолога с 9:00 на 14:00", "output": {"title": "Стоматолог", "time": "14:00", "type": "event"}}
+{"input": "Change the video call platform to Microsoft Teams", "output": {"title": "Video call", "type": "event", "location": "Microsoft Teams"}}
+{"input": "Измени платформу видеозвонка на Microsoft Teams", "output": {"title": "Видеозвонок", "type": "event", "location": "Microsoft Teams"}}
+{"input": "Cancel tomorrow's gym session", "output": {"action": "cancel", "title": "Gym session", "date": "tomorrow", "type": "event"}}
+{"input": "Отмени завтрашнюю тренировку в спортзале", "output": {"action": "cancel", "title": "Тренировка в спортзале", "date": "завтра", "type": "event"}}
+{"input": "Move the lunch meeting from 12 PM to 1:30 PM", "output": {"title": "Lunch meeting", "time": "13:30", "type": "event"}}
+{"input": "Перенеси деловой обед с 12:00 на 13:30", "output": {"title": "Деловой обед", "time": "13:30", "type": "event"}}
+{"input": "Update the reminder for the exam to 2 days before", "output": {"title": "Exam", "type": "event", "reminder": "2 days before"}}
+{"input": "Обнови напоминание для экзамена на 2 дня до", "output": {"title": "Экзамен", "type": "event", "reminder": "2 days before"}}
+{"input": "Cancel Friday's client presentation", "output": {"action": "cancel", "title": "Client presentation", "date": "Friday", "type": "event"}}
+{"input": "Отмени пятничную презентацию клиенту", "output": {"action": "cancel", "title": "Презентация клиенту", "date": "пятница", "type": "event"}}
+{"input": "Postpone the team meeting to next Tuesday at 10 AM", "output": {"title": "Team meeting", "date": "next Tuesday", "time": "10:00", "type": "event"}}
+{"input": "Отложи командную встречу на следующий вторник в 10:00", "output": {"title": "Командная встреча", "date": "следующий вторник", "time": "10:00", "type": "event"}}
+{"input": "Change the interview location to Room 205", "output": {"title": "Interview", "type": "event", "location": "Room 205"}}
+{"input": "Измени место интервью на Кабинет 205", "output": {"title": "Интервью", "type": "event", "location": "Кабинет 205"}}
+{"input": "Cancel the weekend workshop", "output": {"action": "cancel", "title": "Weekend workshop", "type": "event"}}
+{"input": "Отмени выходной семинар", "output": {"action": "cancel", "title": "Выходной семинар", "type": "event"}}
+{"input": "Reschedule Monday's call to Thursday at 3:30 PM", "output": {"title": "Call", "date": "Thursday", "time": "15:30", "type": "event"}}
+{"input": "Перенеси понедельничный звонок на четверг в 15:30", "output": {"title": "Звонок", "date": "четверг", "time": "15:30", "type": "event"}}
+{"input": "Update the meeting agenda to include budget review", "output": {"title": "Meeting", "type": "event", "agenda": "budget review"}}
+{"input": "Обнови повестку встречи, включив обзор бюджета", "output": {"title": "Встреча", "type": "event", "agenda": "обзор бюджета"}}
+{"input": "Cancel tonight's book club", "output": {"action": "cancel", "title": "Book club", "date": "tonight", "type": "event"}}
+{"input": "Отмени сегодняшний книжный клуб", "output": {"action": "cancel", "title": "Книжный клуб", "date": "сегодня", "type": "event"}}
+{"input": "Move the doctor appointment 2 hours later", "output": {"title": "Doctor appointment", "type": "event"}}
+{"input": "Перенеси прием у врача на 2 часа позже", "output": {"title": "Прием у врача", "type": "event"}}
+{"input": "Change the project deadline reminder to 1 week before", "output": {"title": "Project deadline", "type": "event", "reminder": "1 week before"}}
+{"input": "Измени напоминание о дедлайне проекта на 1 неделю до", "output": {"title": "Дедлайн проекта", "type": "event", "reminder": "1 week before"}}
+{"input": "Cancel Wednesday's dance class", "output": {"action": "cancel", "title": "Dance class", "date": "Wednesday", "type": "event"}}
+{"input": "Отмени урок танцев в среду", "output": {"action": "cancel", "title": "Урок танцев", "date": "среда", "type": "event"}}
+{"input": "Reschedule the conference from 9 AM to 11 AM", "output": {"title": "Conference", "time": "11:00", "type": "event"}}
+{"input": "Перенеси конференцию с 9:00 на 11:00", "output": {"title": "Конференция", "time": "11:00", "type": "event"}}
+{"input": "Update the Zoom link for tomorrow's meeting", "output": {"title": "Meeting", "date": "tomorrow", "type": "event", "location": "Zoom"}}
+{"input": "Обнови ссылку Zoom для завтрашней встречи", "output": {"title": "Встреча", "date": "завтра", "type": "event", "location": "Zoom"}}
+{"input": "Cancel the quarterly review meeting", "output": {"action": "cancel", "title": "Quarterly review meeting", "type": "event"}}
+{"input": "Отмени квартальную отчетную встречу", "output": {"action": "cancel", "title": "Квартальная отчетная встреча", "type": "event"}}
+{"input": "Move Thursday's seminar to next Friday at 1 PM", "output": {"title": "Seminar", "date": "next Friday", "time": "13:00", "type": "event"}}
+{"input": "Перенеси четверговый семинар на следующую пятницу в 13:00", "output": {"title": "Семинар", "date": "следующая пятница", "time": "13:00", "type": "event"}}
+{"input": "Change the reminder for the birthday party to same day", "output": {"title": "Birthday party", "type": "event", "reminder": "same day"}}
+{"input": "Измени напоминание для дня рождения на тот же день", "output": {"title": "День рождения", "type": "event", "reminder": "same day"}}
+{"input": "Cancel the sales call this afternoon", "output": {"action": "cancel", "title": "Sales call", "date": "this afternoon", "type": "event"}}
+{"input": "Отмени продажный звонок сегодня днем", "output": {"action": "cancel", "title": "Продажный звонок", "date": "сегодня днем", "type": "event"}}
+{"input": "Reschedule the workshop from Tuesday to Wednesday at 2 PM", "output": {"title": "Workshop", "date": "Wednesday", "time": "14:00", "type": "event"}}
+{"input": "Перенеси мастер-класс с вторника на среду в 14:00", "output": {"title": "Мастер-класс", "date": "среда", "time": "14:00", "type": "event"}}
+{"input": "Update the meeting room to Conference Hall", "output": {"title": "Meeting", "type": "event", "location": "Conference Hall"}}
+{"input": "Обнови переговорную на Конференц-зал", "output": {"title": "Встреча", "type": "event", "location": "Конференц-зал"}}
+{"input": "Cancel all events for this weekend", "output": {"action": "cancel", "title": "All events", "date": "this weekend", "type": "event"}}
+{"input": "Отмени все мероприятия на эти выходные", "output": {"action": "cancel", "title": "Все мероприятия", "date": "эти выходные", "type": "event"}}
+{"input": "Move the training session 45 minutes earlier", "output": {"title": "Training session", "type": "event"}}
+{"input": "Перенеси тренинг на 45 минут раньше", "output": {"title": "Тренинг", "type": "event"}}
+{"input": "Change the webinar reminder to 30 minutes before", "output": {"title": "Webinar", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Измени напоминание для вебинара на 30 минут до", "output": {"title": "Вебинар", "type": "event", "reminder": "30 minutes before"}}
+{"input": "Cancel Friday's networking event", "output": {"action": "cancel", "title": "Networking event", "date": "Friday", "type": "event"}}
+{"input": "Отмени пятничное нетворкинг мероприятие", "output": {"action": "cancel", "title": "Нетворкинг мероприятие", "date": "пятница", "type": "event"}}
+{"input": "Postpone the budget meeting to next month", "output": {"title": "Budget meeting", "date": "next month", "type": "event"}}
+{"input": "Отложи бюджетную встречу на следующий месяц", "output": {"title": "Бюджетная встреча", "date": "следующий месяц", "type": "event"}}
+{"input": "Update the phone interview time to 4:30 PM", "output": {"title": "Phone interview", "time": "16:30", "type": "event"}}
+{"input": "Обнови время телефонного интервью на 16:30", "output": {"title": "Телефонное интервью", "time": "16:30", "type": "event"}}
+{"input": "Cancel the haircut appointment", "output": {"action": "cancel", "title": "Haircut appointment", "type": "event"}}
+{"input": "Отмени запись к парикмахеру", "output": {"action": "cancel", "title": "Запись к парикмахеру", "type": "event"}}
+{"input": "Reschedule the client dinner to tomorrow at 7 PM", "output": {"title": "Client dinner", "date": "tomorrow", "time": "19:00", "type": "event"}}
+{"input": "Перенеси ужин с клиентом на завтра в 19:00", "output": {"title": "Ужин с клиентом", "date": "завтра", "time": "19:00", "type": "event"}}
+{"input": "Change the location for the team lunch to Restaurant ABC", "output": {"title": "Team lunch", "type": "event", "location": "Restaurant ABC"}}
+{"input": "Измени место для командного обеда на Ресторан ABC", "output": {"title": "Командный обед", "type": "event", "location": "Ресторан ABC"}}
+{"input": "Cancel Tuesday's yoga session", "output": {"action": "cancel", "title": "Yoga session", "date": "Tuesday", "type": "event"}}
+{"input": "Отмени вторничную йогу", "output": {"action": "cancel", "title": "Йога", "date": "вторник", "type": "event"}}
+{"input": "Move the stand-up meeting from 9 AM to 9:30 AM", "output": {"title": "Stand-up meeting", "time": "09:30", "type": "event"}}
+{"input": "Перенеси планерку с 9:00 на 9:30", "output": {"title": "Планерка", "time": "09:30", "type": "event"}}
+{"input": "Update the deadline reminder to 3 days before", "output": {"title": "Deadline", "type": "event", "reminder": "3 days before"}}
+{"input": "Обнови напоминание о дедлайне на 3 дня до", "output": {"title": "Дедлайн", "type": "event", "reminder": "3 days before"}}
+{"input": "Cancel the weekend trip", "output": {"action": "cancel", "title": "Weekend trip", "type": "event"}}
+{"input": "Отмени поездку на выходные", "output": {"action": "cancel", "title": "Поездка на выходные", "type": "event"}}
+{"input": "Reschedule the product demo to next week Tuesday at 3 PM", "output": {"title": "Product demo", "date": "next week Tuesday", "time": "15:00", "type": "event"}}
+{"input": "Перенеси демо продукта на вторник следующей недели в 15:00", "output": {"title": "Демо продукта", "date": "вторник следующей недели", "time": "15:00", "type": "event"}}
+{"input": "Change the conference call dial-in number", "output": {"title": "Conference call", "type": "event"}}
+{"input": "Измени номер для подключения к конференц-звонку", "output": {"title": "Конференц-звонок", "type": "event"}}
+{"input": "Cancel the morning workout", "output": {"action": "cancel", "title": "Morning workout", "type": "event"}}
+{"input": "Отмени утреннюю тренировку", "output": {"action": "cancel", "title": "Утренняя тренировка", "type": "event"}}
+{"input": "Move the staff meeting to Thursday at 11:30 AM", "output": {"title": "Staff meeting", "date": "Thursday", "time": "11:30", "type": "event"}}
+{"input": "Перенеси совещание персонала на четверг в 11:30", "output": {"title": "Совещание персонала", "date": "четверг", "time": "11:30", "type": "event"}}
+{"input": "Update the meeting notes template", "output": {"title": "Meeting", "type": "event"}}
+{"input": "Обнови шаблон протокола встречи", "output": {"title": "Встреча", "type": "event"}}
+{"input": "Cancel the evening cooking class", "output": {"action": "cancel", "title": "Evening cooking class", "type": "event"}}
+{"input": "Отмени вечерний кулинарный класс", "output": {"action": "cancel", "title": "Вечерний кулинарный класс", "type": "event"}}
+{"input": "Reschedule the board presentation from 2 PM to 4 PM", "output": {"title": "Board presentation", "time": "16:00", "type": "event"}}
+{"input": "Перенеси презентацию совету с 14:00 на 16:00", "output": {"title": "Презентация совету", "time": "16:00", "type": "event"}}
+{"input": "Change the video quality settings for the webinar", "output": {"title": "Webinar", "type": "event"}}
+{"input": "Измени настройки качества видео для вебинара", "output": {"title": "Вебинар", "type": "event"}}
+{"input": "Cancel all Monday appointments", "output": {"action": "cancel", "title": "All Monday appointments", "date": "Monday", "type": "event"}}
+{"input": "Отмени все понедельничные встречи", "output": {"action": "cancel", "title": "Все понедельничные встречи", "date": "понедельник", "type": "event"}}
+{"input": "Move the client review meeting 1 hour later", "output": {"title": "Client review meeting", "type": "event"}}
+{"input": "Перенеси встречу обзора клиента на 1 час позже", "output": {"title": "Встреча обзора клиента", "type": "event"}}
+{"input": "Update the participant list to remove John", "output": {"title": "Meeting", "type": "event"}}
+{"input": "Обнови список участников, убрав Джона", "output": {"title": "Встреча", "type": "event"}}
+{"input": "Cancel the Saturday tennis match", "output": {"action": "cancel", "title": "Tennis match", "date": "Saturday", "type": "event"}}
+{"input": "Отмени субботний теннисный матч", "output": {"action": "cancel", "title": "Теннисный матч", "date": "суббота", "type": "event"}}
+{"input": "Postpone the quarterly planning session to next quarter", "output": {"title": "Quarterly planning session", "date": "next quarter", "type": "event"}}
+{"input": "Отложи квартальную планерку на следующий квартал", "output": {"title": "Квартальная планерка", "date": "следующий квартал", "type": "event"}}
+{"input": "Change the meeting format to virtual", "output": {"title": "Meeting", "type": "event", "format": "virtual"}}
+{"input": "Измени формат встречи на виртуальный", "output": {"title": "Встреча", "type": "event", "format": "виртуальный"}}
+{"input": "Cancel the dentist follow-up", "output": {"action": "cancel", "title": "Dentist follow-up", "type": "event"}}
+{"input": "Отмени повторный визит к стоматологу", "output": {"action": "cancel", "title": "Повторный визит к стоматологу", "type": "event"}}
+{"input": "Reschedule the team dinner to Friday at 6:30 PM", "output": {"title": "Team dinner", "date": "Friday", "time": "18:30", "type": "event"}}
+{"input": "Перенеси командный ужин на пятницу в 18:30", "output": {"title": "Командный ужин", "date": "пятница", "time": "18:30", "type": "event"}}
+{"input": "Update the presentation slides for tomorrow", "output": {"title": "Presentation", "date": "tomorrow", "type": "event"}}
+{"input": "Обнови слайды для завтрашней презентации", "output": {"title": "Презентация", "date": "завтра", "type": "event"}}
+{"input": "Cancel the piano recital", "output": {"action": "cancel", "title": "Piano recital", "type": "event"}}
+{"input": "Отмени фортепианный концерт", "output": {"action": "cancel", "title": "Фортепианный концерт", "type": "event"}}
+{"input": "Move the strategy workshop to next month", "output": {"title": "Strategy workshop", "date": "next month", "type": "event"}}
+{"input": "Перенеси стратегический семинар на следующий месяц", "output": {"title": "Стратегический семинар", "date": "следующий месяц", "type": "event"}}
+{"input": "Change the reminder for the anniversary dinner to 2 hours before", "output": {"title": "Anniversary dinner", "type": "event", "reminder": "2 hours before"}}
+{"input": "Измени напоминание для юбилейного ужина на 2 часа до", "output": {"title": "Юбилейный ужин", "type": "event", "reminder": "2 hours before"}}
+{"input": "Cancel the Thursday language class", "output": {"action": "cancel", "title": "Language class", "date": "Thursday", "type": "event"}}
+{"input": "Отмени четверговый языковой класс", "output": {"action": "cancel", "title": "Языковой класс", "date": "четверг", "type": "event"}}
+{"input": "Reschedule the job interview from 10 AM to 2:30 PM", "output": {"title": "Job interview", "time": "14:30", "type": "event"}}
+{"input": "Перенеси собеседование с 10:00 на 14:30", "output": {"title": "Собеседование", "time": "14:30", "type": "event"}}
+{"input": "Update the access code for the virtual meeting", "output": {"title": "Virtual meeting", "type": "event"}}
+{"input": "Обнови код доступа для виртуальной встречи", "output": {"title": "Виртуальная встреча", "type": "event"}}
+{"input": "Cancel the weekend hiking trip", "output": {"action": "cancel", "title": "Weekend hiking trip", "type": "event"}}
+{"input": "Отмени походы на выходные", "output": {"action": "cancel", "title": "Походы на выходные", "type": "event"}}
+{"input": "Move the department meeting from Room 101 to Room 305", "output": {"title": "Department meeting", "type": "event", "location": "Room 305"}}
+{"input": "Перенеси совещание отдела из кабинета 101 в кабинет 305", "output": {"title": "Совещание отдела", "type": "event", "location": "кабинет 305"}}
+{"input": "Change the workshop duration to 3 hours", "output": {"title": "Workshop", "type": "event", "duration": "3 hours"}}
+{"input": "Измени продолжительность семинара на 3 часа", "output": {"title": "Семинар", "type": "event", "duration": "3 часа"}}
+{"input": "Cancel the Friday movie night", "output": {"action": "cancel", "title": "Movie night", "date": "Friday", "type": "event"}}
+{"input": "Отмени пятничный киновечер", "output": {"action": "cancel", "title": "Киновечер", "date": "пятница", "type": "event"}}
+{"input": "Postpone the performance review to next Tuesday at 3 PM", "output": {"title": "Performance review", "date": "next Tuesday", "time": "15:00", "type": "event"}}
+{"input": "Отложи аттестацию на следующий вторник в 15:00", "output": {"title": "Аттестация", "date": "следующий вторник", "time": "15:00", "type": "event"}}
+{"input": "Update the recording settings for the conference", "output": {"title": "Conference", "type": "event"}}
+{"input": "Обнови настройки записи для конференции", "output": {"title": "Конференция", "type": "event"}}
+{"input": "Cancel the evening meditation session", "output": {"action": "cancel", "title": "Evening meditation session", "type": "event"}}
+{"input": "Отмени вечернюю медитацию", "output": {"action": "cancel", "title": "Вечерняя медитация", "type": "event"}}
+{"input": "Reschedule the client walkthrough to Wednesday at 1 PM", "output": {"title": "Client walkthrough", "date": "Wednesday", "time": "13:00", "type": "event"}}
+{"input": "Перенеси обход с клиентом на среду в 13:00", "output": {"title": "Обход с клиентом", "date": "среда", "time": "13:00", "type": "event"}}
+{"input": "Change the meeting priority to high", "output": {"title": "Meeting", "type": "event", "priority": "high"}}
+{"input": "Измени приоритет встречи на высокий", "output": {"title": "Встреча", "type": "event", "priority": "высокий"}}
+{"input": "Cancel the Sunday family dinner", "output": {"action": "cancel", "title": "Family dinner", "date": "Sunday", "type": "event"}}
+{"input": "Отмени воскресный семейный ужин", "output": {"action": "cancel", "title": "Семейный ужин", "date": "воскресенье", "type": "event"}}
+{"input": "Move the training seminar 2 days later", "output": {"title": "Training seminar", "type": "event"}}
+{"input": "Перенеси обучающий семинар на 2 дня позже", "output": {"title": "Обучающий семинар", "type": "event"}}
+{"input": "Update the invitation list for the party", "output": {"title": "Party", "type": "event"}}
+{"input": "Обнови список приглашенных на вечеринку", "output": {"title": "Вечеринка", "type": "event"}}
+{"input": "Cancel the quarterly budget review", "output": {"action": "cancel", "title": "Quarterly budget review", "type": "event"}}
+{"input": "Отмени квартальный обзор бюджета", "output": {"action": "cancel", "title": "Квартальный обзор бюджета", "type": "event"}}
+{"input": "Reschedule the exit interview to Friday at 4 PM", "output": {"title": "Exit interview", "date": "Friday", "time": "16:00", "type": "event"}}
+{"input": "Перенеси финальное интервью на пятницу в 16:00", "output": {"title": "Финальное интервью", "date": "пятница", "time": "16:00", "type": "event"}}
+{"input": "Change the backup time for the system maintenance", "output": {"title": "System maintenance", "type": "event"}}
+{"input": "Измени время резервного копирования для обслуживания системы", "output": {"title": "Обслуживание системы", "type": "event"}}
+{"input": "Cancel the Wednesday art class", "output": {"action": "cancel", "title": "Art class", "date": "Wednesday", "type": "event"}}
+{"input": "Отмени среднечный урок рисования", "output": {"action": "cancel", "title": "Урок рисования", "date": "среда", "type": "event"}}
+{"input": "Move the board meeting from 10 AM to 2 PM", "output": {"title": "Board meeting", "time": "14:00", "type": "event"}}
+{"input": "Перенеси заседание совета с 10:00 на 14:00", "output": {"title": "Заседание совета", "time": "14:00", "type": "event"}}
+{"input": "Update the security protocol for the event", "output": {"title": "Event", "type": "event"}}
+{"input": "Обнови протокол безопасности для мероприятия", "output": {"title": "Мероприятие", "type": "event"}}
+{"input": "Cancel the Tuesday book reading", "output": {"action": "cancel", "title": "Book reading", "date": "Tuesday", "type": "event"}}
+{"input": "Отмени вторничное чтение книг", "output": {"action": "cancel", "title": "Чтение книг", "date": "вторник", "type": "event"}}
+{"input": "Postpone the vendor meeting to next Friday at 11 AM", "output": {"title": "Vendor meeting", "date": "next Friday", "time": "11:00", "type": "event"}}
+{"input": "Отложи встречу с поставщиком на следующую пятницу в 11:00", "output": {"title": "Встреча с поставщиком", "date": "следующая пятница", "time": "11:00", "type": "event"}}
+{"input": "Change the presentation format to interactive", "output": {"title": "Presentation", "type": "event", "format": "interactive"}}
+{"input": "Измени формат презентации на интерактивный", "output": {"title": "Презентация", "type": "event", "format": "интерактивный"}}
+{"input": "Cancel the morning swimming session", "output": {"action": "cancel", "title": "Morning swimming session", "type": "event"}}
+{"input": "Отмени утреннее плавание", "output": {"action": "cancel", "title": "Утреннее плавание", "type": "event"}}
+{"input": "Reschedule the code review from 3 PM to 5 PM", "output": {"title": "Code review", "time": "17:00", "type": "event"}}
+{"input": "Перенеси ревью кода с 15:00 на 17:00", "output": {"title": "Ревью кода", "time": "17:00", "type": "event"}}
+{"input": "Update the catering order for the conference", "output": {"title": "Conference", "type": "event"}}
+{"input": "Обнови заказ питания для конференции", "output": {"title": "Конференция", "type": "event"}}
+{"input": "Cancel the Thursday therapy session", "output": {"action": "cancel", "title": "Therapy session", "date": "Thursday", "type": "event"}}
+{"input": "Отмени четверговую терапию", "output": {"action": "cancel", "title": "Терапия", "date": "четверг", "type": "event"}}
+{"input": "Move the project kickoff to next Monday at 9:30 AM", "output": {"title": "Project kickoff", "date": "next Monday", "time": "09:30", "type": "event"}}
+{"input": "Перенеси запуск проекта на следующий понедельник в 9:30", "output": {"title": "Запуск проекта", "date": "следующий понедельник", "time": "09:30", "type": "event"}}
+{"input": "Change the attendee limit to 50 people", "output": {"title": "Event", "type": "event", "attendee_limit": "50 people"}}
+{"input": "Измени лимит участников на 50 человек", "output": {"title": "Мероприятие", "type": "event", "attendee_limit": "50 человек"}}
+{"input": "Cancel the Friday networking lunch", "output": {"action": "cancel", "title": "Networking lunch", "date": "Friday", "type": "event"}}
+{"input": "Отмени пятничный нетворкинг обед", "output": {"action": "cancel", "title": "Нетворкинг обед", "date": "пятница", "type": "event"}}
+{"input": "Postpone the annual review meeting by one week", "output": {"title": "Annual review meeting", "type": "event"}}
+{"input": "Отложи годовую отчетную встречу на одну неделю", "output": {"title": "Годовая отчетная встреча", "type": "event"}}
+{"input": "Update the dress code for the gala", "output": {"title": "Gala", "type": "event"}}
+{"input": "Обнови дресс-код для гала", "output": {"title": "Гала", "type": "event"}}
+{"input": "Cancel the Saturday volunteer work", "output": {"action": "cancel", "title": "Volunteer work", "date": "Saturday", "type": "event"}}
+{"input": "Отмени субботнюю волонтерскую работу", "output": {"action": "cancel", "title": "Волонтерская работа", "date": "суббота", "type": "event"}}
+{"input": "Reschedule the team retrospective to Thursday at 4:30 PM", "output": {"title": "Team retrospective", "date": "Thursday", "time": "16:30", "type": "event"}}
+{"input": "Перенеси командную ретроспективу на четверг в 16:30", "output": {"title": "Командная ретроспектива", "date": "четверг", "time": "16:30", "type": "event"}}
+{"input": "Change the meeting type to urgent", "output": {"title": "Meeting", "type": "event", "meeting_type": "urgent"}}
+{"input": "Измени тип встречи на срочный", "output": {"title": "Встреча", "type": "event", "meeting_type": "срочный"}}
+{"input": "Cancel the evening piano lesson", "output": {"action": "cancel", "title": "Evening piano lesson", "type": "event"}}
+{"input": "Отмени вечерний урок фортепиано", "output": {"action": "cancel", "title": "Вечерний урок фортепиано", "type": "event"}}
+{"input": "Move the client call 30 minutes later", "output": {"title": "Client call", "type": "event"}}
+{"input": "Перенеси звонок клиенту на 30 минут позже", "output": {"title": "Звонок клиенту", "type": "event"}}
+{"input": "Update the equipment list for the workshop", "output": {"title": "Workshop", "type": "event"}}
+{"input": "Обнови список оборудования для семинара", "output": {"title": "Семинар", "type": "event"}}
+{"input": "Cancel the Monday staff meeting", "output": {"action": "cancel", "title": "Staff meeting", "date": "Monday", "type": "event"}}
+{"input": "Отмени понедельничное совещание персонала", "output": {"action": "cancel", "title": "Совещание персонала", "date": "понедельник", "type": "event"}}
+{"input": "Reschedule the product launch from 2 PM to 6 PM", "output": {"title": "Product launch", "time": "18:00", "type": "event"}}
+{"input": "Перенеси запуск продукта с 14:00 на 18:00", "output": {"title": "Запуск продукта", "time": "18:00", "type": "event"}}
+{"input": "Change the event theme to casual", "output": {"title": "Event", "type": "event", "theme": "casual"}}
+{"input": "Измени тему мероприятия на неформальную", "output": {"title": "Мероприятие", "type": "event", "theme": "неформальная"}}
+{"input": "Cancel the Wednesday guitar lesson", "output": {"action": "cancel", "title": "Guitar lesson", "date": "Wednesday", "type": "event"}}
+{"input": "Отмени среднечный урок гитары", "output": {"action": "cancel", "title": "Урок гитары", "date": "среда", "type": "event"}}
+{"input": "Postpone the strategy session to next Tuesday at 1:30 PM", "output": {"title": "Strategy session", "date": "next Tuesday", "time": "13:30", "type": "event"}}
+{"input": "Отложи стратегическую сессию на следующий вторник в 13:30", "output": {"title": "Стратегическая сессия", "date": "следующий вторник", "time": "13:30", "type": "event"}}
+{"input": "Update the venue capacity to 200 people", "output": {"title": "Event", "type": "event", "venue_capacity": "200 people"}}
+{"input": "Обнови вместимость места на 200 человек", "output": {"title": "Мероприятие", "type": "event", "venue_capacity": "200 человек"}}
+{"input": "Cancel the Sunday morning jog", "output": {"action": "cancel", "title": "Morning jog", "date": "Sunday", "type": "event"}}
+{"input": "Отмени воскресную утреннюю пробежку", "output": {"action": "cancel", "title": "Утренняя пробежка", "date": "воскресенье", "type": "event"}}
+{"input": "Reschedule the design review from Friday to Monday at 10 AM", "output": {"title": "Design review", "date": "Monday", "time": "10:00", "type": "event"}}
+{"input": "Перенеси дизайн-ревью с пятницы на понедельник в 10:00", "output": {"title": "Дизайн-ревью", "date": "понедельник", "time": "10:00", "type": "event"}}
+{"input": "Change the notification settings for the meeting", "output": {"title": "Meeting", "type": "event"}}
+{"input": "Измени настройки уведомлений для встречи", "output": {"title": "Встреча", "type": "event"}}
+{"input": "Cancel the Tuesday dance rehearsal", "output": {"action": "cancel", "title": "Dance rehearsal", "date": "Tuesday", "type": "event"}}
+{"input": "Отмени вторничную танцевальную репетицию", "output": {"action": "cancel", "title": "Танцевальная репетиция", "date": "вторник", "type": "event"}}
+{"input": "Move the all-hands meeting to Conference Room C", "output": {"title": "All-hands meeting", "type": "event", "location": "Conference Room C"}}
+{"input": "Перенеси общее собрание в Конференц-зал С", "output": {"title": "Общее собрание", "type": "event", "location": "Конференц-зал С"}}
+{"input": "Update the presentation title to include Q4 results", "output": {"title": "Presentation", "type": "event", "presentation_title": "Q4 results"}}
+{"input": "Обнови название презентации, включив результаты 4 квартала", "output": {"title": "Презентация", "type": "event", "presentation_title": "результаты 4 квартала"}}
+{"input": "Cancel the Friday team lunch", "output": {"action": "cancel", "title": "Team lunch", "date": "Friday", "type": "event"}}
+{"input": "Отмени пятничный командный обед", "output": {"action": "cancel", "title": "Командный обед", "date": "пятница", "type": "event"}}
+{"input": "Postpone the customer onboarding session by 2 hours", "output": {"title": "Customer onboarding session", "type": "event"}}
+{"input": "Отложи сессию онбординга клиента на 2 часа", "output": {"title": "Сессия онбординга клиента", "type": "event"}}
+{"input": "Change the webinar platform to Teams", "output": {"title": "Webinar", "type": "event", "location": "Teams"}}
+{"input": "Измени платформу вебинара на Teams", "output": {"title": "Вебинар", "type": "event", "location": "Teams"}}
+{"input": "Cancel the Saturday cooking class", "output": {"action": "cancel", "title": "Cooking class", "date": "Saturday", "type": "event"}}
+{"input": "Отмени субботний кулинарный класс", "output": {"action": "cancel", "title": "Кулинарный класс", "date": "суббота", "type": "event"}}
+{"input": "Reschedule the HR interview to Wednesday at 11:45 AM", "output": {"title": "HR interview", "date": "Wednesday", "time": "11:45", "type": "event"}}
+{"input": "Перенеси HR интервью на среду в 11:45", "output": {"title": "HR интервью", "date": "среда", "time": "11:45", "type": "event"}}
+{"input": "Update the meeting materials for tomorrow's session", "output": {"title": "Meeting", "date": "tomorrow", "type": "event"}}
+{"input": "Обнови материалы для завтрашней встречи", "output": {"title": "Встреча", "date": "завтра", "type": "event"}}
+{"input": "Cancel the evening study group", "output": {"action": "cancel", "title": "Evening study group", "type": "event"}}
+{"input": "Отмени вечернюю учебную группу", "output": {"action": "cancel", "title": "Вечерняя учебная группа", "type": "event"}}
